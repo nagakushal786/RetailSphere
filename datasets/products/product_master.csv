@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_price
+PROD0001,Wireless Headphones,Electronics,193.52
+PROD0002,Denim Jeans,Clothing,475.85
+PROD0003,Non-Stick Pan,Home & Kitchen,368.68
+PROD0004,Water Bottle,Sports,303.34
+PROD0005,History of AI,Books,86.45
+PROD0006,Hair Oil,Beauty,86.44
+PROD0007,Soft Toy,Toys,38.46
+PROD0008,Keyboard,Electronics,434.43
+PROD0009,Cotton T-Shirt,Clothing,304.55
+PROD0010,Blender,Home & Kitchen,356.96
+PROD0011,Resistance Bands,Sports,20.09
+PROD0012,Cookbook,Books,485.26
+PROD0013,Sunscreen,Beauty,417.9
+PROD0014,Board Game,Toys,114.05
+PROD0015,Webcam,Electronics,99.09
+PROD0016,Scarf,Clothing,99.87
+PROD0017,Coffee Maker,Home & Kitchen,159.08
+PROD0018,Dumbbell Set,Sports,267.13
+PROD0019,Fiction Novel,Books,221.65
+PROD0020,Perfume,Beauty,152.7
+PROD0021,Doll,Toys,309.81
+PROD0022,Power Bank,Electronics,78.35
+PROD0023,Cap,Clothing,153.15
+PROD0024,Lamp,Home & Kitchen,189.52
+PROD0025,Yoga Mat,Sports,233.47
+PROD0026,Data Science Handbook,Books,394.74
+PROD0027,Lipstick,Beauty,107.84
+PROD0028,Remote Car,Toys,261.97
+PROD0029,Laptop Stand,Electronics,300.28
+PROD0030,Socks Pack,Clothing,32.76
+PROD0031,Towel Set,Home & Kitchen,307.7
+PROD0032,Jump Rope,Sports,93.56
+PROD0033,Python Programming,Books,41.88
+PROD0034,Shampoo,Beauty,474.95
+PROD0035,Puzzle Set,Toys,483.16
+PROD0036,Bluetooth Speaker,Electronics,406.11
+PROD0037,Winter Jacket,Clothing,159.26
+PROD0038,Cutting Board,Home & Kitchen,57.86
+PROD0039,Soccer Ball,Sports,345.27
+PROD0040,Travel Guide,Books,225.67
+PROD0041,Face Cream,Beauty,69.8
+PROD0042,Action Figure,Toys,252.64
+PROD0043,USB-C Cable,Electronics,26.85
+PROD0044,Running Shoes,Clothing,455.57
+PROD0045,Air Fryer,Home & Kitchen,136.8
+PROD0046,Tennis Racket,Sports,334.64
+PROD0047,Children Story,Books,162.74
+PROD0048,Nail Polish,Beauty,264.83
+PROD0049,Building Blocks,Toys,277.89
+PROD0050,Smartphone Case,Electronics,100.58

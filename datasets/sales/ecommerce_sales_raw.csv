@@ -1,0 +1,1226 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,unit_price,discount_percent,total_amount,city,payment_method,order_status,customer_email,shipping_cost
+ORD000598,2024-11-03,CUST00261,PROD0050,Smartphone Case,Electronics,6,100.58,0,603.48,Fort Worth,,,invalid@,24.95
+ORD000716,,CUST00226,PROD0050,Smartphone Case,Electronics,3,100.58,0,301.74,N/A,,Pending,user150@email.com,0
+ORD000922,2023-12-01, CUST001  ,PROD0011,Resistance Bands,Sports,3,20.09,0,60.27,Phoenix,Cash,Shipped,,-5
+ORD001160,2025-02-15,cust00007,PROD0041,Face Cream,beauty,4,69.8,8.9,254.35,Jacksonville,,Shipped,user73@email.com,
+ORD000416,2023-07-04,CUST00297,PROD0033,Python Programming,Books,6,41.88,10%,251.28,Unknown,paypal,completed,,7.13
+ORD000169,2024-08-02,CUST00196,PROD0035,Puzzle Set,Toys,6,483.16,0,,Fort Worth,UPI,Cancelled,user459@email.com,7.02
+ORD001189,2024-08-29,cust00018,PROD0023,Cap,Clothing,3,153.15,0,,Unknown,Credit Card,N/A,user74@email.com,16.48
+ORD001104,2024-11-20,cust99999,PROD0027,Lipstick,Beauty,1,107.84,0,107.84, chicago,upi,Pending,user300@email.com,0
+ORD000412,2024-01-19,CUST00210,PROD0034,Shampoo,Beauty,6,474.95,4.6,2718.61,Indianapolis,Credit Card,Cancelled,user25@email.com,7.63
+ORD000102,2024-08-15,CUST00214,PROD0032,Jump Rope,Sports,1,93.56,19.7,75.13, chicago,Credit Card,shipped,user370@email.com,21.03
+ORD000241,2024-07-04,CUST00055,PROD0044,Running Shoes,Clothing,5,455.57,15.4,1927.06,Boston,UPI,N/A,user248@email.com,18.94
+ORD000156,2023-07-28,CUST00043,PROD0023,Cap,Clothing,3,153.15,0,459.45,Phoenix,paypal,completed,user428@email.com,16.08
+ORD000356,2023/12/26,CUST00006,PROD0049,Building Blocks,Toys,2,277.89,27.0,405.72,Unknown,upi,Shipped,user83@email.com,19.52
+ORD000334,2025-08-07,cust99999,PROD0014,Board Game,Toys,4,114.05,0,456.2,Phoenix,Cash,Completed,  ,12.61
+ORD000364,2024-07-06,CUST00200,PROD0034,Shampoo,Beauty,2,474.95,0,949.9,Indianapolis,paypal,Cancelled,user254@email.com,9.44
+ORD000050,2024-05-14,CUST00169,PROD0022,Power Bank,Electronics,7,78.35,0,548.45,Los Angeles,Cash,Pending,user148@email.com,18.67
+ORD000782,2023-03-11,CUST00284,PROD0038,Cutting Board,Home & Kitchen,2,57.86,15.3,98.01,Chicago,Cash,Cancelled,user430@email.com,23.44
+ORD000293,2023-02-16,CUST00239,PROD0020,Perfume,Beauty,2,152.7,18.5,248.9,Denver,,,user354@email.com,19.75
+ORD000468,2024-10-13,CUST00099,PROD0048,Nail Polish,Beauty,7,264.83,0,1853.81,San Jose,Debit Card,PENDING,,11.95
+ORD001034,11-Nov-2023,CUST00008,PROD0002,Denim Jeans,,8,475.85,0,3806.8,Boston,Cash on Delivery,N/A,user207@email.com,14.16
+ORD000543,2023-09-24,CUST00114,PROD0040,Travel Guide,Books,4,225.67,0,902.68,Dallas,Debit Card,Cancelled,user297@email.com,2.77
+ORD000129,2024-09-20,CUST00041,PROD0015,Webcam,Electronics,6,990.9000000000001,2.3,0,Fort Worth,,completed,user231@email.com,8.9
+ORD000077,2025-01-26,CUST00287,PROD0018,Dumbbell Set,Sports,6,267.13,0,1602.78,Seattle,Debit Card,,user10@email.com,4.51
+ORD000448,2023-10-22,CUST00127,PROD0017,Coffee Maker,Home & Kitchen,8,159.08,0,1272.64,Charlotte,Net Banking,N/A,user201@email.com,20.25
+ORD000368,,CUST00206,PROD0010,Blender,Home & Kitchen,2,356.96,0,713.92,Indianapolis,credit card,Returned,user@.com,7.5
+ORD001133,2024-01-14,CUST00050,PROD0023,Cap,Clothing,2,153.15,0,306.3,Austin,paypal,Cancelled,user159@email.com,
+ORD000713,2024-12-02,CUST00033 ,PROD0029,Laptop Stand,Electronics,2,300.28,12.1,527.89,Columbus,credit card,N/A,user94@email.com,-5
+ORD000436,2025-08-21,CUST00057,PROD0027,Lipstick,Beauty,4,107.84,24.3,326.54,Phoenix  ,Cash,PENDING,invalid@,3.27
+ORD000839,2024-10-22,CUST00200,PROD0038,Cutting Board,Home & Kitchen,8,57.86,-5,486.02,San Diego,paypal,Returned,user138@email.com,13.05
+ORD000406,2024-02-18,CUST00177,PROD0015,Webcam,Electronics,,99.09,0,,San Antonio,paypal,shipped,user358@email.com,20.3
+ORD001024,2023-07-10,CUST00180,PROD0044,Running Shoes,Clothing,7,455.57,0,3188.99,new york,,cancelled ,user369@email.com,15.38
+ORD000304,2023-03-09,CUST00237,PROD0001,Wireless Headphones,Electronics,7,193.52,4.8,1289.62,,upi,shipped,user291@email.com,13.61
+ORD001009,2023-03-25,CUST00278,PROD0001,Wireless Headphones,Electronics,2,193.52,0,387.04,San Antonio,Debit Card,PENDING,user188@email.com,22.12
+ORD001098,2025-07-15,CUST00175,PROD0035,Puzzle Set,Toys,2,483.16,0,966.32,new york,UPI,PENDING,user398@email.com,15.48
+ORD000295,2025-05-05,CUST00275,PROD0017,Coffee Maker,Home & Kitchen,8,159.08,0,1272.64,Boston,upi,,user107@email.com,8.29
+ORD000905,2023-08-24,CUST00171,PROD0045,Air Fryer,Home & Kitchen,0,136.8,24.0,0.0,N/A,Cash on Delivery,Pending,user450@email.com,24.78
+ORD000707,2023-10-31,CUST00113,PROD0032,Jump Rope,Sports,4,93.56,0,374.24,New York,,shipped,user285@email.com,14.2
+ORD000915,2023-05-22,CUST00270,PROD0043,USB-C Cable,Electronics,2,26.85,0,53.7,Denver,paypal,Returned,,-5
+ORD000869,2024-13-01,CUST00234,PROD0038,Cutting Board,Home & Kitchen,4,57.86,6.6,216.16,Seattle,paypal,Cancelled,user321@email.com,10.61
+ORD000950,2025-04-02,CUST00291,PROD0039,Soccer Ball,Sports,2,345.27,0,690.54,Houston,Debit Card,shipped,user93@email.com,free
+ORD000768,2023-06-17,CUST00025,PROD0050,Smartphone Case,Electronics,2,100.58,0,201.16,N/A,Net Banking,N/A,user377@email.com,10.18
+ORD000045,2024-10-02, CUST001  ,PROD0045,AIR FRYER,Home & Kitchen,1,136.8,0,136.8,Los Angeles,Cash on Delivery,Shipped,user225@email.com,12.12
+ORD000044,2023-10-23,CUST00210,PROD0027,Lipstick,Beauty,2,107.84,0,,Fort Worth,,Returned,user166@email.com,free
+ORD000568,2025-09-17,CUST00243,PROD0011,Resistance Bands,Sports,4,20.09,0,80.36,N/A,UPI,Shipped,user224@email.com,8.06
+ORD001068,2025-03-04,CUST00168,PROD0003,Non-Stick Pan,Home & Kitchen,7,368.68,26.1,1907.18,Nashville,credit card,N/A,user93@email.com,0
+ORD000079,2025-09-19,cust00020,PROD0009,Cotton T-Shirt,Clothing,3,304.55,10.9,814.06,San Jose,,N/A,user123@email.com,20.22
+ORD000853,2023-10-27,CUST00181,PROD0012,Cookbook,Books,2,485.26,0,970.52,Chicago,paypal,Cancelled,user245@email.com,13.06
+ORD000351,2024-01-01,CUST00133,PROD0015,Webcam,Electronics,1,99.09,0,99.09,Dallas,Net Banking,PENDING,user25@email.com,13.24
+ORD000244,2023-01-07,CUST00183,PROD0030,Socks Pack,Clothing,2,32.76,28.7,46.72,Denver,Credit Card,cancelled ,user460@email.com,22.42
+ORD000271,2024-08-13,CUST00089,PROD0014,Board Game,Toys,2,114.05,0,228.1,"Houston,",Credit Card,completed,user214@email.com,3.01
+ORD000708,2025-04-02,CUST00022 ,PROD0006,Hair Oil,Beauty,7,86.44,0,605.08,Columbus,Net Banking,completed,user164@email.com,1.93
+ORD000763,2025-02-10,CUST00171,PROD0046,Tennis Racket,Sports,7,334.64,0,2342.48,Indianapolis,CREDIT CARD,Returned,user342@email.com,6.21
+ORD000769,2023-03-30,CUST00150,PROD0046,Tennis Racket,Sports,8,334.64,0,2677.12,N/A,PayPal,completed,user231@email.com,21.54
+ORD001075,2024-06-25,CUST00115,PROD0017,Coffee Maker ,Home & Kitchen,3,159.08,0,477.24,Los Angeles ,,N/A,  ,2.37
+ORD000491,2025-03-07,CUST00291,PROD0048,Nail Polish,Beauty,1,264.83,0,264.83,Nashville,credit card,N/A,user182@email.com,12.56
+ORD000479,2024-07-15,CUST00201,PROD0032,Jump Rope,Sports,5,93.56,0,467.8,Phoenix,Net Banking,shipped,user@.com,4.09
+ORD000260,2023-04-26,CUST00027 ,PROD0039,Soccer Ball,Sports,6,345.27,0,2071.62,Columbus,Net Banking,Completed,user62@email.com,6.08
+ORD000926,32/13/2024,CUST00024 ,PROD0026,Data Science Handbook,Books,4,394.74,,1578.96,N/A,credit card,cancelled ,user232@email.com,22.33
+ORD000843,2023-02-07,CUST00038,PROD0033,Python Programming,Books,8,41.88,6.4,313.6,Boston,credit card,Pending,user456@email.com,5.23
+ORD000550,2025-05-30,cust00009,PROD0009,Cotton T-Shirt,Clothing,4,304.55,18.2,996.49,Boston,COD,PENDING,user417@email.com,4.93
+ORD000193,2024-06-26,CUST00299,PROD0016,Scarf,Clothing,2,99.87,3.6,192.55,Los Angeles,,Cancelled,user210@email.com,22.32
+ORD000287,2024-06-07,CUST00231,PROD0001,Wireless Headphones,Electronics,2,193.52,0,387.04,Philadelphia,credit card,Returned,user468@email.com,21.78
+ORD000875,2023-11-13,CUST00061,PROD0014,Board Game,Toys,7,114.05,13.3,692.17, chicago,Cash on Delivery,Returned,user340@email.com,9.05
+ORD000529,2025-09-27,CUST00212,PROD0030,Socks Pack,Clothing,5,32.76,0,163.8, chicago,,Returned,user80@email.com,7.27
+ORD000447,2024-09-10,CUST00067,PROD0038,Cutting Board,Home & Kitchen,5,57.86,0,289.3,San Jose,Cash,Returned,user142@email.com,24.78
+ORD000772,2025/03/30,CUST00233,PROD0013,Sunscreen,Beauty,4,417.9,0,1671.6,Chicago,upi,Shipped,user423@email.com,15.96
+ORD001084,2024-08-29,,PROD0038,Cutting Board,Home & Kitchen,,57.86,0,,"Houston,",Cash,completed,user@.com,2.43
+ORD001119,2023/06/23,CUST00196,PROD0026,Data Science Handbook,Books,8,free,0,,"Houston,",Credit Card,Completed,user122@email.com,20.06
+ORD000482,05-03-2023,CUST00046,PROD0029,Laptop Stand,Electronics,7,300.28,0,2101.96,Indianapolis,COD,,user301@email.com,14.32
+ORD000124,2025-04-17,CUST00278,PROD0001,Wireless Headphones,Electronics,1,193.52,0,193.52,"Houston,",Credit Card,PENDING,user35@email.com,0.23
+ORD000944,2025-09-10,CUST00125,PROD0015,Webcam,Electronics,7,99.09,,693.63,San Diego,UPI,Returned,user117@email.com,22.01
+ORD000863,2024-13-01,CUST00024 ,PROD0037,Winter Jacket,Clothing,8,159.26,0,1274.08,Unknown,Credit Card,N/A,,12.42
+ORD001081,N/A,CUST00274,PROD0025,Yoga Mat,Sports,7,233.47,150,-817.14,Philadelphia,COD,,user6@email.com,4.27
+ORD001163,2023-05-28,cust99999,PROD0023,Cap,Clothing,3,,0,,Chicago,,N/A,user373@email.com,23.02
+ORD000071,2024-08-26,cust00017,PROD0022,Power Bank,Electronics,6,78.35,0,470.1,Chicago,credit card,Shipped,user399@email.com,
+ORD000353,2025-07-07,CUST00211,PROD0031,Towel Set,Home & Kitchen,3,307.7,6.6,862.18,Los Angeles ,,Returned,user360@email.com,2.85
+ORD000024,2024-04-21,CUST00001,PROD0024,Lamp,Home & Kitchen,4,189.52,0,758.08,NEW YORK,Cash on Delivery,Returned,user408@email.com,16.47
+ORD000248,08-04-2024,CUST00265,PROD0037,Winter Jacket,Clothing,6,159.26,0,955.56,Los Angeles ,PayPal,Completed,user430@email.com,11.25
+ORD000991,2024-12-03,CUST00173,PROD0029,Laptop Stand,Electronics,3,300.28,0,900.84,Dallas,CREDIT CARD,,user225@email.com,23.9
+ORD000059,2024-12-03,CUST00190,PROD0006,Hair Oil,Beauty,8,86.44,0,691.52,N/A,COD,completed,user496@email.com,free
+ORD000939,2024-03-24,CUST00183,PROD0032,Jump Rope,Sports,4,93.56,0,374.24,Denver,PayPal,Completed,user24@email.com,8.0
+ORD000942,2024-04-16,CUST00284,PROD0019,Fiction Novel,Books,6,221.65,0,1329.9,Unknown,,,user150@email.com,22.12
+ORD000443,2023-11-17,CUST00120,PROD0002,Denim Jeans,Clothing,8,475.85,0,3806.8,Columbus,,N/A,user437@email.com,9.37
+ORD000082,2024-12-13,,PROD0038,Cutting Board,Home & Kitchen,6,57.86,8.6,317.3,"Houston,",upi,cancelled ,,0
+ORD000606,2024-11-13,CUST00148,PROD0003,Non-Stick Pan,Home & Kitchen,5,368.68,0,1843.4,Houston,Cash on Delivery,Returned,user15@email.com,0.99
+ORD001031,2023-01-14,CUST00162,PROD0027,Lipstick,Beauty,5,107.84,0,539.2,Chicago,Cash on Delivery,PENDING,user261@email.com,16.6
+ORD000627,,CUST00027,PROD0031,Towel Set,Home & Kitchen,8,307.7,0,2461.6,Fort Worth,credit card,PENDING,user430@email.com,13.27
+ORD000773,2024-04-08,UNKNOWN,PROD0008,Keyboard,Electronics,3,434.43,0,1303.29,Columbus,Net Banking,,user154@email.com,9.37
+ORD000345,18/07/2024,CUST00227,PROD0030,Socks Pack,Clothing,2,32.76,0,65.52,Fort Worth,Cash,Returned,,4.88
+ORD001023,2024-12-09,,PROD0023,,Clothing,4,153.15,9.0,557.47,"Houston,",Cash on Delivery,PENDING,user45@email.com,4.11
+ORD000310,2023-02-04,CUST00296,PROD0024,Lamp,Home & Kitchen,4,189.52,27.8,547.33,Boston,CREDIT CARD,N/A,user493@email.com,3.55
+ORD000462,2023-03-15,CUST00132,PROD0012,Cookbook,Books,5,485.26,0,2426.3,Los Angeles ,CREDIT CARD,Returned,user7@email.com,18.26
+ORD000175,2023-09-20,CUST00046,PROD0023,Cap,Clothing,6,153.15,7.5,849.98, chicago,Credit Card,Completed,user497@email.com,free
+ORD000108,2024-13-01,CUST00119,PROD0014,Board Game,Toys,1,114.05,26.5,83.83,Phoenix  ,CREDIT CARD,Cancelled,user475@email.com,0.94
+ORD000052,2024-04-21,CUST00074,PROD0001,Wireless Headphones,Electronics,5,193.52,0,967.6,NEW YORK,paypal,Cancelled,user301@email.com,24.05
+ORD000970,2024-07-17,CUST00262,PROD0037,WINTER JACKET,Clothing,8,159.26,0,1274.08,San Antonio,Net Banking,Shipped,user162@email.com,19.75
+ORD000234,2024-06-18,CUST00247,PROD0050,Smartphone Case,Electronics,1,100.58,0,100.58,Unknown,Credit Card,N/A,user411@email.com,19.22
+ORD000322,2025-08-15,,PROD0003,Non-Stick Pan,Home & Kitchen,,368.68,0,,Austin,COD,Shipped,user491@email.com,9.13
+ORD000742,2023-07-24,CUST00236,PROD0042,,Toys,6,252.64,3.7,1459.75,Chicago,PayPal,Pending,  ,5.83
+ORD001051,2023-08-09,CUST00120,PROD0049,Building Blocks,Toys,0,277.89,0,0.0,New York,Cash on Delivery,Completed,user240@email.com,18.35
+ORD000114,2023-12-19,CUST00012,PROD0033,Python Programming,Books,1,41.88,0,41.88,Denver,Credit Card,Pending,user147@email.com,19.22
+ORD000810,32/13/2024,CUST00205,PROD0020,Perfume,Beauty,6,152.7,18.7,744.87,N/A,Credit Card,PENDING,user213@email.com,0.76
+ORD000984,,CUST00242,PROD0024,Lamp ,Home & Kitchen,7,189.52,18.7,1078.56,San Antonio,,Shipped,,-5
+ORD000055,2025-03-16,CUST00068,PROD0011,Resistance Bands,Sports,5,20.09,0,100.45,Jacksonville,paypal,Returned,user132@email.com,23.6
+ORD001137,2023-06-30,CUST00287,PROD0047,Children Story,Books,6,162.74,12.6,error,Austin,Net Banking,shipped,user17@email.com,0
+ORD000732,2023-11-04,CUST00210,PROD0040,Travel Guide,Books,5,225.67,3.3,1091.11,"Houston,",,shipped,user173@email.com,3.92
+ORD000824,2025-09-03,CUST00278,PROD0038,Cutting Board,Home & Kitchen,2,57.86,3.6,111.55,"Houston,",,Shipped,user232@email.com,12.51
+ORD000057,2024-07-28,CUST00196,PROD0027,Lipstick,Beauty,6,107.84,0.8,641.86,Nashville,Cash on Delivery,,user466@email.com,16.23
+ORD000087,2024-05-23,CUST00224,PROD0049,Building Blocks,Toys,8,277.89,0,2223.12,Jacksonville,,Returned,  ,0
+ORD001005,2025-05-30,CUST00143,PROD0018,DUMBBELL SET,Sports,5,267.13,0,1335.65,Houston,Debit Card,PENDING,user296@email.com,4.91
+ORD000428,2024-06-16,CUST00127,PROD0026,Data Science Handbook,Books,4,394.74,0,1578.96,Chicago,,shipped,user321@email.com,3.12
+ORD000110,2023-05-24,CUST00028 ,PROD0022,Power Bank,Misc,7,78.35,20.1,438.21,San Diego,Credit Card,Shipped,user137@email.com,7.55
+ORD001047,15-Aug-2023,CUST00036,PROD0020,Perfume,Beauty,6,152.7,20.9,-100,Denver,paypal,completed,user94@email.com,free
+ORD001188,2023-03-10,CUST00176,PROD0017,Coffee Maker,Home & Kitchen,1,159.08,0,-100,San Jose,COD,Completed,user26@email.com,2.11
+ORD000267,2025-02-23,CUST00270,PROD0046,Tennis Racket,Sports,3,334.64,0,1003.92,Jacksonville,COD,cancelled ,user54@email.com,0
+ORD000652,2023-06-05,CUST00200,PROD0045,Air Fryer,Home & Kitchen,1,136.8,0,136.8, chicago,CREDIT CARD,Returned,user200@email.com,0.81
+ORD000913,2023-05-06,CUST00126,PROD0013,Sunscreen,Beauty,4,417.9,0,1671.6,new york,CREDIT CARD,N/A,user83@email.com,7.25
+ORD000599,2023-11-21,CUST00063,PROD0016,Scarf,Clothing,1,99.87,0,99.87,,Cash,Shipped,user410@email.com,9.05
+ORD000592,2024-08-09,,PROD0024,Lamp,Home & Kitchen,5,189.52,0,947.6,"Houston,",paypal,Shipped,user382@email.com,5.96
+ORD000610,2023-01-04,CUST00145,PROD0030,Socks Pack,Clothing,2,32.76,0,65.52,Indianapolis,paypal,shipped,user215@email.com,15.33
+ORD000567,2025-05-29,UNKNOWN,PROD0037,Winter Jacket,Clothing,1,-10.5,0,-10.5,"Houston,",paypal,Cancelled,user74@email.com,4.92
+ORD000983,2025-04-10,CUST00035 ,PROD0026,Data Science Handbook,Books,5,394.74,0,1973.7,Phoenix  ,Cash,Returned,user294@email.com,21.44
+ORD000803,,CUST00238,PROD0048,Nail Polish,Beauty,1,264.83,19.2,213.98,Fort Worth,COD,PENDING,user421@email.com,11.93
+ORD001116,2023-01-08,CUST00120,PROD0002,Denim Jeans,Clothing,1,475.85,0,error,Dallas,Debit Card,Completed,user430@email.com,2.49
+ORD000425,2025-08-13,CUST00038 ,PROD0030,Socks Pack,Clothing,3,-10.5,0,-31.5,San Diego,paypal,N/A,user348@email.com,-5
+ORD000276,2024-12-12,CUST00276,PROD0036,Bluetooth Speaker,Electronics,5,406.11,0,2030.55,New York,credit card,shipped,user131@email.com,-5
+ORD001000,2024-01-14,CUST00124,PROD0015,Webcam,Electronics,3,99.09,0,297.27,Philadelphia,Debit Card,Shipped,user13@email.com,3.15
+ORD000426,2024-02-21,cust99999,PROD0033,Python Programming,Books,1,41.88,0,41.88,NEW YORK,paypal,cancelled ,user23@email.com,5.61
+ORD000309,2024-04-11,cust99999,PROD0031,Towel Set,Home & Kitchen,3,307.7,0,923.1,Los Angeles ,Cash,PENDING,user218@email.com,11.25
+ORD000421,2025-06-24,CUST00285,PROD0001,Wireless Headphones,Electronics,7,193.52,0,1354.64,Austin,COD,Shipped,user140@email.com,24.58
+ORD000971,2023-12-04,CUST00235,PROD0044,Running Shoes,Clothing,7,455.57,24.5,2407.69,Boston,credit card,cancelled ,user463@email.com,10.9
+ORD000381,2025-06-01,CUST00233,PROD0037,Winter Jacket,Clothing,8,159.26,0,1274.08,Dallas,UPI,N/A,user439@email.com,5.39
+ORD000483,2025-06-01,CUST00093,PROD0028,Remote Car,Toys,7,261.97,9.8,,Philadelphia,credit card,N/A,user402@email.com,12.21
+ORD001166,2024-04-19,,PROD0042,Action Figure,Toys,6,252.64,14.2,1300.59,Austin,Net Banking,Shipped,user301@email.com,0.69
+ORD000826,2023-01-31,CUST00083,PROD0019,Fiction Novel,Books,4,221.65,0,886.6,Fort Worth,,PENDING,user416@email.com,4.19
+ORD000559,2024-09-14,CUST00033 ,PROD0050,Smartphone Case,Electronics,7,100.58,5.3,-100,Columbus,Debit Card,,user113@email.com,
+ORD000221,2023-10-16,CUST00038,PROD0046,Tennis Racket,Sports,2,334.64,0,669.28,Charlotte,credit card,PENDING,invalid@,3.41
+ORD001062,2023-08-27,CUST00025 ,PROD0040,Travel Guide,Books,3,225.67,0,677.01,Charlotte,CREDIT CARD,cancelled ,user467@email.com,3.84
+ORD000245,2025-08-20,CUST00262,PROD0022,Power Bank,Electronics,4,78.35,15.8,263.88,Seattle,Net Banking,PENDING,user235@email.com,17.46
+ORD000434,2023-12-06,CUST00118,PROD0011,,Sports,4,20.09,0,80.36,Fort Worth,Cash on Delivery,PENDING,user186@email.com,-5
+ORD000197,2024-01-20,CUST00012,PROD0025,,Sports,3,233.47,0,700.41,Dallas,,Returned,user25@email.com,16.34
+ORD000375,2025-03-18, CUST001  ,PROD0030,Socks Pack,Clothing,2,32.76,0,,Dallas,paypal,PENDING,user186@email.com,17.13
+ORD000893,2024-05-04,CUST00226,PROD0039,Soccer Ball,Sports,3,345.27,0,,"Houston,",COD,Cancelled,user195@email.com,24.09
+ORD000466,2023-04-22,CUST00196,PROD0028,Remote Car,Toys,7,261.97,0,1833.79,"Houston,",,completed,user108@email.com,9.95
+ORD000714,2023-03-25,CUST00047,PROD0044,Running Shoes,Clothing,7,455.57,0,3188.99,"Houston,",Debit Card,Returned,user32@email.com,1.48
+ORD000410,2024-01-14,CUST00042,PROD0005,History of AI,Books,7,86.45,0,605.15,Fort Worth,Cash,Returned,user136@email.com,15.91
+ORD001090,2025-03-01,CUST00242,PROD0041,Face Cream,Beauty,3,69.8,0,209.4,new york,paypal,N/A,user165@email.com,8.03
+ORD001014,2023-08-30,CUST00236,PROD0026,Data Science Handbook,Books,3,394.74,0,1184.22,Dallas,Cash on Delivery,Completed,user41@email.com,9.15
+ORD000219,2024-03-10,CUST00004,PROD0002,Denim Jeans,Clothing,4,475.85,0,1903.4,San Antonio,paypal,N/A,user223@email.com,23.49
+ORD000850,2023-09-05,CUST00065,PROD0048,Unknown Product,Beauty,1,264.83,0,264.83,Chicago,Net Banking,Returned,user171@email.com,20.7
+ORD000546,2025-01-15,CUST00079,PROD0047,Children Story,Books,6,162.74,9.8,880.75,Phoenix,UPI,Shipped,user179@email.com,16.3
+ORD000210,2024-04-08,CUST00197,PROD0045,Air Fryer,Home & Kitchen,4,136.8,0,547.2,Phoenix,credit card,shipped,user154@email.com,13.7
+ORD000328,2024/12/09,,PROD0034,Shampoo,Beauty,5,474.95,0,2374.75,new york,UPI,Returned,user90@email.com,0.94
+ORD000424,2023-02-07,CUST00047,PROD0024,Lamp,Home & Kitchen,5,189.52,29.4,669.01,N/A,upi,N/A,  ,-5
+ORD000148,2023-04-06,CUST00233,PROD0029,Laptop Stand,Electronics,6,300.28,0,1801.68,Charlotte,COD,,user408@email.com,5.45
+ORD000615,2023-06-10,CUST00284,PROD0007,Soft Toy,Toys,1,38.46,0,38.46,Fort Worth,,N/A,user467@email.com,10.33
+ORD000959,2024-05-30,CUST00136,PROD0015,Webcam,Electronics,3,99.09,16.7,error,Dallas,Net Banking,Shipped,user335@email.com,16.31
+ORD000454,2023-07-14,,PROD0043,USB-C Cable,electronics,3,free,9.8,,Denver,credit card,PENDING,user183@email.com,0.37
+ORD000362,09-30-2024,CUST00014,PROD0024,Lamp,Home & Kitchen,7,189.52,0,1326.64,NEW YORK,,Returned,user104@email.com,12.45
+ORD001100,2025-05-16,CUST00226,PROD0034,Shampoo,Beauty,8,474.95,0,3799.6,Chicago,,Cancelled,user328@email.com,21.5
+ORD000725,22/04/2023,CUST00045,PROD0035,Puzzle Set,Toys,8,483.16,10%,3865.28,,credit card,Cancelled,user35@email.com,15.38
+ORD001037,2024-07-30,CUST00181,PROD0030,Socks Pack,Clothing,6,32.76,0,,Phoenix  ,UPI,cancelled ,  ,11.61
+ORD001148,2024-09-29,,PROD0029,Laptop Stand,Electronics,4,300.28,0,1201.12,Los Angeles,Debit Card,Pending,,22.97
+ORD000833,2023-06-23,CUST00087,PROD0044,Running Shoes,Clothing,2,455.57,6.6,851.0,,,,user3@email.com,21.88
+ORD000278,2023-11-09,CUST00102,PROD0020,Perfume,Beauty,8,152.7,,0,Fort Worth,upi,Cancelled,user155@email.com,24.46
+ORD000926,32/13/2024,CUST00024 ,PROD0026,Data Science Handbook,Books,5,394.74,,1578.96,N/A,credit card,cancelled ,user232@email.com,22.33
+ORD000650,2025-08-15,CUST00134,PROD0025,Yoga Mat,sports,4,233.47,17.2,773.25, chicago,upi,Cancelled,user310@email.com,4.53
+ORD000171,2023-05-26,CUST00184,PROD0027,Lipstick,,1,107.84,0,107.84,San Antonio,,cancelled ,user20@email.com,0
+ORD000721,2023-07-28,CUST00110,PROD0015,WEBCAM,Electronics,3,99.09,0,error,Boston,COD,shipped,user353@email.com,-5
+ORD000136,25-Jul-2025,CUST00215,PROD0028,Remote Car,Toys,6,261.97,0,1571.82,NEW YORK,COD,completed,user289@email.com,16.94
+ORD000199,2024-02-24,cust00012,PROD0042,Action Figure,Toys,5,252.64,0,1263.2,Los Angeles,paypal,cancelled ,user247@email.com,0.07
+ORD000555,2023-11-26,CUST00229,PROD0045,Air Fryer,Home & Kitchen,4,136.8,0,547.2,Indianapolis,Cash on Delivery,Pending,user43@email.com,20.89
+ORD000902,2024-08-28,CUST00182,PROD0018,Dumbbell Set,Sports,7,267.13,0,1869.91,Denver,Credit Card,shipped,user245@email.com,-5
+ORD000954,2023-09-06,CUST00164,PROD0042,Action Figure,Toys,4,252.64,-5,1061.09,Jacksonville,UPI,PENDING,user438@email.com,19.26
+ORD000159,02/06/2025,CUST00131,PROD0046,Tennis Racket,Sports,2,334.64,0,669.28,Indianapolis,Net Banking,PENDING,user492@email.com,13.82
+ORD000141,2025-04-13,cust00013,PROD0033,Python Programming,Books,2,41.88,0,83.76,Phoenix  ,UPI,shipped,user161@email.com,-5
+ORD000761,2023-05-03,CUST00104,PROD0022,Power Bank,Electronics,5,78.35,0,391.75,Charlotte,Credit Card,cancelled ,user263@email.com,5.11
+ORD000291,2024-06-23,CUST00035,PROD0005,History of AI,Books,2,86.45,20.8,136.94,San Antonio,upi,Returned,user374@email.com,13.22
+ORD000988,2024-10-06,,PROD0020,Perfume,Beauty,6,152.7,0,916.2, chicago,Credit Card,,user120@email.com,
+ORD000655,2025-06-24,CUST00215,PROD0015,Webcam,Electronics,5,99.09,0,495.45,new york,,,user201@email.com,10.1
+ORD000366,2025-06-03,CUST00034,PROD0044,Running Shoes,Clothing,2,455.57,9.8,error,Seattle,credit card,Shipped,user163@email.com,9.76
+ORD000539,2025-01-28,CUST00064,PROD0024,Lamp,Home & Kitchen,8,189.52,0,1516.16,Jacksonville,,Returned,user338@email.com,20.96
+ORD000290,2024-12-17,CUST00045,PROD0041,Face Cream,Beauty,999,69.8,8.5,63803.13,Phoenix  ,paypal,Cancelled,user185@email.com,2.33
+ORD000494,2025-06-22,CUST00039 ,PROD0043,USB-C Cable,Electronics,1,26.85,0,26.85,N/A,Cash on Delivery,Cancelled,user264@email.com,1.27
+ORD000779,2024-07-24,CUST00011,PROD0017,Coffee Maker,Home & Kitchen,6,159.08,14.2,818.94,Chicago,Debit Card,Pending,user184@email.com,12.68
+ORD000431,2024-03-31,CUST00100,PROD0010,Blender,Home & Kitchen,3,356.96,12.6,935.95,Phoenix,,Completed,user224@email.com,16.29
+ORD000848,2025-03-24,CUST00232,PROD0045,Air Fryer,Home & Kitchen,4,136.8,0,547.2,Austin,UPI,shipped,user396@email.com,4.91
+ORD001135,2023-04-04,,PROD0034,Shampoo,Beauty,1,474.95,0,474.95,Phoenix,PayPal,,user473@email.com,24.2
+ORD000382,2024-08-19,CUST00093,PROD0007,Soft Toy,Toys,3,0,13.5,0.0,Charlotte,Debit Card,Completed,user499@email.com,17.17
+ORD000185,2024-02-21,CUST00165,PROD0013,Sunscreen,Beauty,7,417.9,13.3,2536.24,"Houston,",paypal,completed,user82@email.com,free
+ORD000266,2024-09-23,CUST00185,PROD0016,Scarf,Clothing,7,99.87,0,699.09,Los Angeles,upi,Pending,invalid@,2.43
+ORD000723,2025-05-12,CUST00035 ,PROD0034,Shampoo,Beauty,5,474.95,24.7,1788.19,,,cancelled ,  ,free
+ORD000164,2023-04-19,CUST00232,PROD0030,Socks Pack,Clothing,2,32.76,23.1,50.38,Charlotte,Net Banking,PENDING,user395@email.com,7.71
+ORD000430,2023-04-14,cust00020,PROD0048,Nail Polish,Beauty,999,264.83,0,264565.17,NEW YORK,,Completed,user99@email.com,
+ORD001197,2024-06-19,CUST00032 ,PROD0018,Dumbbell Set,Sports,2,267.13,0,534.26,San Antonio,CREDIT CARD,Completed,user278@email.com,21.08
+ORD000157,2024-11-13,CUST00123,PROD0042,Action Figure,Toys,2,252.64,18.4,-100, chicago,PayPal,Pending,user84@email.com,8.67
+ORD001004,,CUST00160,PROD0002,Denim Jeans,Clothing,2,475.85,21.7,745.18,San Antonio,Cash,Shipped,user430@email.com,3.38
+ORD000534,2025-01-30,cust00006,PROD0047,Children Story,Books,3,162.74,0,488.22, chicago,Net Banking,Completed,user76@email.com,7.91
+ORD000359,2024-03-14,CUST00160,PROD0011,Resistance Bands,Sports,8,20.09,0,160.72,Chicago,,cancelled ,user7@email.com,12.29
+ORD000232,2023-06-24,CUST00146,PROD0021,Doll,Toys,4,309.81,0,1239.24,Columbus,Cash,Cancelled,user94@email.com,12.77
+ORD000200,2024-10-21,,PROD0027,Lipstick,Beauty,2,107.84,21.7,-100,San Jose,UPI,cancelled ,user437@email.com,20.04
+ORD000383,2024-09-12,CUST00132,PROD0007,Soft Toy,Toys,1,-10.5,0,-10.5,Phoenix  ,Cash,N/A,user@.com,9.52
+ORD000980,2025-07-23,cust00013,PROD0002,Denim Jeans,Clothing,5,,0,,Philadelphia,PayPal,N/A,user47@email.com,free
+ORD000343,2024-01-14,CUST00079,PROD0033,Python Programming,Books,2,0,0,0.0,Denver,upi,Completed,user76@email.com,13.5
+ORD000693,,CUST00282,PROD0050,Smartphone Case,Electronics,3,100.58,0,301.74,Philadelphia,credit card,Returned,user114@email.com,4.97
+ORD000395,2025-04-03,CUST00156,PROD0029,Laptop Stand,Electronics,6,300.28,0,1801.68,Phoenix,PayPal,Completed,user357@email.com,21.48
+ORD000209,2024-03-19,cust00002,PROD0023,Cap,Clothing,3,153.15,22.1,357.91,Indianapolis,paypal,Cancelled,user418@email.com,free
+ORD000614,2025-03-09,CUST00024,PROD0023,Cap,Clothing,7,153.15,0,1072.05,Nashville,Cash,completed,user487@email.com,20.06
+ORD000827,2024-07-24,CUST00035,PROD0021,Doll,Toys,4,309.81,0,1239.24,Fort Worth,Net Banking,,user19@email.com,0.09
+ORD000211,2024-12-28,CUST00112,PROD0008,Keyboard,Electronics,5,434.43,0,2172.15,Philadelphia,paypal,Returned,user60@email.com,14.06
+ORD000760,2024-01-12, CUST001  ,PROD0018,Dumbbell Set,Sports,-1,267.13,21.1,-210.77,,PayPal,PENDING,user469@email.com,15.57
+ORD001080,2025-04-01,cust00017,PROD0019,Fiction Novel,Books,5,221.65,15.3,938.69,San Jose,Debit Card,PENDING,user235@email.com,15.75
+ORD001172,2025-02-15,CUST00167,PROD0041,Unknown Product,Beauty,4,69.8,13.9,240.39,Denver,,Pending,user421@email.com,8.7
+ORD001156,2023-10-23,CUST00109,PROD0031,Towel Set,Home & Kitchen,2,307.7,0,615.4,San Jose,paypal,Pending,,15.02
+ORD000520,2024-12-16,CUST00007,PROD0001,Wireless Headphones,Electronics,7,193.52,22.3,1052.56,Indianapolis,credit card,N/A,user356@email.com,
+ORD001002,2023-12-07,UNKNOWN,PROD0019,Fiction Novel,Books,7,221.65,13.1,1348.3,Chicago,upi,shipped,user238@email.com,11.76
+ORD000586,05-22-2023,CUST00027,PROD0019,Fiction Novel,,7,221.65,0,1551.55,N/A,Cash,completed,user471@email.com,0
+ORD000544,2023-08-01,CUST00135,PROD0006,Hair Oil,Beauty,2,86.44,0,172.88,Indianapolis,,Completed,user321@email.com,free
+ORD000533,2023-12-24,CUST00028,PROD0017,Coffee Maker,Home & Kitchen,7,159.08,0,1113.56,Indianapolis,CREDIT CARD,Returned,user357@email.com,22.81
+ORD000097,2023-09-05,CUST00177,PROD0017,Coffee Maker,Home & Kitchen,3,159.08,0,477.24,Dallas,CREDIT CARD,Returned,  ,10.45
+ORD000753,2024-04-30,cust99999,PROD0025,Yoga Mat,Sports,5,233.47,0,1167.35,new york,Credit Card,completed,user288@email.com,-5
+ORD000859,2023-12-30,CUST00129,PROD0043,USB-C Cable,Electronics,1,26.85,29.5,18.93,Jacksonville,,Shipped,  ,18.03
+ORD000179,2023-09-27,CUST00279,PROD0030,Socks Pack,Clothing,6,32.76,0,196.56,Dallas,Cash on Delivery,Shipped,user357@email.com,2.14
+ORD000032,2023-04-28,CUST00112,PROD0012,Cookbook,Books,5,485.26,18.2,1984.71,Philadelphia,UPI,Pending,user295@email.com,23.95
+ORD000894,2024-06-01,CUST00254,PROD0015,Webcam,Electronics,8,99.09,18.7,644.48,Unknown,PayPal,Cancelled,user253@email.com,0.95
+ORD001030,2024-05-05,CUST00173,PROD0019,Fiction Novel,Books,1,221.65,26.9,162.03,San Diego,Debit Card,,  ,12.29
+ORD000899,2025-02-13,CUST00251,PROD0018,Dumbbell Set,Sports,7,267.13,150,-934.95,NEW YORK,UPI,Shipped,user322@email.com,21.94
+ORD000889,2023-08-18,CUST00008,PROD0017,Coffee Maker,Home & Kitchen,1,159.08,19.8,127.58,Austin,COD,Cancelled,user448@email.com,0.37
+ORD000562,2024-08-03,UNKNOWN,PROD0049,Building Blocks,Toys,1,277.89,3.3,268.72,San Jose,,Returned,user76@email.com,2.5
+ORD000459,2024-03-28,,PROD0012,Cookbook,Books,4,485.26,0,1941.04,Chicago,,cancelled ,user325@email.com,23.46
+ORD000637,2024-07-31,CUST00017,PROD0018,Dumbbell Set,Sports,3,267.13,0,801.39,Boston,Credit Card,completed,user446@email.com,3.97
+ORD001029,2024-08-02,CUST00150,PROD0037,Winter Jacket,Clothing,3,159.26,0,477.78,,COD,,user376@email.com,10.13
+ORD000089,05-Feb-2023,,PROD0039,Soccer Ball,Sports,1,345.27,0,345.27,"Houston,",COD,completed,user17@email.com,16.98
+ORD000631,2023-02-27,CUST00079,PROD0010,Blender,Home & Kitchen,3,356.96,12.6,935.95,Los Angeles ,Credit Card,completed,user437@email.com,
+ORD000297,14-Mar-2025,CUST00191,PROD0027,Lipstick,Beauty,5,107.84,0,error,Chicago,CREDIT CARD,Returned,user79@email.com,free
+ORD001001,2023-04-12,CUST00083,PROD0030,Socks Pack,Clothing,1,32.76,0,32.76,Nashville,upi,,user467@email.com,3.11
+ORD000717,2024-02-03,CUST00099,PROD0038,Cutting Board,Home & Kitchen,6,57.86,0,347.16,Houston,COD,Returned,user73@email.com,20.44
+ORD001064,2024-10-23,CUST00298,PROD0037,Winter Jacket,Clothing,7,159.26,0,1114.82,,Cash,N/A,user93@email.com,free
+ORD000332,2023-07-18,CUST00075,PROD0026,Data Science Handbook,Books,8,394.74,0,3157.92,Dallas,Cash on Delivery,completed,user31@email.com,2.78
+ORD000900,2023-08-30,,PROD0005,History of AI,Books,8,86.45,25.0,518.7,Los Angeles,Debit Card,completed,user167@email.com,2.69
+ORD001125,N/A,CUST00177,PROD0026,Data Science Handbook,Books,6,394.74,0,2368.44,NEW YORK,Debit Card,completed,user473@email.com,4.27
+ORD000597,2024-04-26,CUST00168,PROD0040,Travel Guide,Books,6,225.67,0,1354.02,San Jose,Cash,Completed,invalid@,0.64
+ORD000756,2024-13-01,cust00001,PROD0004,Water Bottle ,Sports,1,303.34,0,303.34,Denver,Credit Card,,user92@email.com,20.9
+ORD001128,2023-10-13,cust00012,PROD0012,Cookbook,Books,3,485.26,0,1455.78,Seattle,credit card,Shipped,user259@email.com,0
+ORD000888,2025-01-06,CUST00174,PROD0021,Doll,Toys,8,309.81,23.6,1893.56,Fort Worth,COD,Pending,user207@email.com,12.41
+ORD000372,2023-11-02,CUST00022,PROD0013,Sunscreen,Beauty,8,417.9,26.9,2443.88,N/A,credit card,completed,user204@email.com,18.11
+ORD000307,2025-05-22,CUST00177,PROD0049,Building Blocks,Toys,1,277.89,0,,Jacksonville,paypal,Completed,user184@email.com,-5
+ORD001097,2024-08-11,CUST00023 ,PROD0012,COOKBOOK,Books,5,485.26,0,2426.3,New York,upi,Completed,user284@email.com,5.7
+ORD000011,2023-09-06,,PROD0022,Power Bank,Electronics,3,78.35,0,235.05,Phoenix  ,credit card,Returned,user182@email.com,11.68
+ORD000536,2023-05-08,CUST00190,PROD0026,Data Science Handbook,Books,1,394.74,0,394.74,new york,CREDIT CARD,PENDING,user278@email.com,24.35
+ORD000429,2024-10-03,CUST00034,PROD0015,Webcam,Electronics,1,99.09,0,99.09,Houston,COD,Completed,user196@email.com,15.43
+ORD000722,2023-02-15,CUST00170,PROD0015,Webcam,Electronics,7,99.09,0,693.63,Nashville,Cash on Delivery,shipped,user217@email.com,17.75
+ORD000060,2025-02-22,CUST00011,PROD0027,Lipstick,Beauty,6,107.84,16.9,537.69,Boston,Cash on Delivery,Returned,user462@email.com,6.93
+ORD000877,2023-12-19,CUST00076,PROD0049,Building Blocks,Toys,5,277.89,0,error,Chicago,,Returned,user51@email.com,17.14
+ORD000064,2024-01-19,CUST00174,PROD0010,Blender,Home & Kitchen,7,356.96,12.8,2178.88,NEW YORK,CREDIT CARD,Pending,  ,-5
+ORD000891,2023-05-10,cust00020,PROD0023,Cap,Clothing,5,153.15,0,765.75,Los Angeles,,completed,user355@email.com,16.56
+ORD000960,2025-02-27,CUST00040,PROD0031,Towel Set,Home & Kitchen,4,307.7,0,1230.8,"Houston,",upi,N/A,user318@email.com,24.58
+ORD000731,2025-01-10,CUST00228,PROD0002,Denim Jeans,Clothing,8,475.85,0,3806.8,San Diego,Cash on Delivery,N/A,user448@email.com,19.6
+ORD000908,2023-05-17,CUST00036,PROD0007,Soft Toy,Toys,3,38.46,0,115.38,Chicago,PayPal,Returned,user331@email.com,-5
+ORD001191,N/A,CUST00076,PROD0010,Blender,Home & Kitchen,2,356.96,0,713.92,Dallas,UPI,N/A,user71@email.com,17.89
+ORD000333,2023-06-24,CUST00113,PROD0041,Face Cream,Beauty,3,69.8,0,209.4,Denver,,Returned,user251@email.com,5.41
+ORD001139,2025-04-14,CUST00192,PROD0019,Fiction Novel,Books,,221.65,0,, chicago,,Shipped,user497@email.com,16.38
+ORD000324,2025-09-15,cust00004,PROD0002,Denim Jeans,Clothing,7,free,0,,Charlotte,Credit Card,Completed,user370@email.com,
+ORD000298,2023-05-16,CUST00074,PROD0011,Resistance Bands,Sports,2,20.09,0,40.18,Los Angeles,CREDIT CARD,PENDING,user3@email.com,1.1
+ORD000850,2023-09-05,CUST00065,PROD0048,Unknown Product,Beauty,5,264.83,0,264.83,Chicago,Net Banking,Returned,user171@email.com,20.7
+ORD000953,2023-01-15,CUST00286,PROD0038,Cutting Board,Home & Kitchen,7,57.86,23.7,309.03,San Jose,Net Banking,PENDING,user227@email.com,22.31
+ORD000542,2023-01-29,CUST00166,PROD0039,Soccer Ball,Sports,2,,0,,Denver,Debit Card,shipped,user67@email.com,15.86
+ORD000084,2024-07-11,CUST00214,PROD0018,Dumbbell Set,Sports,2,267.13,0,534.26,Seattle,paypal,Completed,user326@email.com,9.33
+ORD000130,2023-06-07,CUST00039 ,PROD0007,Soft Toy,Toys,5,38.46,0,192.3,Phoenix  ,COD,Cancelled,user55@email.com,-5
+ORD001082,2025-05-10,CUST00072,PROD0009,Cotton T-Shirt,Clothing,1,304.55,18.1,249.43,Dallas,paypal,Shipped,user114@email.com,0
+ORD000480,2024-11-25,CUST00075,PROD0006,Hair Oil,Beauty,4,86.44,21.8,270.38,Unknown,PayPal,PENDING,user431@email.com,
+ORD000941,12-31-2024,CUST00201,PROD0045,Air Fryer,Home & Kitchen,8,136.8,1.3,1080.17,Phoenix  ,Cash,PENDING,user254@email.com,16.06
+ORD001088,2023-11-07,CUST00038 ,PROD0009,Cotton T-Shirt,Clothing,1,304.55,0,304.55,NEW YORK,,completed,user224@email.com,2.41
+ORD000261,2023-12-13,cust00006,PROD0035,Puzzle Set,Toys,2,483.16,0,-100,"Houston,",COD,Completed,user406@email.com,free
+ORD001122,2024-04-30,CUST00209,PROD0021,Doll,Toys,8,309.81,24.2,1878.69,Charlotte,UPI,Shipped,invalid@,18.99
+ORD000669,2025-06-07,CUST00091,PROD0010,Blender,Home & Kitchen,8,356.96,0,2855.68,Austin,UPI,,user226@email.com,0
+ORD000919,N/A,CUST00142,PROD0035,Puzzle Set,Toys,4,-10.5,0,-42.0,Indianapolis,Debit Card,shipped,user25@email.com,18.29
+ORD001176,2023-08-20,CUST00116,PROD0011,Resistance Bands,Sports,5,20.09,0,100.45,Boston,paypal,Returned,user402@email.com,4.84
+ORD000139,2024-03-12,,PROD0024,Lamp,Home & Kitchen,4,189.52,0,758.08,San Diego,,PENDING,user337@email.com,0.73
+ORD000966,2024-01-21,CUST00069,PROD0031,Towel Set,Home & Kitchen,2,307.7,0,615.4,Phoenix  ,Debit Card,N/A,user494@email.com,6.32
+ORD000142,2024-07-04,CUST00199,PROD0044,Running Shoes,Clothing,3,455.57,0,1366.71,new york,PayPal,Returned,user96@email.com,11.28
+ORD000571,20230225,CUST00207,PROD0012,Cookbook,Books,8,485.26,0,3882.08,,COD,Pending,user@.com,17.26
+ORD000585,2023-11-07,CUST00022,PROD0017,Coffee Maker,Home & Kitchen,8,159.08,0,1272.64,N/A,Cash on Delivery,Completed,invalid@,21.51
+ORD000591,2023-12-11,CUST00039 ,PROD0015,Webcam,Electronics,6,99.09,0,594.54,Dallas,,shipped,,10.69
+ORD000140,2023-03-06,CUST00200,PROD0049,Building Blocks,Toys,-1,277.89,0,-277.89,Phoenix  ,,Returned,user235@email.com,free
+ORD000895,2024-11-10,CUST00205,PROD0020,Perfume,Beauty,4,152.7,0,610.8,Jacksonville,,PENDING,user352@email.com,0.96
+ORD000998,2025-07-24,CUST00216,PROD0037,Winter Jacket,Clothing,1,159.26,22.9,122.79,Dallas,Cash on Delivery,Completed,user46@email.com,11.1
+ORD000225,2023-12-06,CUST00114,PROD0032,Jump Rope,Sports,7,93.56,0,654.92,Charlotte,CREDIT CARD,completed,user56@email.com,
+ORD000411,2025-09-18,CUST00214,PROD0030,Socks Pack,Clothing,3,32.76,0,98.28,Unknown,paypal,Pending,user17@email.com,23.6
+ORD000275,23/05/2025,CUST00227,PROD0035,Puzzle Set,Toys,8,-10.5,11.2,-74.59,San Diego,Cash,Cancelled,user8@email.com,20.11
+ORD000299,2023-07-25,CUST00024,PROD0032,Jump Rope,Sports,5,0,0,0.0,Dallas,paypal,completed,user140@email.com,-5
+ORD000414,2024-02-01,CUST00230,PROD0036,Bluetooth Speaker,Electronics,6,406.11,0,error,Fort Worth,Net Banking,Returned,user331@email.com,0
+ORD000600,2025-07-25,CUST00124,PROD0020,Perfume,Beauty,7,152.7,0,1068.9,Indianapolis,Cash,Returned,user292@email.com,24.67
+ORD000391,,cust00008,PROD0031,Towel Set,Home & Kitchen,7,307.7,0,2153.9,Austin,CREDIT CARD,,user80@email.com,13.18
+ORD000701,2024-09-10,CUST00051,PROD0025,Yoga Mat,Sports,2,233.47,17.4,error,Fort Worth,upi,N/A,user294@email.com,0.93
+ORD000645,2023-11-07,CUST00233,PROD0041,Face Cream,Beauty,,69.8,0,, chicago,COD,Pending,user231@email.com,19.53
+ORD000696,2025-09-22,cust00014,PROD0035,Puzzle Set,Toys,2,4831.6,14.4,8271.7,San Diego,credit card,Cancelled,user100@email.com,8.76
+ORD001178,,cust00007,PROD0028,Remote Car,Toys,3,261.97,7.3,728.54,San Jose,Cash,completed,,14.88
+ORD000514,2024-05-18,CUST00147,PROD0038,Cutting Board,Home & Kitchen,7,57.86,0,405.02,Houston,Cash on Delivery,Pending,user40@email.com,2.96
+ORD000603,2025-07-21,cust00016,PROD0003,Non-Stick Pan,Home & Kitchen,1,368.68,0,368.68,Charlotte,upi,PENDING,user69@email.com,18.09
+ORD000856,2025-03-08,CUST00211,PROD0031,Towel Set,Home & Kitchen,8,307.7,,2461.6,Unknown,paypal,Cancelled,,21.63
+ORD000993,2024-12-16,UNKNOWN,PROD0021,Doll,Toys,1,309.81,0,309.81,San Jose,Debit Card,Pending,user466@email.com,0
+ORD000618,2024-05-09,CUST00036 ,PROD0034,Shampoo,Beauty,7,474.95,29.0,2360.5,Los Angeles ,paypal,Returned,  ,23.79
+ORD000329,2024-06-26,CUST00022 ,PROD0046,Tennis Racket,Sports,5,334.64,7.1,1554.4,Nashville,Net Banking,Returned,user321@email.com,6.91
+ORD000705,2024-07-27,CUST00166,PROD0005,History of AI,Books,-1,86.45,0,-86.45,Denver,paypal,Cancelled,user102@email.com,free
+ORD000880,2025-05-28,,PROD0038,Cutting Board,Home & Kitchen,1,57.86,8.8,52.77,Los Angeles,CREDIT CARD,PENDING,user268@email.com,free
+ORD000910,2025/08/22,CUST00186,PROD0013,Sunscreen,Beauty,5,417.9,0,2089.5,Nashville,Debit Card,Returned,user380@email.com,22.49
+ORD000040,09-27-2024,CUST00231,PROD0025,Yoga Mat,Sports,5,233.47,0,1167.35,"Houston,",Cash on Delivery,,user81@email.com,13.8
+ORD000031,2025-09-01,CUST00216,PROD0027,Lipstick,Beauty,2,107.84,0,,new york,Debit Card,,user103@email.com,15.53
+ORD000243,2023-10-03,CUST00176,PROD0011,Resistance Bands,Sports,3,20.09,0,60.27, chicago,COD,Returned,user377@email.com,6.64
+ORD000989,2024-03-31,CUST00199,PROD0046,Tennis Racket,Sports,1,334.64,0,334.64,Los Angeles,COD,N/A,user208@email.com,9.27
+ORD000137,2024-08-17,CUST00221,PROD0027,Lipstick,Beauty,2,107.84,0,215.68,San Diego,CREDIT CARD,completed,user302@email.com,3.77
+ORD000311,2024-10-07,CUST00144,PROD0038,Cutting Board,,2,57.86,0,115.72,NEW YORK,Debit Card,,user160@email.com,22.59
+ORD001102,2024-05-18,CUST00258,PROD0013,Sunscreen,Beauty,7,417.9,2.5,2852.17,Chicago,UPI,completed,user12@email.com,15.43
+ORD001050,2023-10-15,CUST00030,PROD0032,Jump Rope,Sports,6,93.56,24.5,423.83,Austin,PayPal,cancelled ,user386@email.com,3.99
+ORD000004,2023-03-15,CUST00084,PROD0031,Towel Set,Home & Kitchen,4,307.7,0,1230.8,Philadelphia,paypal,N/A,user139@email.com,16.0
+ORD000582,2025-08-21,CUST00061,PROD0050,Smartphone Case,Electronics,1,100.58,0,100.58,,UPI,PENDING,invalid@,1.87
+ORD000630,2023-02-01,CUST00204,PROD0031,Towel Set,,,307.7,1.7,,Indianapolis,Cash,,user384@email.com,18.76
+ORD001058,2025-03-28,CUST00038,PROD0034,Shampoo,Beauty,1,474.95,0,474.95,San Diego,Cash,Cancelled,user318@email.com,17.36
+ORD000423,2025-02-25,CUST00181,PROD0004,Water Bottle,Sports,7,303.34,0,2123.38,New York,Debit Card,cancelled ,user5@email.com,0.49
+ORD000858,2024-11-13,cust99999,PROD0013,Sunscreen,Beauty,5,417.9,0,error,Columbus,UPI,Cancelled,user67@email.com,18.13
+ORD000775,2023-09-09,CUST00014,PROD0021,Doll,Toys,8,309.81,7.6,2290.12,Los Angeles ,COD,Pending,user124@email.com,11.73
+ORD000755,2023-06-01,CUST00015,PROD0042,Action Figure,Toys,7,252.64,0,1768.48,Fort Worth,paypal,Cancelled,user56@email.com,11.4
+ORD000315,2023-11-05,CUST00177,PROD0047,Children Story,Books,5,162.74,5.0,773.01,"Houston,",paypal,Returned,user243@email.com,13.26
+ORD000487,12-Dec-2024,CUST00134,PROD0009,Cotton T-Shirt,Clothing,3,304.55,7.6,844.21,Chicago,COD,N/A,user331@email.com,-5
+ORD000320,2025-02-26,CUST00252,PROD0018,Dumbbell Set,Sports,4,267.13,14.8,910.38,Nashville,COD,Pending,user53@email.com,
+ORD001169,2024-11-25,CUST00093,PROD0004,Water Bottle,Sports,1,303.34,0,303.34,Indianapolis,,Pending,user445@email.com,free
+ORD000683,2024-01-02,CUST00048,PROD0050,Smartphone Case,Electronics,2,100.58,28.2,144.43,Austin,credit card,Returned,,6.38
+ORD000006,2023-05-22,CUST00135,PROD0026,Data Science Handbook,Books,7,394.74,0,2763.18,Chicago,,Completed,user82@email.com,10.55
+ORD000101,2024-09-23,CUST00077,PROD0016,Scarf,Clothing,3,99.87,0,299.61,San Jose,Cash,completed,user251@email.com,7.49
+ORD000666,2023-09-20, CUST001  ,PROD0048,Nail Polish,Beauty,2,264.83,17.0,439.62,Philadelphia,upi,,user368@email.com,1.01
+ORD000623,2025-05-22,CUST00191,PROD0038,Cutting Board,Home & Kitchen,5,57.86,9.9,260.66,Philadelphia,paypal,N/A,  ,free
+ORD001175,2023-09-11,CUST00144,PROD0021,Doll,Toys,1,309.81,4.7,295.25,New York,PayPal,Returned,user@.com,20.13
+ORD000846,2024-10-04,cust99999,PROD0002,Denim Jeans ,clothing,3,,0,,"Houston,",UPI,,user427@email.com,11.84
+ORD000981,2025-02-10,CUST00192,PROD0019,Fiction Novel,Books,0,0,0,0.0,Chicago,Debit Card,shipped,invalid@,22.15
+ORD000728,26/01/2024,,PROD0026,Unknown Product,Books,6,394.74,3.1,2295.02,,credit card,shipped,user322@email.com,
+ORD000977,2023-05-22,CUST00031 ,PROD0014,Board Game,Toys,5,114.05,0,570.25,Philadelphia,PayPal,Cancelled,user263@email.com,11.23
+ORD000228,2024-01-14,CUST00248,PROD0022,Power Bank ,Electronics,1,78.35,0,78.35,NEW YORK,Cash on Delivery,Returned,user241@email.com,22.04
+ORD000680,2025-05-26,CUST00151,PROD0013,Sunscreen,Beauty,999,-10.5,0,-10489.5,NEW YORK,,completed,user103@email.com,14.36
+ORD000549,2024-01-16,CUST00016,PROD0050,Smartphone Case,Electronics,6,100.58,7.4,,"Houston,",Net Banking,Pending,user110@email.com,19.88
+ORD000667,2023-09-07,CUST00098,PROD0032,Jump Rope,Sports,2,93.56,9.1,170.09,Boston,CREDIT CARD,cancelled ,user27@email.com,15.85
+ORD000718,2024-07-30,CUST00246,PROD0017,Coffee Maker,Home & Kitchen,2,159.08,19.6,255.8,Denver,paypal,PENDING,user145@email.com,11.2
+ORD000067,2024-10-10,CUST00004,PROD0040,Travel Guide,Books,3,225.67,0,677.01,Chicago,upi,Returned,user175@email.com,-5
+ORD000068,2023-10-06,CUST00044,PROD0013,Sunscreen,Beauty,3,417.9,0,1253.7,Columbus,CREDIT CARD,shipped,user387@email.com,8.63
+ORD001044,2023-12-01, CUST001  ,PROD0019,Fiction Novel,Books,1,221.65,14.4,189.73,Unknown,paypal,completed,user402@email.com,8.42
+ORD000212,2023-01-26,,PROD0025,Yoga Mat,Sports,5,233.47,,1167.35,Los Angeles,COD,Completed,user83@email.com,17.08
+ORD000013,2024-13-01,CUST00086,PROD0004,Water Bottle,Sports,8,303.34,0,2426.72,Dallas,,cancelled ,user375@email.com,13.89
+ORD000530,2025-04-17,cust99999,PROD0031,Towel Set,Home & Kitchen,2,307.7,0,615.4,Chicago,PayPal,N/A,user204@email.com,4.99
+ORD000784,2024/07/29,cust00007,PROD0049,Building Blocks,Toys,8,277.89,,2223.12,"Houston,",COD,Completed,user238@email.com,24.67
+ORD000300,2024-08-10,CUST00053,PROD0014,Board Game,Toys,6,114.05,28.3,490.64,Chicago,UPI,shipped,user26@email.com,free
+ORD000452,2023-02-05,CUST00201,PROD0036,Bluetooth Speaker,Electronics,1,406.11,10.7,362.66,Denver,Cash on Delivery,cancelled ,user416@email.com,16.56
+ORD000886,2025-07-26,CUST00056,PROD0027,Lipstick,Beauty,8,107.84,0,862.72,New York,,Cancelled,user458@email.com,13.41
+ORD001099,2025-03-04,CUST00235,PROD0017,Coffee Maker,Home & Kitchen,8,159.08,0,1272.64,Austin,COD,N/A,user65@email.com,18.55
+ORD000974,2024-05-11,CUST00277,PROD0045,Air Fryer,Home & Kitchen,2,136.8,0,273.6,Chicago,Net Banking,Completed,user93@email.com,21.1
+ORD000622,2025-08-02,CUST00250,PROD0020,Perfume,Beauty,7,152.7,13.1,928.87,Dallas,paypal,completed,user333@email.com,-5
+ORD001162,2023-06-15,CUST00038,PROD0033,Python Programming,Books,6,41.88,0,251.28,Austin,UPI,PENDING,user76@email.com,4.65
+ORD000377,2025-01-04,,PROD0005,History of AI,Books,8,86.45,0,691.6,,Debit Card,Cancelled,user181@email.com,18.23
+ORD000552,2024-07-23,cust99999,PROD0029,Laptop Stand,Electronics,7,300.28,22.6,1626.92,Indianapolis,Cash,Completed,user233@email.com,16.03
+ORD000794,2024-13-01,CUST00011,PROD0014,Board Game,Toys,7,114.05,0,798.35,Philadelphia,,PENDING,user208@email.com,17.87
+ORD001144,2025-05-13,CUST00281,PROD0042,Action Figure,Toys,2,252.64,0,505.28, chicago,,completed,user403@email.com,free
+ORD000594,2023-08-12,CUST00009,PROD0008,Keyboard,Electronics,8,0,0,0.0,Boston,Debit Card,Shipped,user489@email.com,0
+ORD000486,2023-02-07,CUST00181,PROD0012,Cookbook,Books,4,485.26,0,1941.04,San Jose,,Returned,user111@email.com,6.93
+ORD000274,2024-13-01,CUST00269,PROD0031,Towel Set,Home & Kitchen,2,307.7,0,615.4,Columbus,Net Banking,completed,user336@email.com,-5
+ORD000399,2025-05-23,CUST00225,PROD0047,Children Story,Books,4,162.74,0,650.96,NEW YORK,CREDIT CARD,Cancelled,user200@email.com,20.83
+ORD000363,2024-04-05,CUST00277,PROD0045,Air Fryer,Home & Kitchen,1,136.8,0,-100,Fort Worth,CREDIT CARD,cancelled ,user441@email.com,22.12
+ORD000238,2025-01-11,CUST00242,PROD0018,Dumbbell Set,Sports,7,267.13,11.1,1662.35,Fort Worth,Cash,,user306@email.com,0
+ORD000507,2023-06-25,CUST00263,PROD0029,Laptop Stand,Electronics,5,300.28,21.2,-100,Denver,Cash on Delivery,Shipped,user143@email.com,6.76
+ORD000003,2024-08-14,CUST00194,PROD0023,Cap,Clothing,5,153.15,0,765.75,Chicago,Credit Card,,user41@email.com,21.66
+ORD000007,2025-02-26,CUST00271,PROD0003,Non-Stick Pan,Home & Kitchen,1,368.68,26.5,270.98,Houston,UPI,PENDING,user@.com,19.05
+ORD000312,2023-10-24,CUST00241,PROD0028,Remote Car,Toys,6,261.97,0,1571.82,Los Angeles ,Cash,N/A,user134@email.com,free
+ORD001053,2025-07-28,CUST00119,PROD0013,Sunscreen,Beauty,5,417.9,0.9,2070.69,Phoenix,Credit Card,Cancelled,user485@email.com,14.54
+ORD000378,2024-02-15,CUST00027,PROD0010,Blender,Home & Kitchen,3,356.96,0,1070.88,San Jose,Net Banking,shipped,user265@email.com,19.19
+ORD000644,2023-04-19,CUST00247,PROD0037,Winter Jacket,Clothing,999,159.26,0,159100.74,Chicago,Net Banking,,user208@email.com,0.31
+ORD000808,2024-11-29,CUST00133,PROD0008,Keyboard,Electronics,6,434.43,0,2606.58,Boston,paypal,,user460@email.com,20.37
+ORD000216,2025-03-13,CUST00166,PROD0048,Nail Polish,Beauty,5,264.83,0,1324.15,Seattle,Cash on Delivery,Cancelled,user82@email.com,13.43
+ORD000576,2023-12-24,CUST00235,PROD0028,Remote Car,Toys,3,261.97,0,785.91,Seattle,credit card,Returned,user181@email.com,14.08
+ORD000028,2023-03-07,CUST00277,PROD0001,Wireless Headphones,,3,193.52,0,580.56,Austin,paypal,cancelled ,user216@email.com,19.24
+ORD001182,2023-05-15,CUST00027 ,PROD0015,Webcam,Electronics,8,99.09,20.8,627.83,Chicago,paypal,Returned,user322@email.com,8.03
+ORD000440,2025-04-03,CUST00022,PROD0027,Lipstick,Beauty,6,107.84,0,647.04,Dallas,credit card,Completed,user331@email.com,
+ORD000495,2023-10-25,CUST00174,PROD0042,Action Figure,Toys,4,252.64,0,,San Jose,UPI,Returned,user473@email.com,23.33
+ORD000817,2025-09-16,CUST00026,PROD0025,Yoga Mat,Sports,,233.47,0,,Los Angeles ,,completed,user382@email.com,10.56
+ORD000831,2025-07-23,CUST00041,PROD0038,Cutting Board,Home & Kitchen,5,57.86,0,289.3,Phoenix  ,upi,Returned,user280@email.com,13.81
+ORD000498,2025-08-29,CUST00146,PROD0050,Smartphone Case,Electronics,999,100.58,-5,105503.39,NEW YORK,UPI,Pending,user410@email.com,3.19
+ORD000766,2025-01-18,CUST00297,PROD0039,Soccer Ball,,5,345.27,0,1726.35,San Antonio,Debit Card,PENDING,  ,11.64
+ORD001049,2023-06-06,UNKNOWN,PROD0016,Scarf,clothing,3,99.87,22.6,231.9,new york,Debit Card,,user456@email.com,11.65
+ORD000355,2025-03-04,CUST00067,PROD0015,Webcam,Electronics,7,99.09,0,693.63,Columbus,Credit Card,Returned,user263@email.com,11.73
+ORD001074,03-06-2025,CUST00207,PROD0028,Remote Car,Toys,8,261.97,0,2095.76,San Antonio,PayPal,,user461@email.com,15.22
+ORD000439,2023-11-10,CUST00299,PROD0012,Cookbook,Books,4,485.26,25.9,1438.31,Fort Worth,Cash,Cancelled,user282@email.com,
+ORD000257,2023-07-10,CUST00140,PROD0011,Resistance Bands,Sports,8,20.09,1.5,158.31,San Jose,UPI,Cancelled,user120@email.com,
+ORD000292,N/A,CUST00148,PROD0015,Webcam,Electronics,6,99.09,0,594.54,Indianapolis,paypal,N/A,user93@email.com,5.82
+ORD000026,2023-02-21,CUST00055,PROD0003,Non-Stick Pan,Home & Kitchen,4,368.68,0,1474.72,Unknown,Debit Card,cancelled ,user272@email.com,14.89
+ORD000337,2023-02-26,cust00014,PROD0039,Soccer Ball,Sports,4,345.27,26.4,1016.47,NEW YORK,Net Banking,Completed,user317@email.com,-5
+ORD000746,2024-01-02,CUST00186,PROD0022,Power Bank,Electronics,2,78.35,0,156.7,Indianapolis,Net Banking,cancelled ,user280@email.com,4.76
+ORD000048,2024-12-15,CUST00171,PROD0007,Soft Toy,Toys,7,38.46,0,error,Fort Worth,Cash on Delivery,PENDING,user416@email.com,24.71
+ORD000319,2025-02-27,CUST00039,PROD0016,Scarf,Clothing,5,99.87,0,499.35,Philadelphia,,Pending,  ,1.5
+ORD000107,2025-09-28,CUST00052,PROD0030,Socks Pack,Clothing,8,32.76,,262.08,Columbus,COD,cancelled ,user494@email.com,7.14
+ORD000851,2025-01-08,CUST00113,PROD0003,,Home & Kitchen,2,368.68,0,737.36,Chicago,upi,completed,user434@email.com,0.83
+ORD000056,2025-01-11,CUST00059,PROD0034,Shampoo,Beauty,2,474.95,0,949.9,Fort Worth,,Returned,user8@email.com,3.09
+ORD000561,2023-12-07,CUST00157,PROD0039,Soccer Ball,Sports,4,345.27,0,1381.08,Phoenix,Credit Card,,user91@email.com,22.03
+ORD000214,2025-06-08,CUST00199,PROD0031,Towel Set,Home & Kitchen,6,307.7,22.3,1434.5,Unknown,CREDIT CARD,Returned,user332@email.com,14.71
+ORD000121,2023-07-14,CUST00246,PROD0042,Action Figure,Toys,6,252.64,0,1515.84,Houston,upi,cancelled ,user361@email.com,22.88
+ORD000590,20250915,CUST00033 ,PROD0005,History of AI,Books,2,,17.6,,Unknown,Cash,PENDING,user197@email.com,5.61
+ORD000524,2024-02-12,CUST00024,PROD0010,Blender,Home & Kitchen,0,356.96,10.7,0.0,Austin,,PENDING,user360@email.com,8.28
+ORD000376,2025-08-16,CUST00005,PROD0034,Shampoo,Beauty,5,474.95,0,3324.65,San Diego,UPI,Returned,user225@email.com,21.99
+ORD000073,2023-10-09,CUST00166,PROD0018,Dumbbell Set,Sports,6,267.13,13.3,1389.61,Jacksonville,paypal,Pending,user30@email.com,7.18
+ORD000632,2025-05-07,CUST00087,PROD0048,NAIL POLISH,Beauty,6,264.83,0,1588.98,Los Angeles,Debit Card,Returned,user374@email.com,4.31
+ORD000781,2023-01-10,CUST00006,PROD0026,Data Science Handbook,Books,1,394.74,0,394.74,Phoenix  ,PayPal,completed,user411@email.com,16.6
+ORD000528,2023-02-10,CUST00243,PROD0014,Board Game,Toys,8,114.05,3.7,878.64,San Jose,credit card,PENDING,user67@email.com,12.81
+ORD000527,2023-03-31,CUST00008,PROD0031,Towel Set,Home & Kitchen,5,307.7,0,1538.5,Charlotte,Net Banking,Cancelled,user144@email.com,8.83
+ORD000937,2025-08-24,CUST00038 ,PROD0033,Python Programming,Books,,41.88,27.9,,Chicago,Cash on Delivery,completed,user293@email.com,12.61
+ORD000995,27-Sep-2023,CUST00220,PROD0050,Smartphone Case,Electronics,1,100.58,0,100.58,Indianapolis,paypal,Shipped,user456@email.com,16.56
+ORD000579,2025/05/10, CUST001  ,PROD0025,Yoga Mat,Sports,1,233.47,22.9,180.01,Austin,Debit Card,N/A,user327@email.com,4.99
+ORD000589,2023-07-28,CUST00054,PROD0011,Resistance Bands,Sports,7,20.09,0,140.63,,paypal,Returned,user63@email.com,20.41
+ORD000675,2025-04-24,CUST00146,PROD0029,Laptop Stand,Electronics,3,300.28,29.3,636.89,Phoenix,Cash,Shipped,user225@email.com,14.32
+ORD001027,2025-09-02,CUST00196,PROD0031,Towel Set,Home & Kitchen,0,307.7,3.0,0.0,Denver,Cash on Delivery,Returned,user94@email.com,24.09
+ORD000326,14-Aug-2023,cust00013,PROD0043,USB-C Cable,Electronics,2,26.85,14.9,45.7,Columbus,Net Banking,N/A,user500@email.com,13.65
+ORD000537,2024-12-06,CUST00192,PROD0009,Cotton T-Shirt,Clothing,3,304.55,0,913.65,new york,UPI,N/A,user439@email.com,
+ORD000969,2023-07-13,CUST00286,PROD0016,Scarf,Clothing,8,99.87,16.4,667.93,Phoenix  ,Debit Card,Shipped,user460@email.com,23.21
+ORD000317,2023-11-17,,PROD0014,Board Game,Toys,4,114.05,0,,NEW YORK,Credit Card,Pending,user351@email.com,5.49
+ORD001141,,CUST00216,PROD0023,Cap,Clothing,7,153.15,9.5,970.21,NEW YORK,PayPal,PENDING,  ,17.59
+ORD000870,2023-01-06,CUST00269,PROD0041,Face Cream,Beauty,5,69.8,7.3,323.52,Charlotte,,Returned,user442@email.com,13.76
+ORD000553,2025-01-11,CUST00053,PROD0046,Tennis Racket,Sports,0,334.64,29.8,0.0,Philadelphia,Debit Card,Returned,user418@email.com,24.74
+ORD000715,2025/05/29,CUST00271,PROD0049,Building Blocks,Toys,,277.89,27.2,,San Antonio,COD,shipped,user500@email.com,21.8
+ORD001048,2023-11-05,CUST00128,PROD0048,Nail Polish,Beauty,8,264.83,6.2,1987.28,Charlotte,upi,shipped,user346@email.com,9.91
+ORD000674,2024-13-01,,PROD0027,Lipstick,Beauty,8,107.84,0,862.72,Los Angeles ,upi,cancelled ,user301@email.com,2.54
+ORD000573,2023-04-17,CUST00035,PROD0020,Perfume,Beauty,two,152.7,0,,,paypal,cancelled ,user154@email.com,24.57
+ORD000061,2024-08-25,CUST00090,PROD0036,Bluetooth Speaker,Electronics,1,406.11,0,406.11,Philadelphia,UPI,Completed,user59@email.com,11.91
+ORD000754,21-Jan-2025,CUST00275,PROD0040,Travel Guide,Books,4,225.67,0,902.68,Seattle,,Returned,user217@email.com,21.32
+ORD000093,2024-04-05,CUST00246,PROD0030,Socks Pack,Clothing,7,32.76,29.2,162.36,Seattle,Net Banking,Cancelled,user328@email.com,19.19
+ORD000901,2024-13-01,CUST00089,PROD0027,Lipstick,Beauty,4,107.84,0,,Charlotte,,completed,user434@email.com,
+ORD000433,2023-12-06,CUST00175,PROD0028,REMOTE CAR,Toys,8,261.97,0,2095.76,Boston,Net Banking,shipped,user54@email.com,19.73
+ORD000352,2024-12-02,CUST00094,PROD0039,Soccer Ball,Sports,3,345.27,0,1035.81,Dallas,COD,N/A,,3.59
+ORD000979,2024-12-22,CUST00001,PROD0031,Towel Set,Home & Kitchen,1,307.7,19.0,249.24,Columbus,UPI,Completed,user70@email.com,21.61
+ORD000281,2023-01-31,CUST00035,PROD0026,Data Science Handbook,Books,2,394.74,0,789.48,N/A,credit card,PENDING,user421@email.com,23.33
+ORD000463,2023-03-14,CUST00203,PROD0049,Building Blocks,Toys,6,277.89,0,1667.34,Los Angeles,Debit Card,PENDING,user391@email.com,6.38
+ORD000515,2023-06-03,cust00010,PROD0050,Smartphone Case,Electronics,7,100.58,0,704.06,NEW YORK,UPI,shipped,user54@email.com,12.48
+ORD000360,2025-08-05,CUST00044,PROD0026,Data Science Handbook,Books,7,394.74,0,2763.18,Philadelphia,Debit Card,completed,user305@email.com,10.11
+ORD000465,2024-02-12,CUST00127,PROD0011,Resistance Bands,Sports,3,,0,,N/A,Debit Card,Returned,user85@email.com,6.32
+ORD000574,2025-04-18,cust00014,PROD0049,Building Blocks,Toys,2,277.89,0,555.78,San Diego,PayPal,Returned,user244@email.com,7.24
+ORD000874,2023-10-29,CUST00090,PROD0048,Nail Polish,Beauty,2,264.83,0,529.66,"Houston,",credit card,PENDING,user29@email.com,17.49
+ORD001180,2024-04-04,CUST00129,PROD0026,Data Science Handbook,Books,3,394.74,0,1184.22,San Diego,Credit Card,Completed,user380@email.com,22.56
+ORD000651,22-Nov-2023,cust99999,PROD0044,Running Shoes,Clothing,5,455.57,0,2277.85,New York,upi,completed,user373@email.com,20.67
+ORD000757,2025/08/07,CUST00021,PROD0006,Hair Oil,Beauty,1,86.44,0,86.44,Houston,paypal,Cancelled,user387@email.com,8.93
+ORD000183,2025-06-17,CUST00055,PROD0030,Socks Pack,Clothing,2,32.76,0,65.52,Fort Worth,COD,cancelled ,user89@email.com,3.6
+ORD000671,2025-03-15,CUST00053,PROD0038,Cutting Board,Home & Kitchen,4,57.86,4.7,220.56,Philadelphia,Cash,,user243@email.com,19.72
+ORD000535,2023-02-07,CUST00002,PROD0032,Jump Rope,Sports,3,93.56,0,280.68,San Antonio,credit card,N/A,user194@email.com,5.24
+ORD000111,2025-07-05,CUST00032,PROD0024,Lamp,Home & Kitchen,8,189.52,0,1516.16,"Houston,",UPI,N/A,user152@email.com,5.52
+ORD000371,2025-04-27,CUST00083,PROD0026,Data Science Handbook ,Books,4,394.74,5.8,1487.38,Indianapolis,paypal,PENDING,user104@email.com,0
+ORD000240,2025-04-29,cust00001,PROD0015,Webcam,electronics,1,99.09,2.7,96.41,Boston,Net Banking,completed,user311@email.com,11.37
+ORD000740,2025-01-06,CUST00172,PROD0017,Coffee Maker,Home & Kitchen,7,159.08,0,1113.56,San Antonio,CREDIT CARD,Shipped,user471@email.com,20.14
+ORD000658,2024-04-17,CUST00123,PROD0023,Cap,Clothing,4,153.15,26.8,448.42,NEW YORK,Cash,cancelled ,user499@email.com,16.03
+ORD000621,2023-05-11,CUST00248,PROD0020,Perfume,Beauty,2,152.7,0,305.4,Philadelphia,paypal,N/A,user446@email.com,0.98
+ORD000205,2023-03-22,CUST00143,PROD0035,Puzzle Set,,4,483.16,0,1932.64,Phoenix  ,Cash,cancelled ,user162@email.com,free
+ORD001092,2024-10-15,CUST00048,PROD0020,Perfume,Beauty,8,152.7,0,1221.6,"Houston,",PayPal,Shipped,user381@email.com,7.39
+ORD000845,2024-11-14,CUST00183,PROD0022,Power Bank,Electronics,3,,0,,Philadelphia,,Cancelled,invalid@,0
+ORD000262,2023-09-14,CUST00178,PROD0037,Winter Jacket,Clothing,8,159.26,11.3,1130.11,Indianapolis,upi,cancelled ,user251@email.com,0
+ORD001142,2025-06-24,CUST00205,PROD0021,Doll,Toys,3,309.81,27.8,671.05,Unknown,paypal,cancelled ,user405@email.com,11.83
+ORD000678,2023-03-19,CUST00168,PROD0039,Soccer Ball,Sports,8,345.27,0,2762.16,Denver,,Pending,user434@email.com,14.35
+ORD000340,2025-06-14,CUST00092,PROD0037,Winter Jacket,Clothing,2,159.26,20.9,251.95,new york,Credit Card,Shipped,user478@email.com,-5
+ORD000797,2023-08-26,CUST00143,PROD0002,Denim Jeans,Clothing,3,475.85,0,1427.55,Nashville,Credit Card,shipped,user489@email.com,18.53
+ORD001094,2023-06-29,CUST00267,PROD0031,Towel Set,Home & Kitchen,3,307.7,14.2,792.02,Denver,Debit Card,completed,user244@email.com,-5
+ORD001114,2024-01-03,cust00003,PROD0020,Perfume,Beauty,2,152.7,14.1,262.34,San Diego,upi,Returned,user244@email.com,20.74
+ORD000184,2023-01-21,UNKNOWN,PROD0029,Laptop Stand,Electronics,1,300.28,0,300.28,Phoenix  ,UPI,Shipped,user357@email.com,24.31
+ORD000138,2024-06-17,CUST00044,PROD0030,Socks Pack,Clothing,3,32.76,0,98.28,Indianapolis,Debit Card,cancelled ,user35@email.com,20.25
+ORD001177,2025-02-03,CUST00127,PROD0026,Data Science Handbook,Books,3,394.74,,1184.22,new york,Cash on Delivery,Pending,user138@email.com,2.26
+ORD000738,2025-05-21,CUST00043,PROD0037,Winter Jacket,Clothing,8,free,0,,Seattle,UPI,Returned,user@.com,1.3
+ORD000661,2023-12-04,CUST00087,PROD0004,Water Bottle,Sports,6,303.34,14.5,1556.13,Chicago,CREDIT CARD,N/A,user134@email.com,17.23
+ORD000081,23-Mar-2024,CUST00064,PROD0039,Soccer Ball,Sports,3,345.27,0,1035.81,,CREDIT CARD,completed,user203@email.com,5.89
+ORD000923,2023-05-12,CUST00034,PROD0027,Lipstick,Beauty,1,107.84,20.0,86.27,Boston,CREDIT CARD,Completed,user233@email.com,-5
+ORD000830,,UNKNOWN,PROD0049,Building Blocks,Toys,7,0,0,0.0,Nashville,Cash,Pending,user@.com,7.96
+ORD001089,2023-06-20,CUST00004,PROD0040,Travel Guide,Books,2,225.67,21.9,-100,Unknown,Cash,Completed,user338@email.com,
+ORD000030,2023-03-27,CUST00240,PROD0016,Scarf,Clothing,1,99.87,0,99.87,Phoenix,,cancelled ,user168@email.com,8.17
+ORD001076,2023-03-18,CUST00026 ,PROD0009,Cotton T-Shirt,Clothing,2,304.55,0,609.1,Charlotte,Cash,cancelled ,user471@email.com,2.77
+ORD000472,2024-06-16,CUST00244,PROD0026,Data Science Handbook,Books,2,394.74,5.9,742.9,Phoenix  ,,N/A,user408@email.com,free
+ORD000166,2023-07-22,CUST00049,PROD0022,,Electronics,3,78.35,23.4,180.05,Jacksonville,COD,,,20.32
+ORD000249,2023-07-23,CUST00132,PROD0022,Power Bank,Electronics,7,78.35,0,548.45,new york,COD,Returned,user182@email.com,12.76
+ORD000308,2023-06-27,CUST00202,PROD0010,Blender,Home & Kitchen,7,356.96,0,2498.72,San Antonio,paypal,PENDING,user214@email.com,0
+ORD000799,2023-09-05,CUST00263,PROD0029,Laptop Stand,Electronics,1,300.28,14.1,257.94,,Net Banking,shipped,user233@email.com,
+ORD000873,2024-10-14,CUST00234,PROD0022,Power Bank,Electronics,5,78.35,0,391.75,San Diego,PayPal,completed,user396@email.com,7.74
+ORD000347,2023-03-31,CUST00191,PROD0025,Yoga Mat,Sports,,233.47,0,,N/A,CREDIT CARD,N/A,user148@email.com,free
+ORD000335,2024-02-21,CUST00051,PROD0043,USB-C Cable,Electronics,4,26.85,0,107.4,Phoenix,Net Banking,Shipped,user9@email.com,7.62
+ORD000286,2024-08-27,CUST00058,PROD0041,Face Cream,Beauty,3,69.8,10%,209.4,N/A,Cash on Delivery,cancelled ,user333@email.com,19.91
+ORD000997,2024-11-08,CUST00201,PROD0024,Lamp,,2,189.52,17.5,312.71,Los Angeles ,,Cancelled,user170@email.com,1.74
+ORD000098,2024-05-25,CUST00296,PROD0023,Cap ,Clothing,4,153.15,0,612.6,Indianapolis,Credit Card,Pending,user495@email.com,14.58
+ORD000584,2024-12-20,CUST00040 ,PROD0039,Soccer Ball,Sports,1,345.27,28.4,247.21,Phoenix  ,Credit Card,completed,user307@email.com,23.23
+ORD001061,2025-02-23,CUST00170,PROD0045,Air Fryer,Home & Kitchen,999,-10.5,11.2,-9314.68,Jacksonville,Debit Card,shipped,user404@email.com,12.42
+ORD001193,03-27-2024,CUST00220,PROD0032,Jump Rope,Sports,8,93.56,0,748.48,,,cancelled ,user89@email.com,4.57
+ORD000629,2024-01-05,CUST00287,PROD0008,Keyboard,Misc,4,434.43,10%,1737.72,New York,Cash,Shipped,user469@email.com,23.04
+ORD000711,2024-02-10,CUST00015,PROD0008,Keyboard,Electronics,8,434.43,0,3475.44,Charlotte,UPI,Returned,user120@email.com,21.9
+ORD000815,2023-08-04,CUST00206,PROD0005,History of AI,Books,4,86.45,0,,Phoenix,upi,Cancelled,user61@email.com,free
+ORD001187,2023-01-12,CUST00084,PROD0035,Puzzle Set,Toys,5,483.16,0,2415.8,Nashville,upi,,user356@email.com,3.36
+ORD000907,2025-01-06,CUST00256,PROD0024,Lamp,Home & Kitchen,4,189.52,0,758.08,new york,credit card,Cancelled,user434@email.com,18.47
+ORD000719,2024-02-03,CUST00223,PROD0001,Wireless Headphones,Electronics,8,,0,,Phoenix  ,,Shipped,user271@email.com,4.7
+ORD000066,2025-09-24,CUST00285,PROD0002,Denim Jeans,Clothing,5,475.85,0,2379.25,Nashville,Cash,,user@.com,-5
+ORD001161,2024-10-18, CUST001  ,PROD0033,PYTHON PROGRAMMING,Books,6,41.88,19.6,202.03,Indianapolis,COD,N/A,user@.com,5.71
+ORD000778,2024-05-20,CUST00035 ,PROD0022,Power Bank,Electronics,7,-10.5,26.0,-54.39,Charlotte,,N/A,user85@email.com,
+ORD000595,2023-04-28,CUST00254,PROD0039,Soccer Ball,Sports,3,345.27,0,1035.81,Philadelphia,COD,Returned,user22@email.com,5.7
+ORD001108,2023-10-25,CUST00250,PROD0006,Hair Oil,Beauty,6,86.44,0,518.64,NEW YORK,Cash,Completed,user467@email.com,12.15
+ORD001123,2024-08-24,CUST00095,PROD0032,Jump Rope,Sports,2,93.56,10.3,167.85,Chicago,PayPal,N/A,user9@email.com,7.63
+ORD000303,2023-06-24,CUST00167,PROD0029,Laptop Stand,Electronics,1,,0,,Jacksonville,Cash,shipped,user419@email.com,2.67
+ORD000255,2024-09-03,cust99999,PROD0040,Travel Guide,Books,8,225.67,0,1805.36,New York,paypal,completed,user224@email.com,4.08
+ORD001006,,CUST00066,PROD0014,Board Game,Toys,-1,114.05,21.4,-89.64,Indianapolis,Net Banking,Cancelled,user191@email.com,1.04
+ORD000978,2023-10-28,CUST00136,PROD0001,Wireless Headphones,Electronics,6,193.52,24.7,874.32,,,Completed,user65@email.com,0
+ORD000313,2023-10-12,CUST00150,PROD0026,Data Science Handbook,Books,1,394.74,15.2,334.74,Nashville,UPI,Shipped,,22.75
+ORD000554,2025-04-11,CUST00023,PROD0024,Lamp,Home & Kitchen,5,189.52,0,947.6,Los Angeles ,PayPal,Cancelled,user164@email.com,18.83
+ORD000222,N/A,CUST00025 ,PROD0017,Coffee Maker,Home & Kitchen,6,159.08,26.2,704.41,Fort Worth,paypal,Returned,user384@email.com,18.15
+ORD000478,2024-05-14,CUST00108,PROD0004,Water Bottle,Sports,4,303.34,26.0,897.89,San Jose,,,user12@email.com,8.44
+ORD000389,2024-07-14,CUST00292,PROD0005,History of AI,Books,1,86.45,23.9,65.79,Fort Worth,Debit Card,PENDING,user395@email.com,2.23
+ORD000236,2024-01-10,CUST00186,PROD0023,Cap,Clothing,7,153.15,25.6,797.61,NEW YORK,credit card,Returned,user248@email.com,free
+ORD000849,2024-06-30,CUST00047,PROD0040,Travel Guide,Books,2,225.67,1.6,444.12,Houston,paypal,cancelled ,user365@email.com,3.38
+ORD000523,2023-01-12,CUST00040,PROD0016,Scarf,Clothing,6,0,3.2,0.0,San Jose,Cash on Delivery,Returned,user124@email.com,24.42
+ORD000744,2023-08-22,CUST00097,PROD0037,Winter Jacket,Clothing,2,159.26,0,318.52,new york,,shipped,user328@email.com,10.66
+ORD000306,2023-10-26,CUST00072,PROD0023,Cap,Clothing,1,153.15,0,153.15,Boston,CREDIT CARD,Returned,user154@email.com,22.83
+ORD000807,2024-04-24,CUST00034,PROD0041,Face Cream,Beauty,1,69.8,0,69.8,Philadelphia,COD,cancelled ,user416@email.com,15.42
+ORD000962,2024-01-31,cust99999,PROD0046,Tennis Racket,Sports,1,334.64,0,334.64,Phoenix  ,Cash on Delivery,completed,user75@email.com,22.34
+ORD000250,2024-03-07, CUST001  ,PROD0046,Tennis Racket,Sports,3,334.64,0,1003.92,Boston,credit card,Pending,user161@email.com,7.28
+ORD000794,2024-13-01,CUST00011,PROD0014,Board Game,Toys,7,114.05,0,798.35,Philadelphia,,PENDING,user208@email.com,17.87
+ORD000072,2025-02-17,CUST00180,PROD0014,Board Game,Toys,3,114.05,5.9,321.96,Chicago,PayPal,,user390@email.com,17.03
+ORD000095,2023-12-12,cust00004,PROD0038,Cutting Board,Home & Kitchen,3,57.86,0,173.58,Boston,Credit Card,Completed,user395@email.com,16.28
+ORD000844,,CUST00129,PROD0036,Bluetooth Speaker,Electronics,4,,5.0,,,Cash on Delivery,PENDING,user258@email.com,23.12
+ORD000034,2025-09-15,CUST00026 ,PROD0049,Building Blocks,Toys,8,277.89,0,2223.12,Nashville,,Returned,user423@email.com,6.71
+ORD000804,2024-12-29,CUST00181,PROD0041,Face Cream,Beauty,5,69.8,29.8,245.0,Los Angeles,Credit Card,Returned,user13@email.com,8.35
+ORD000449,2025-06-25,CUST00222,PROD0041,Face Cream,Beauty,3,69.8,21.0,165.43,Dallas,COD,Returned,user358@email.com,22.56
+ORD000446,2024-01-13,cust99999,PROD0044,Running Shoes,Clothing,4,455.57,0,1822.28,Philadelphia,Net Banking,PENDING,user67@email.com,11.96
+ORD001046,2023-07-14,CUST00237,PROD0024,Lamp,Home & Kitchen,7,189.52,0,1326.64,Austin,COD,,user285@email.com,24.27
+ORD000932,2023-12-05,CUST00017,PROD0042,Action Figure,Misc,5,252.64,0,1263.2,New York,,Pending,,11.68
+ORD000712,2025-03-04,,PROD0021,Doll,Toys,1,309.81,22.6,239.79,Nashville,Debit Card,Returned,user100@email.com,15.04
+ORD000078,2025-02-28,CUST00116,PROD0021,Doll,Toys,3,309.81,0,929.43, chicago,paypal,Completed,user317@email.com,free
+ORD000085,2023-02-15,,PROD0036,Bluetooth Speaker,Electronics,2,406.11,0,812.22,Austin,,,user238@email.com,11.96
+ORD000672,2025-04-29,CUST00242,PROD0021,Doll,Toys,5,309.81,0,1549.05,Charlotte,UPI,PENDING,user3@email.com,10.1
+ORD000083,2024-09-29,CUST00271,PROD0014,Board Game,Misc,5,114.05,7.2,529.19,Houston,,cancelled ,,17.96
+ORD000458,2024-10-21,cust00007,PROD0028,Remote Car,Toys,8,261.97,0,2095.76,Los Angeles,paypal,PENDING,user13@email.com,18.32
+ORD000771,32/13/2024,CUST00003,PROD0028,Remote Car,Toys,3,261.97,0,785.91,Denver,credit card,Returned,user296@email.com,10.2
+ORD000437,2025-05-24,CUST00163,PROD0046,Tennis Racket,Sports,4,334.64,0,1338.56,Phoenix  ,PayPal,completed,user144@email.com,21.29
+ORD000616,2023-10-17,,PROD0036,Bluetooth Speaker,Electronics,2,406.11,0,812.22,San Diego,COD,N/A,user64@email.com,9.45
+ORD000935,2023-08-27,CUST00051,PROD0037,Winter Jacket,Clothing,8,159.26,14.4,1090.61,"Houston,",Net Banking,PENDING,user496@email.com,14.77
+ORD000405,2025-07-13,CUST00162,PROD0034,Shampoo,Beauty,3,474.95,-5,1496.09,new york,upi,,user215@email.com,17.02
+ORD001069,2024-06-28,CUST00039,PROD0039,Soccer Ball,Sports,1,345.27,8.5,315.92,Houston,UPI,N/A,user451@email.com,21.55
+ORD000635,2023-10-30,CUST00072,PROD0008,Keyboard,Electronics,7,434.43,26.5,2235.14,Charlotte,UPI,Pending,user179@email.com,13.08
+ORD000677,2025-04-05,CUST00131,PROD0027,Lipstick,Beauty,1,107.84,0,107.84,Los Angeles,,Returned,user192@email.com,free
+ORD000105,2025-03-25,CUST00107,PROD0010,Blender,Home & Kitchen,8,356.96,0,2855.68,San Jose,Debit Card,shipped,user203@email.com,23.87
+ORD000963,2024-04-30,CUST00019,PROD0030,Socks Pack,Clothing,2,32.76,0,65.52,Seattle,Debit Card,PENDING,user131@email.com,16.75
+ORD001086,2023-05-15,CUST00063,PROD0005,History of AI,Books,,86.45,0,,Los Angeles,credit card,cancelled ,user217@email.com,23.23
+ORD000063,2024-06-01,CUST00034,PROD0028,Remote Car,Toys,6,261.97,0,1571.82,Houston,,N/A,user450@email.com,18.02
+ORD000282,2024-09-02,CUST00095,PROD0022,Power Bank,Electronics,two,78.35,0,,NEW YORK,Credit Card,completed,user69@email.com,15.12
+ORD000747,2024-04-19,CUST00239,PROD0010,Blender,Home & Kitchen,6,356.96,0,2141.76,Charlotte,CREDIT CARD,Cancelled,user215@email.com,21.83
+ORD000239,2024-12-16,CUST00037 ,PROD0034,Shampoo,Beauty,5,474.95,0,2374.75,Philadelphia,COD,Completed,user500@email.com,-5
+ORD000224,2023-11-22,CUST00183,PROD0020,Perfume,Beauty,4,152.7,0,610.8,Austin,Cash,,user290@email.com,20.19
+ORD000146,2024-08-09,CUST00031,PROD0016,Scarf,Clothing,5,99.87,29.4,352.54,Unknown,paypal,,user385@email.com,22.97
+ORD001143,2024-08-02,CUST00028 ,PROD0020,Perfume,Beauty,1,,0,,San Jose,PayPal,Cancelled,user416@email.com,1.34
+ORD000374,2023-11-21,CUST00131,PROD0039,Soccer Ball,Sports,1,345.27,0,345.27,Indianapolis,COD,Returned,user480@email.com,free
+ORD000119,2023-07-08,CUST00030 ,PROD0018,Dumbbell Set,Sports,6,267.13,0,1602.78,Indianapolis,Cash on Delivery,Returned,user413@email.com,1.44
+ORD000842,2024-05-19,CUST00126,PROD0005,History of AI,Books,6,86.45,0,518.7,Denver,Credit Card,N/A,user71@email.com,21.66
+ORD000251,2023-06-21,CUST00228,PROD0004,Water Bottle,Sports,6,303.34,0,1820.04,New York,PayPal,N/A,user381@email.com,2.0
+ORD001181,2023-10-05,,PROD0050,Smartphone Case,Electronics,2,100.58,,201.16,"Houston,",PayPal,Pending,user122@email.com,1.23
+ORD000010,2023-03-07,,PROD0044,Running Shoes,Clothing,8,455.57,0,3644.56,Boston,paypal,Returned,,22.64
+ORD000450,2024-02-24,CUST00063,PROD0033,Python Programming,Books,2,41.88,0,,Dallas,Cash on Delivery,Returned,  ,18.65
+ORD000918,2025-08-08,CUST00035,PROD0039,Soccer Ball,Misc,3,345.27,0,1035.81,New York,,Cancelled,user475@email.com,14.67
+ORD000390,2025-04-05,CUST00146,PROD0041,Face Cream,Beauty,3,69.8,0,209.4,N/A,COD,shipped,user427@email.com,5.0
+ORD000653,2023-10-26,CUST00288,PROD0021,Doll,Misc,2,309.81,0,,Charlotte,COD,cancelled ,user320@email.com,10.79
+ORD000946,2023-02-14,CUST00120,PROD0011,Resistance Bands,Sports,7,20.09,0,140.63,Austin,paypal,Returned,user425@email.com,22.75
+ORD000558,2024-04-08,CUST00055,PROD0029,Laptop Stand,Electronics,4,3002.7999999999997,0.9,11903.1,Houston,paypal,Pending,user204@email.com,12.7
+ORD000461,2025-02-17,CUST00204,PROD0038,Cutting Board,Home & Kitchen,8,57.86,0,462.88,Phoenix  ,CREDIT CARD,Completed,user43@email.com,23.04
+ORD001129,2025-01-14,CUST00222,PROD0006,Hair Oil,,1,86.44,0,86.44, chicago,PayPal,Completed,user450@email.com,5.45
+ORD000145,2025-04-11,CUST00017,PROD0035,Puzzle Set,Toys,6,483.16,26.0,2145.23,Phoenix  ,upi,shipped,user313@email.com,4.15
+ORD000502,2023-10-20,CUST00215,PROD0029,Laptop Stand,Electronics,1,300.28,19.8,240.82,Nashville,Debit Card,PENDING,user187@email.com,2.79
+ORD001132,2025-08-01,CUST00043,PROD0017,Coffee Maker,Home & Kitchen,7,159.08,7.3,1032.27,,Cash,Returned,user223@email.com,
+ORD000540,2025-04-19,CUST00213,PROD0004,Water Bottle,Sports,0,303.34,0,0.0,Austin,Net Banking,Cancelled,user124@email.com,9.78
+ORD000178,24-Jul-2023,CUST00252,PROD0009,Cotton T-Shirt,Clothing,6,,19.9,,Philadelphia,COD,Shipped,user60@email.com,9.94
+ORD001183,2025-04-29,CUST00004,PROD0035,Puzzle Set,Toys,8,483.16,0,3865.28,San Antonio,Cash on Delivery,Cancelled,user221@email.com,8.95
+ORD000729,2024-09-19,CUST00145,PROD0019,Fiction Novel,Books,7,221.65,0,1551.55,new york,CREDIT CARD,cancelled ,user275@email.com,5.6
+ORD000611,2024-11-15,CUST00272,PROD0013,Sunscreen,Beauty,3,417.9,0,1253.7,Phoenix  ,COD,PENDING,user152@email.com,
+ORD000096,2025-04-06,CUST00255,PROD0009,Cotton T-Shirt,Clothing,5,304.55,0,1522.75,San Jose,CREDIT CARD,Pending,user213@email.com,5.1
+ORD000008,2025-03-08,CUST00028 ,PROD0038,Cutting Board,Home & Kitchen,4,57.86,0,231.44,New York,Cash,completed,user186@email.com,20.79
+ORD000583,2025-08-17,CUST00257,PROD0027,Lipstick,Beauty,1,107.84,0,error,Dallas,COD,Completed,user172@email.com,1.48
+ORD000885,2025-06-03,CUST00158,PROD0006,Hair Oil,Beauty,1,86.44,17.4,71.4,Seattle,Credit Card,Pending,user28@email.com,5.12
+ORD000358,2023-05-07,CUST00182,PROD0008,Keyboard,Electronics,7,434.43,3.4,2937.62,Seattle,PayPal,cancelled ,user286@email.com,2.06
+ORD000330,2024-03-21,CUST00243,PROD0002,Denim Jeans,Clothing,3,475.85,19.3,,Nashville,,cancelled ,user91@email.com,
+ORD000736,2024-04-29,CUST00128,PROD0040,Travel Guide,Books,3,225.67,1.2,668.89,Philadelphia,,Completed,user186@email.com,14.62
+ORD000909,2023-01-25,CUST00047,PROD0018,Dumbbell Set,Sports,7,267.13,21.5,1467.88,"Houston,",CREDIT CARD,PENDING,  ,0
+ORD000259,2024-11-12,CUST00227,PROD0030,Socks Pack,Clothing,1,32.76,0,32.76,Indianapolis,credit card,,user82@email.com,1.05
+ORD000912,2025-01-20,CUST00296,PROD0008,Keyboard,Electronics,4,434.43,0,1737.72,Austin,COD,shipped,user284@email.com,5.91
+ORD000936,07-Nov-2024,cust00013,PROD0022,Power Bank,Electronics,1,0,12.9,0.0,Charlotte,Credit Card,Returned,user433@email.com,
+ORD000812,2023-06-05,CUST00220,PROD0040,Travel Guide,Books,2,225.67,0,0,New York,CREDIT CARD,Cancelled,user188@email.com,22.95
+ORD001016,2023-10-05,CUST00103,PROD0032,Jump Rope,Sports,4,93.56,0,374.24, chicago,Cash,Returned,user221@email.com,7.01
+ORD001111,2025-02-12,CUST00107,PROD0025,Yoga Mat,Sports,2,233.47,8.1,429.12,Boston,Net Banking,Returned,user295@email.com,10.46
+ORD000526,2025-08-20,CUST00265,PROD0047,Children Story,Books,6,162.74,8.7,891.49,N/A,upi,,user313@email.com,23.95
+ORD000865,2025-06-22,CUST00146,PROD0043,USB-C Cable,Electronics,2,26.85,0,53.7,San Antonio,credit card,completed,user454@email.com,-5
+ORD001194,2023-12-20,CUST00158,PROD0031,Towel Set ,Home & Kitchen,5,307.7,0,1538.5,Austin,,Returned,user131@email.com,19.02
+ORD000786,2023-08-22,CUST00024 ,PROD0022,Power Bank,Electronics,5,78.35,0,391.75,N/A,Net Banking,Returned,user157@email.com,-5
+ORD001165,2024-09-10,CUST00121,PROD0002,Denim Jeans,Clothing,6,475.85,0,2855.1,Indianapolis,Cash on Delivery,shipped,user@.com,11.23
+ORD000441,2023-07-21,CUST00041,PROD0028,Remote Car,Toys,4,261.97,1.1,1036.35,Dallas,UPI,N/A,user141@email.com,0
+ORD000532,2024-10-12,CUST00028,PROD0048,Nail Polish,Beauty,1,264.83,0,264.83,Phoenix,Debit Card,Shipped,user365@email.com,10.49
+ORD001007,2023-12-19,CUST00172,PROD0047,Children Story,Books,7,162.74,20.5,905.65,Nashville,Cash on Delivery,cancelled ,user463@email.com,15.28
+ORD000229,2024-01-23,CUST00025 ,PROD0046,Tennis Racket,Sports,5,334.64,0,1673.2,new york,,Pending,user465@email.com,10.15
+ORD001145,2024-07-13,CUST00046,PROD0041,Face Cream,Beauty,2,69.8,0,139.6,Seattle,PayPal,cancelled ,user220@email.com,5.63
+ORD000213,2024-11-22,CUST00105,PROD0034,Shampoo,Beauty,1,474.95,0,474.95,Unknown,Cash on Delivery,N/A,user262@email.com,19.97
+ORD000080,2024-03-04,CUST00293,PROD0009,Cotton T-Shirt,Clothing,8,304.55,0,2436.4,,Cash on Delivery,shipped,user329@email.com,9.28
+ORD000149,2024-11-29,CUST00146,PROD0021,Doll,Toys,3,309.81,0,929.43,Los Angeles,Debit Card,,user64@email.com,3.95
+ORD000619,2023-04-22,CUST00296,PROD0040,Travel Guide,Books,7,225.67,0,1579.69,Austin,PayPal,,invalid@,23.55
+ORD000739,2023-03-24,CUST00222,PROD0049,Building Blocks,Misc,5,277.89,0,,Los Angeles,PayPal,shipped,  ,free
+ORD000724,2023-09-20,,PROD0037,Winter Jacket,Clothing,8,free,0,,Los Angeles ,upi,PENDING,user439@email.com,2.71
+ORD000134,2023-10-15,CUST00164,PROD0037,Winter Jacket,Clothing,8,159.26,0,1274.08,Fort Worth,Net Banking,Pending,user280@email.com,
+ORD000819,2023-07-26,cust00015,PROD0006,Hair Oil,Beauty,1,86.44,0,86.44,Austin,COD,,user141@email.com,22.24
+ORD000409,2024-13-01,CUST00290,PROD0002,Denim Jeans,Clothing,4,475.85,23.5,1456.1,Seattle,upi,Returned,user99@email.com,9.03
+ORD000702,2023-10-27,CUST00222,PROD0008,Keyboard,Electronics,1,434.43,18.9,352.32,Phoenix  ,Credit Card,N/A,user184@email.com,8.6
+ORD000508,,CUST00108,PROD0007,Soft Toy ,Toys,1,38.46,0,38.46,Dallas,upi,Cancelled,user167@email.com,15.65
+ORD000921,2023-01-14,CUST00128,PROD0013,Sunscreen,Beauty,4,free,11.4,,Charlotte,COD,,user54@email.com,-5
+ORD000505,2023-03-11,CUST00287,PROD0045,Air Fryer,Home & Kitchen,6,136.8,0,820.8,Seattle,paypal,Completed,user496@email.com,
+ORD000887,2024-09-13,CUST00215,PROD0025,Yoga Mat,Sports,6,233.47,0,1400.82,"Houston,",credit card,Returned,user449@email.com,0
+ORD000348,N/A,cust00007,PROD0015,Webcam,Electronics,4,99.09,0,0,"Houston,",credit card,Pending,user285@email.com,14.2
+ORD000387,N/A,CUST00093,PROD0020,Perfume,Beauty,5,152.7,0,763.5,Philadelphia,credit card,Pending,user49@email.com,0.65
+ORD000001,2025-07-02,CUST00013,PROD0027,Lipstick,Beauty,4,107.84,0,-100,Boston,credit card,Completed,user309@email.com,0
+ORD000361,2024-05-11,CUST00298,PROD0018,,Sports,7,267.13,0,1869.91,Phoenix,,cancelled ,user255@email.com,23.56
+ORD001158,2024-05-25,CUST00048,PROD0045,Air Fryer,Home & Kitchen,0,136.8,0,0.0,"Houston,",PayPal,cancelled ,user404@email.com,23.98
+ORD000476,2024-11-10,CUST00217,PROD0013,Sunscreen,Beauty,6,417.9,0,error,San Diego,Debit Card,PENDING,user418@email.com,20.93
+ORD000814,2023-04-09,CUST00146,PROD0016,Scarf,Clothing,8,99.87,19.3,0,San Diego,upi,Shipped,user356@email.com,11.31
+ORD000788,2025-06-27,CUST00150,PROD0008,Keyboard,Electronics,4,434.43,0,1737.72,Indianapolis,Net Banking,Returned,user478@email.com,13.44
+ORD000173,2023-06-28,CUST00081,PROD0006,Hair Oil,Beauty,7,86.44,0,605.08,Denver,upi,shipped,user302@email.com,9.46
+ORD000451,11-Mar-2023,,PROD0010,Blender,Home & Kitchen,3,356.96,0,1070.88,Los Angeles ,CREDIT CARD,Cancelled,user83@email.com,
+ORD000126,2023-09-07,CUST00130,PROD0029,Laptop Stand,Electronics,5,300.28,28.8,1069.0,San Diego,UPI,,,free
+ORD000668,,CUST00102,PROD0001,Wireless Headphones,Electronics,4,193.52,0.3,771.76,"Houston,",COD,Returned,user387@email.com,0.01
+ORD000531,2025-08-29,CUST00249,PROD0023,Cap,Clothing,8,153.15,0,1225.2,new york,Cash on Delivery,completed,user397@email.com,23.41
+ORD000091,2024-03-31,CUST00252,PROD0048,Nail Polish,Beauty,3,264.83,0,794.49,Phoenix  ,COD,completed,user282@email.com,22.28
+ORD001186,2024-02-20,CUST00005,PROD0024,Lamp,Home & Kitchen,3,189.52,0,568.56,N/A,UPI,cancelled ,user302@email.com,22.02
+ORD000182,2025-07-28,CUST00035,PROD0002,Denim Jeans,Clothing,7,475.85,0,3330.95,Phoenix  ,upi,shipped,user58@email.com,3.7
+ORD000975,2024-01-03, CUST001  ,PROD0045,Air Fryer,Misc,1,136.8,26.4,100.68,new york,paypal,shipped,user195@email.com,
+ORD000415,N/A,CUST00159,PROD0004,Water Bottle,Sports,2,303.34,28.7,432.56,Seattle,Cash on Delivery,cancelled ,,
+ORD000252,2023-04-17,cust99999,PROD0046,Tennis Racket,Sports,1,334.64,0,334.64,Phoenix,Debit Card,,user118@email.com,7.1
+ORD000070,2023-01-20,CUST00257,PROD0012,Cookbook,Books,6,485.26,0,2911.56,Chicago,,completed,user364@email.com,7.24
+ORD000132,2024-13-01,CUST00125,PROD0045,Air Fryer,Home & Kitchen,3,136.8,8.1,377.16,Dallas,credit card,Shipped,user@.com,18.02
+ORD000301,2024-12-07,CUST00045,PROD0017,Coffee Maker,Home & Kitchen,3,159.08,0,477.24,Nashville,Net Banking,Shipped,user389@email.com,13.34
+ORD000862,04-05-2025,CUST00270,PROD0005,History of AI,Books,6,86.45,21.9,405.1,Los Angeles ,Cash,cancelled ,user404@email.com,
+ORD000327,2024-07-20,CUST00024,PROD0036,Unknown Product,Electronics,6,0,12.5,0.0,San Diego,Cash,Completed,user324@email.com,19.44
+ORD001199,2023-11-12,CUST00031,PROD0048,Nail Polish,Beauty,8,264.83,,2118.64,Los Angeles ,CREDIT CARD,,user11@email.com,5.9
+ORD000500,2025-04-20,CUST00096,PROD0035,Puzzle Set,Toys,2,483.16,0,966.32,Indianapolis,upi,Pending,user93@email.com,0
+ORD000694,2025-08-27,CUST00289,PROD0050,Smartphone Case,Electronics,1,100.58,0,100.58,Philadelphia,Net Banking,Cancelled,user325@email.com,5.66
+ORD000964,2024-04-06, CUST001  ,PROD0003,Non-Stick Pan,Home & Kitchen,6,368.68,0,2212.08,Denver,Debit Card,Completed,user467@email.com,16.74
+ORD000496,32/13/2024,cust99999,PROD0029,Laptop Stand,Electronics,8,,0,,N/A,upi,Cancelled,  ,2.12
+ORD000339,2025-07-10,CUST00249,PROD0050,Smartphone Case,Electronics,2,100.58,0,201.16,Nashville,Net Banking,,user482@email.com,4.71
+ORD001011,2023-11-06,CUST00101,PROD0020,Perfume,Beauty,4,152.7,0,610.8,Fort Worth,PayPal,cancelled ,user198@email.com,
+ORD000165,2024-12-29,CUST00156,PROD0038,Cutting Board,Home & Kitchen,1,57.86,0,0,Jacksonville,credit card,Returned,user90@email.com,free
+ORD000029,2025-02-04,CUST00181,PROD0043,USB-C Cable,Electronics,7,26.85,0,187.95,Phoenix  ,Cash,Returned,user249@email.com,-5
+ORD000517,08-Dec-2023,CUST00164,PROD0042,Action Figure,Toys,8,252.64,0,2021.12,Fort Worth,credit card,Returned,user273@email.com,5.75
+ORD000194,20230301,CUST00093,PROD0011,Resistance Bands,Sports,8,20.09,0,160.72,San Antonio,,Cancelled,user403@email.com,2.2
+ORD000662,2024-01-07,CUST00141,PROD0032,Jump Rope,Sports,3,93.56,6.6,262.16,San Jose,upi,Cancelled,user366@email.com,7.37
+ORD000949,2024-07-13,CUST00116,PROD0025,Yoga Mat,Sports,3,233.47,0,700.41,NEW YORK,paypal,shipped,user500@email.com,17.41
+ORD000170,2025-04-15,CUST00300,PROD0045,Air Fryer,Home & Kitchen,3,136.8,0,410.4, chicago,Credit Card,Returned,user199@email.com,20.98
+ORD000821,22-May-2025,cust00012,PROD0006,Hair Oil,,6,86.44,7.9,477.67,NEW YORK,Cash,Shipped,invalid@,free
+ORD000174,2023-07-06,CUST00001,PROD0012,Cookbook,Books,7,485.26,0,3396.82,Phoenix  ,Cash,Returned,user255@email.com,
+ORD000519,2024-13-01,CUST00216,PROD0028,Remote Car ,Toys,4,-10.5,20.9,-33.22,Jacksonville,Credit Card,N/A,user245@email.com,21.76
+ORD000965,2024-08-04,CUST00234,PROD0022,Power Bank,Electronics,5,78.35,0,391.75,Boston,paypal,Returned,user392@email.com,1.52
+ORD000733,2025-02-02,CUST00227,PROD0005,History of AI,Books,-1,86.45,0,-86.45,"Houston,",PayPal,,user102@email.com,-5
+ORD000492,2023-04-03,CUST00118,PROD0034,Shampoo,Beauty,2,474.95,0,949.9,Chicago,upi,Returned,user30@email.com,-5
+ORD000074,2023-02-12,cust00005,PROD0005,History of AI,Books,8,86.45,0,691.6,Phoenix  ,Cash,,user257@email.com,
+ORD001170,02/12/2024,CUST00042,PROD0045,Air Fryer,Home & Kitchen,4,136.8,0,547.2,San Jose,Cash,Returned,user235@email.com,-5
+ORD000588,2025-07-26,UNKNOWN,PROD0047,Children Story,Books,4,162.74,0,650.96,Charlotte,upi,Shipped,user150@email.com,6.11
+ORD000235,2023-03-27,CUST00295,PROD0039,SOCCER BALL,Sports,3,345.27,0,1035.81,N/A,paypal,PENDING,,2.95
+ORD000215,2023-05-03,CUST00100,PROD0048,Nail Polish,Beauty,3,264.83,28.9,564.88,Columbus,UPI,Returned,user434@email.com,8.26
+ORD000994,2024-12-03,CUST00090,PROD0032,Jump Rope,Sports,6,93.56,0,561.36,Phoenix,Credit Card,completed,  ,14.23
+ORD000133,2023-12-04,CUST00070,PROD0025,Yoga Mat,Sports,7,233.47,0,1634.29,Columbus,,,user165@email.com,17.38
+ORD000813,2023-02-10,CUST00085,PROD0004,Water Bottle,Sports,6,303.34,0,1820.04,,Cash on Delivery,Cancelled,user252@email.com,-5
+ORD000765,2025-03-30,,PROD0021,,Toys,5,309.81,0,1549.05,Houston,COD,N/A,user451@email.com,11.91
+ORD000987,2023-10-11,CUST00071,PROD0007,Soft Toy,Toys,6,38.46,0,230.76,Fort Worth,Net Banking,cancelled ,user187@email.com,3.99
+ORD000186,2024-12-22,CUST00015,PROD0016,Scarf,Clothing,4,99.87,13.7,344.75,Jacksonville,,cancelled ,user64@email.com,6.05
+ORD000042,20240325,CUST00037,PROD0033,Python Programming,Books,5,41.88,0,209.4,Los Angeles ,credit card,Shipped,user42@email.com,22.24
+ORD000109,2025/04/08,CUST00172,PROD0043,USB-C Cable,Electronics,8,26.85,15.1,182.37, chicago,CREDIT CARD,,user378@email.com,7.38
+ORD000933,2024-12-25,CUST00279,PROD0048,,Beauty,2,264.83,0,529.66,Dallas,Cash,Completed,user363@email.com,0
+ORD000569,2024-07-12,CUST00070,PROD0003,Non-Stick Pan,Home & Kitchen,4,368.68,17.0,1224.02,Phoenix  ,,PENDING,user356@email.com,23.37
+ORD000679,2025-01-26,CUST00038,PROD0020,Perfume,Beauty,7,152.7,0,1068.9,Austin,Debit Card,Cancelled,user271@email.com,18.49
+ORD001038,2023-04-02,CUST00255,PROD0044,Running Shoes,Clothing,8,455.57,0,3644.56,San Antonio,credit card,completed,user132@email.com,0.83
+ORD001179,2023-04-13,CUST00230,PROD0001,Wireless Headphones,Electronics,2,193.52,13.4,335.18,San Diego,upi,PENDING,user487@email.com,7.96
+ORD000484,2024-09-05,CUST00034 ,PROD0027,Lipstick,Beauty,4,107.84,0,431.36,New York,paypal,cancelled ,user66@email.com,16.32
+ORD000469,2024-06-16,,PROD0049,Building Blocks,Toys,1,277.89,,277.89,"Houston,",UPI,cancelled ,user220@email.com,17.05
+ORD000025,2024-05-01,CUST00048,PROD0016,Scarf,Clothing,4,99.87,-5,419.45,"Houston,",Debit Card,cancelled ,user100@email.com,9.6
+ORD001200,2023-09-09,,PROD0046,Tennis Racket,Sports,4,334.64,0,1338.56,Fort Worth,CREDIT CARD,,user419@email.com,17.52
+ORD000709,2024-12-26,CUST00127,PROD0027,Lipstick,Beauty,3,107.84,0,323.52,Austin,Debit Card,shipped,user360@email.com,13.85
+ORD001032,2023-11-23,CUST00188,PROD0010,Blender,Home & Kitchen,6,356.96,0,2141.76,Chicago,,Cancelled,user189@email.com,-5
+ORD001036,2024-01-27,CUST00027 ,PROD0019,Fiction Novel,Books,5,221.65,0,1108.25,San Antonio,Credit Card,Returned,user327@email.com,5.83
+ORD000367,2024-09-21,,PROD0019,Fiction Novel,Books,8,221.65,0,1773.2,Columbus,Cash on Delivery,cancelled ,user39@email.com,13.4
+ORD000882,2025/08/03,CUST00285,PROD0044,Running Shoes,Clothing,8,455.57,0,3644.56,Boston,upi,shipped,user12@email.com,13.1
+ORD001152,2023-07-22,,PROD0031,Towel Set,Home & Kitchen,7,307.7,0,2153.9,,Cash on Delivery,Completed,user443@email.com,
+ORD000384,2025-06-17,CUST00287,PROD0043,USB-C Cable,Electronics,-1,26.85,0,-26.85,Chicago,Net Banking,N/A,user60@email.com,24.46
+ORD000455,2023-08-12,CUST00034,PROD0045,Air Fryer,Home & Kitchen,5,136.8,0,684.0,"Houston,",Cash,cancelled ,user275@email.com,23.06
+ORD000265,2024-12-19,CUST00051,PROD0009,Cotton T-Shirt,Clothing,,304.55,0,,Los Angeles,Net Banking,Returned,invalid@,23.21
+ORD001110,2023-11-03,CUST00166,PROD0045,Air Fryer,home & kitchen,4,136.8,0,547.2,Dallas,Credit Card,completed,,3.38
+ORD000233,2025-07-20,cust00006,PROD0007,Soft Toy,Toys,4,38.46,0.5,153.07,Columbus,,Cancelled,user462@email.com,0.98
+ORD000445,2023-07-12,cust00009,PROD0015,Unknown Product,electronics,7,99.09,11.7,612.48,Austin,Cash,cancelled ,user88@email.com,0
+ORD000396,2024/03/08,CUST00224,PROD0009,Cotton T-Shirt,Clothing,4,304.55,0,1218.2,N/A,PayPal,N/A,user242@email.com,free
+ORD000876,2025-06-27,CUST00288,PROD0018,Dumbbell Set,Sports,5,267.13,0,1335.65,Phoenix,upi,shipped,user282@email.com,19.6
+ORD000177,2023-12-06,CUST00016,PROD0020,Perfume,Beauty,3,152.7,0,458.1,San Antonio,credit card,N/A,user277@email.com,7.04
+ORD000019,2025-07-09,CUST00066,PROD0043,USB-C Cable,Electronics,,26.85,0,,NEW YORK,Cash on Delivery,,user453@email.com,24.35
+ORD000737,2023-05-19,,PROD0005,History of AI,Books,6,86.45,0,518.7,NEW YORK,credit card,Cancelled,user492@email.com,24.04
+ORD001070,2024-08-12,CUST00229,PROD0013,Sunscreen,Beauty,7,417.9,0,2925.3,Houston,COD,Cancelled,user377@email.com,1.43
+ORD000596,2024-06-03,CUST00009,PROD0043,USB-C Cable,Electronics,6,26.85,7.0,149.82,Seattle,Debit Card,Returned,user425@email.com,10.4
+ORD000062,2023-11-05,CUST00258,PROD0048,Nail Polish,Beauty,1,264.83,0,264.83,New York,Credit Card,cancelled ,user56@email.com,22.74
+ORD000273,,CUST00076,PROD0043,USB-C Cable,Electronics,2,26.85,0,53.7,Columbus,,N/A,user287@email.com,free
+ORD001150,2023-03-20,CUST00026 ,PROD0009,Cotton T-Shirt,Clothing,6,304.55,0,1827.3,Charlotte,Net Banking,Returned,user62@email.com,0
+ORD000279,2023-12-16,CUST00199,PROD0047,Children Story,Books,1,162.74,0,162.74,NEW YORK,PayPal,Pending,user348@email.com,15.64
+ORD001059,2025-02-05,CUST00057,PROD0038,Cutting Board,Home & Kitchen,3,57.86,0,173.58,San Diego,paypal,cancelled ,user@.com,
+ORD000695,2023-10-31,cust00013,PROD0028,Remote Car,Toys,4,261.97,0,1047.88,Seattle,credit card,cancelled ,user481@email.com,1.87
+ORD000369,2024-10-04,CUST00129,PROD0035,Puzzle Set,Toys,8,483.16,0,3865.28,Unknown,PayPal,shipped,user422@email.com,11.68
+ORD000931,2025-08-02,,PROD0015,Webcam,Electronics,4,99.09,24.3,300.04,Columbus,credit card,PENDING,,0
+ORD000860,2025-03-22,CUST00099,PROD0003,Non-Stick Pan,Home & Kitchen,1,368.68,0,368.68,San Jose,paypal,shipped,user470@email.com,19.3
+ORD000903,2025-03-05,CUST00179,PROD0001,Wireless Headphones,Electronics,3,193.52,0,580.56,Los Angeles,Net Banking,shipped,user231@email.com,6.99
+ORD001056,2025-09-05,CUST00174,PROD0042,Action Figure,Toys,2,252.64,0,505.28,Los Angeles ,Net Banking,PENDING,user365@email.com,12.68
+ORD000809,2023-04-20,CUST00154,PROD0032,Jump Rope,Sports,7,free,0,,Denver,Cash on Delivery,Returned,user464@email.com,
+ORD000548,2024-10-09,CUST00164,PROD0047,Children Story,Books,7,162.74,0,1139.18,Charlotte,PayPal,Completed,user210@email.com,20.67
+ORD000924,2023-03-18,CUST00277,PROD0001,Wireless Headphones,Electronics,5,193.52,25.4,721.83,"Houston,",PayPal,Completed,user28@email.com,9.05
+ORD000689,21-Sep-2024,CUST00074,PROD0016,Scarf,Clothing,2,99.87,0,199.74,Dallas,PayPal,N/A,user499@email.com,14.77
+ORD000945,11-04-2023,CUST00270,PROD0036,Bluetooth Speaker,Electronics,2,406.11,0,812.22,Boston,,N/A,user308@email.com,4.08
+ORD000457,2023-11-13,CUST00120,PROD0015,Webcam,Electronics,1,99.09,0,99.09,Columbus,,Returned,user@.com,5.05
+ORD000394,,CUST00175,PROD0049,Building Blocks,Toys,3,277.89,29.5,587.74,New York,Credit Card,PENDING,user245@email.com,10.13
+ORD000676,2023-11-18,CUST00150,PROD0008,Keyboard,Electronics,3,434.43,23.6,995.71,Jacksonville,,cancelled ,user165@email.com,11.52
+ORD000992,2024-01-10,CUST00067,PROD0016,Scarf,,1,99.87,0,error,San Diego,COD,Pending,user347@email.com,24.25
+ORD001012,2024-11-20,CUST00211,PROD0008,Keyboard,Electronics,6,434.43,0,2606.58,NEW YORK,paypal,Returned,user274@email.com,23.73
+ORD000376,2025-08-16,CUST00005,PROD0034,Shampoo,Beauty,7,474.95,0,3324.65,San Diego,UPI,Returned,user225@email.com,21.99
+ORD000413,2024-08-02,CUST00002,PROD0029,Laptop Stand,Electronics,6,,0,,Austin,,PENDING,user311@email.com,0
+ORD000075,2024-06-19,CUST00044,PROD0031,Towel Set,Home & Kitchen,3,,0,,Jacksonville,Net Banking,Shipped,user348@email.com,19.73
+ORD001146,2024-02-19,CUST00258,PROD0002,Denim Jeans,Clothing,2,475.85,24.0,723.29,Unknown,,Completed,,4.54
+ORD000906,2024-03-11,CUST00107,PROD0038,Cutting Board,Home & Kitchen,,57.86,0,,Philadelphia,COD,Pending,user267@email.com,9.58
+ORD000501,2023-11-10,,PROD0015,Webcam,Electronics,7,-10.5,1.5,-72.4,San Diego,Cash on Delivery,completed,  ,7.61
+ORD000840,2025-02-14,CUST00159,PROD0010,Blender,,1,,8.5,,Denver,,shipped,user472@email.com,free
+ORD000617,N/A,CUST00044,PROD0017,Coffee Maker ,Home & Kitchen,7,,0,,Phoenix  ,credit card,Returned,user402@email.com,12.81
+ORD000115,2023-03-24,CUST00216,PROD0006,Hair Oil,Beauty,7,86.44,0,605.08,NEW YORK,,Returned,user61@email.com,free
+ORD000418,2023-03-09,CUST00253,PROD0029,Laptop Stand,Electronics,7,300.28,9.6,1900.17,Columbus,COD,Returned,,16.88
+ORD000602,,CUST00241,PROD0032,Jump Rope,Sports,3,93.56,-5,294.71,Fort Worth,credit card,completed,user124@email.com,2.98
+ORD000605,2025-01-18,CUST00166,PROD0015,Webcam,Electronics,3,99.09,28.4,212.85,Seattle,UPI,shipped,user178@email.com,2.96
+ORD000090,2023/04/27,CUST00294,PROD0049,Building Blocks,Toys,6,277.89,0,1667.34,Indianapolis,paypal,PENDING,user397@email.com,11.16
+ORD000866,2023-12-18,CUST00028 ,PROD0025,Yoga Mat,Sports,5,233.47,6.9,1086.8,Boston,PayPal,PENDING,user81@email.com,15.16
+ORD001173,2024-10-21,CUST00215,PROD0034,Unknown Product,Beauty,6,474.95,0,2849.7,San Antonio,Cash,cancelled ,user301@email.com,11.32
+ORD000499,2023-02-23,CUST00200,PROD0004,Water Bottle,Sports,2,303.34,-5,637.01,Austin,credit card,shipped,user149@email.com,2.07
+ORD001033,2023-08-05,CUST00176,PROD0023,CAP,Clothing,5,,21.6,,Charlotte,paypal,cancelled ,user245@email.com,20.28
+ORD000927,2023-09-10,,PROD0001,Wireless Headphones,Electronics,6,193.52,0,1161.12,,Debit Card,Cancelled,user223@email.com,
+ORD000925,2024-03-12,CUST00031,PROD0016,Scarf,Clothing,1,99.87,0,99.87,New York,credit card,Returned,user272@email.com,22.53
+ORD000012,2023-05-24,CUST00051,PROD0048,Nail Polish,Beauty,6,264.83,5.7,1498.41,Dallas,CREDIT CARD,Returned,,
+ORD000397,2024-03-01,CUST00201,PROD0017,Coffee Maker,Home & Kitchen,1,159.08,0,159.08, chicago,Cash,shipped,user19@email.com,12.15
+ORD000789,2024-05-21,CUST00193,PROD0050,Smartphone Case,Electronics,7,-10.5,0,-73.5,Denver,Cash,Shipped,user137@email.com,free
+ORD000556,2024-01-30,CUST00040,PROD0045,Air Fryer,Home & Kitchen,8,,0,,Houston,Net Banking,Returned,user264@email.com,19.01
+ORD000043,2023-02-11,,PROD0045,Air Fryer,Home & Kitchen,1,136.8,0,136.8,Philadelphia,CREDIT CARD,Returned,user93@email.com,10.9
+ORD000168,2025-06-22,CUST00077,PROD0044,Running Shoes,Clothing,two,455.57,0,,Los Angeles,Debit Card,Shipped,user330@email.com,13.15
+ORD000417,2023-11-02,CUST00209,PROD0029,Laptop Stand,Electronics,1,300.28,,300.28,Austin,PayPal,PENDING,user483@email.com,3.02
+ORD000577,2024-09-12,CUST00038 ,PROD0018,Dumbbell Set,Sports,7,,0,,Boston,upi,Returned,user67@email.com,14.72
+ORD000268,2023-11-29,CUST00274,PROD0023,Cap,Clothing,8,153.15,0,1225.2,Columbus,,,user312@email.com,13.64
+ORD000847,2025-04-12,CUST00216,PROD0005,History of AI,Books,3,86.45,3.3,250.79,Los Angeles ,paypal,N/A,user487@email.com,14.79
+ORD000427,2025-09-28,CUST00003,PROD0010,Blender,Misc,6,356.96,-5,2248.85,Chicago,Cash on Delivery,Returned,user321@email.com,0.7
+ORD000691,2024-02-20,CUST00006,PROD0024,Lamp,Home & Kitchen,8,189.52,26.1,1120.44,San Antonio,CREDIT CARD,shipped,user382@email.com,19.21
+ORD000545,32/13/2024,CUST00083,PROD0042,Action Figure,,1,252.64,0,252.64,Jacksonville,CREDIT CARD,shipped,,23.16
+ORD001147,N/A,CUST00037 ,PROD0034,Shampoo,Beauty,2,474.95,25.9,-100, chicago,paypal,PENDING,user52@email.com,16.05
+ORD000675,2025-04-24,CUST00146,PROD0029,Laptop Stand,Electronics,3,300.28,29.3,636.89,Phoenix,Cash,Shipped,user225@email.com,14.32
+ORD000690,2023-02-05,CUST00068,PROD0033,Python Programming,Books,6,41.88,0,-100,Phoenix  ,credit card,,user8@email.com,
+ORD001079,,cust00012,PROD0002,Denim Jeans,Clothing,,475.85,18.5,,Boston,Cash,PENDING,user284@email.com,11.43
+ORD000278,2023-11-09,CUST00102,PROD0020,Perfume,Beauty,8,152.7,,0,Fort Worth,upi,Cancelled,user155@email.com,24.46
+ORD000160,12-Jul-2025,CUST00165,PROD0029,Laptop Stand,Electronics,6,300.28,11.2,1599.89,Phoenix  ,paypal,Completed,  ,19.34
+ORD000928,2023-04-13,CUST00264,PROD0005,History of AI,Books,4,,0,,Dallas,,Pending,user22@email.com,12.92
+ORD000258,2024-13-01,CUST00256,PROD0024,Lamp,Home & Kitchen,8,189.52,2.4,1479.77,Chicago,paypal,cancelled ,user129@email.com,20.71
+ORD000336,2025-03-19,CUST00013,PROD0010,Blender,Home & Kitchen,8,356.96,0,2855.68,new york,CREDIT CARD,N/A,user37@email.com,17.27
+ORD000016,21-Jun-2025, CUST001  ,PROD0013,Sunscreen,Misc,2,417.9,8.0,768.94,Jacksonville,UPI,Cancelled,user155@email.com,24.68
+ORD000947,2025-06-12,CUST00254,PROD0023,Cap,Clothing,2,153.15,0,306.3,San Jose,UPI,Completed,user433@email.com,free
+ORD000325,2024-05-15,,PROD0045,Air Fryer,Home & Kitchen,3,136.8,2.2,401.37,Indianapolis,Cash,Completed,user8@email.com,
+ORD000608,2023-08-16,CUST00143,PROD0026,Data Science Handbook,Books,2,394.74,0,789.48,Austin,PayPal,Returned,user377@email.com,19.43
+ORD001078,2025-07-01,CUST00295,PROD0004,Water Bottle,Sports,3,303.34,18.5,741.67,Austin,Net Banking,Returned,user322@email.com,19.1
+ORD000972,2025-05-10,CUST00048,PROD0045,Air Fryer,Home & Kitchen,7,136.8,2.6,932.7,San Diego,UPI,Completed,user52@email.com,20.45
+ORD001041,2025-06-14,CUST00179,PROD0001,Wireless Headphones,Electronics,7,193.52,29.2,959.09,San Jose,upi,Returned,user38@email.com,7.63
+ORD000223,2024-08-03,CUST00073,PROD0020,Perfume,Beauty,4,152.7,3.4,590.03,Unknown,,Returned,user149@email.com,6.27
+ORD000180,2024-07-02,cust00002,PROD0029,Laptop Stand,Electronics,1,300.28,0,300.28,Indianapolis,Cash,Returned,,22.51
+ORD000100,2024-07-25,CUST00282,PROD0006,Hair Oil,Beauty,2,86.44,11.2,153.52,"Houston,",PayPal,Returned,user21@email.com,0
+ORD000758,22-Apr-2025,cust99999,PROD0016,Scarf,Clothing,7,99.87,0,699.09,Charlotte,PayPal,Pending,user117@email.com,16.12
+ORD000522,,CUST00109,PROD0049,Building Blocks,Toys,1,277.89,22.4,215.64,Indianapolis,Net Banking,,user85@email.com,-5
+ORD000762,2025-04-17,CUST00106,PROD0029,,Electronics,5,300.28,0,1501.4,Charlotte,Credit Card,,user453@email.com,5.42
+ORD000023,2024-02-23,CUST00170,PROD0019,Fiction Novel,Books,2,221.65,0,443.3,Los Angeles ,UPI,Returned,user482@email.com,18.7
+ORD000357,2025-02-11, CUST001  ,PROD0006,Hair Oil,Beauty,4,86.44,0,345.76, chicago,Debit Card,Returned,user244@email.com,14.73
+ORD000734,2023-01-09,CUST00250,PROD0047,Children Story,Books,1,162.74,0,162.74,Unknown,Credit Card,completed,user462@email.com,18.59
+ORD001008,20250130,CUST00034 ,PROD0036,Bluetooth Speaker,Electronics,2,406.11,0,-100,Fort Worth,,shipped,user490@email.com,2.98
+ORD001136,2024-04-23,CUST00272,PROD0042,Action Figure ,Toys,2,252.64,0,505.28,Jacksonville,COD,Returned,user477@email.com,24.89
+ORD000612,2025-09-06,CUST00215,PROD0025,Yoga Mat,Sports,6,233.47,0,1400.82,Houston,Net Banking,N/A,user452@email.com,20.12
+ORD001043,2023-08-12,cust00004,PROD0049,Building Blocks,Toys,7,277.89,0,1945.23,NEW YORK,,Returned,user299@email.com,6.74
+ORD000341,2024-08-15,,PROD0022,Power Bank,Electronics,4,78.35,0,313.4,new york,,completed,user272@email.com,11.13
+ORD000432,2024-11-04,CUST00075,PROD0030,Socks Pack,Clothing,5,32.76,29.1,116.13,Los Angeles,Cash on Delivery,Returned,user28@email.com,4.89
+ORD000835,2023-09-17,CUST00032 ,PROD0025,Yoga Mat,Sports,1,233.47,0,233.47,Boston,PayPal,,user128@email.com,
+ORD000218,2025-04-02,CUST00059,PROD0021,Doll,Toys,5,free,0,,Indianapolis,Credit Card,Shipped,user264@email.com,
+ORD000204,2023-06-02,cust00017,PROD0043,USB-C Cable,Electronics,4,26.85,0,-100,Denver,Cash,Completed,user241@email.com,21.74
+ORD000951,2023-08-21,CUST00023,PROD0014,Board Game,Toys,2,114.05,0,228.1,Denver,,Returned,user161@email.com,24.4
+ORD001091,2023-04-29,CUST00088,PROD0033,Python Programming,Books,6,41.88,0,251.28,Austin,CREDIT CARD,completed,user29@email.com,1.31
+ORD000094,2023-12-21,CUST00064,PROD0048,Nail Polish,Beauty,5,264.83,0,1324.15,Seattle,UPI,Pending,user283@email.com,15.63
+ORD000837,2024-02-03,CUST00266,PROD0011,Resistance Bands,Sports,8,20.09,0,160.72,Unknown,COD,,user141@email.com,6.3
+ORD000069,2023-07-29,CUST00270,PROD0044,Running Shoes,Clothing,1,455.57,0,455.57,San Antonio,,Cancelled,user62@email.com,free
+ORD000940,2024/11/15,CUST00097,PROD0014,Board Game,Toys,2,114.05,0,228.1,Seattle,CREDIT CARD,,user85@email.com,10.59
+ORD000285,2025-03-03,CUST00021,PROD0048,Nail Polish,Beauty,1,264.83,0,264.83,Charlotte,PayPal,PENDING,user354@email.com,3.56
+ORD000697,20241014,CUST00206,PROD0031,Towel Set,Home & Kitchen,3,307.7,8.3,846.48,Seattle,Debit Card,,user225@email.com,3.12
+ORD000086,2023-11-14,CUST00235,PROD0024,Lamp ,Home & Kitchen,-1,-10.5,0,10.5,,paypal,cancelled ,user98@email.com,21.55
+ORD000435,2023-09-26,CUST00024 ,PROD0025,YOGA MAT,Sports,6,,8.5,,Austin,,Returned,user91@email.com,22.77
+ORD000868,16/05/2025,CUST00220,PROD0012,Cookbook,Books,1,485.26,22.4,376.56,San Antonio,,Completed,user200@email.com,15.19
+ORD000154,2025-09-04,CUST00266,PROD0008,Keyboard,Electronics,4,434.43,1.6,1709.92,Fort Worth,Debit Card,Returned,user271@email.com,0.3
+ORD000076,2025-06-13,,PROD0015,Webcam,Electronics,5,99.09,0,495.45,Chicago,Cash,,user496@email.com,16.55
+ORD001067,2025-05-06,CUST00285,PROD0022,Power Bank,Electronics,7,78.35,0,548.45,Los Angeles,,PENDING,user469@email.com,11.06
+ORD000790,2023-02-12,CUST00224,PROD0049,Building Blocks,Toys,2,277.89,22.8,429.06,Dallas,Debit Card,Returned,user50@email.com,17.17
+ORD000581,2023-12-27,CUST00029 ,PROD0047,Children Story,Books,4,162.74,0,650.96,N/A,paypal,Cancelled,user321@email.com,1.77
+ORD000447,2024-09-10,CUST00067,PROD0038,Cutting Board,Home & Kitchen,5,57.86,0,289.3,San Jose,Cash,Returned,user142@email.com,24.78
+ORD000704,2023-11-17,CUST00117,PROD0014,Board Game,Toys,5,114.05,0,570.25,new york,PayPal,PENDING,user249@email.com,20.15
+ORD000189,2025-05-09,CUST00267,PROD0007,Soft Toy,Toys,7,38.46,30.0,188.45,new york,Cash,shipped,user247@email.com,-5
+ORD000272,2024-05-29,CUST00006,PROD0002,Denim Jeans,Clothing,7,free,16.2,,Phoenix,Credit Card,,user229@email.com,14.38
+ORD000237,,CUST00204,PROD0014,Board Game,,2,114.05,0,228.1,Fort Worth,,completed,user351@email.com,4.02
+ORD000488,2025-09-14,CUST00084,PROD0043,USB-C Cable,Electronics,3,26.85,0,80.55,Chicago,UPI,Pending,user209@email.com,
+ORD001184,2024-05-30,CUST00278,PROD0037,Winter Jacket,Clothing,7,159.26,0,1114.82,Jacksonville,upi,Returned,user278@email.com,-5
+ORD000560,2023-10-02,CUST00142,PROD0036,Bluetooth Speaker,Electronics,7,406.11,22.0,2217.36,Philadelphia,,Returned,user306@email.com,0.08
+ORD000118,2024-06-17,CUST00295,PROD0024,Lamp,Home & Kitchen,6,189.52,0,1137.12,San Jose,UPI,Completed,user377@email.com,15.65
+ORD000638,2024-03-25,CUST00096,PROD0039,Soccer Ball,Sports,5,345.27,0,1726.35,Charlotte,Cash,shipped,user243@email.com,6.31
+ORD001101,2025-03-24,CUST00298,PROD0018,Dumbbell Set,Sports,5,267.13,0,1335.65,Columbus,CREDIT CARD,Cancelled,user268@email.com,0
+ORD000802,2023-05-24,cust99999,PROD0027,Lipstick,Beauty,3,107.84,0,323.52,San Jose,credit card,Returned,user463@email.com,12.17
+ORD000751,2025-06-11,CUST00033,PROD0020,Perfume,Beauty,,152.7,9.8,,new york,CREDIT CARD,Shipped,user170@email.com,22.55
+ORD000513,07/05/2023,CUST00084,PROD0002,Unknown Product,Clothing,8,475.85,20.8,3014.99,Houston,paypal,Shipped,user213@email.com,0
+ORD000634,2025-08-23,CUST00087,PROD0011,Resistance Bands,Sports,4,20.09,0,80.36,,COD,,user383@email.com,3.32
+ORD001066,2023-04-26,CUST00089,PROD0049,Building Blocks,Toys,6,277.89,0,1667.34,Denver,PayPal,PENDING,user206@email.com,0.21
+ORD001040,2024-11-21,CUST00005,PROD0001,Wireless Headphones,Electronics,6,193.52,0,1161.12,San Jose,Cash on Delivery,Pending,user470@email.com,21.25
+ORD001126,2025-07-19,CUST00147,PROD0031,Towel Set,Home & Kitchen,7,307.7,0,2153.9,NEW YORK,credit card,Cancelled,user31@email.com,12.5
+ORD000127,,CUST00088,PROD0010,Blender,Home & Kitchen,7,356.96,0,2498.72,Los Angeles,Cash on Delivery,Returned,user291@email.com,1.16
+ORD000791,2025-02-08,CUST00006,PROD0027,Lipstick,Beauty,5,107.84,6.6,503.61,Denver,Net Banking,Returned,user163@email.com,4.3
+ORD000117,2023-02-19,CUST00009,PROD0033,Python Programming,Books,2,41.88,17.9,68.77,Los Angeles,credit card,cancelled ,user443@email.com,3.5
+ORD000474,2024-08-12,CUST00025 ,PROD0016,Scarf,Clothing,2,99.87,0,199.74,Nashville,Debit Card,,user381@email.com,9.54
+ORD000741,2023-08-31,CUST00012,PROD0004,Water Bottle,Sports,2,303.34,1.9,595.15,Unknown,Debit Card,Completed,user175@email.com,15.44
+ORD001035,2024-13-01,CUST00085,PROD0050,Smartphone Case,Electronics,8,100.58,0,804.64,NEW YORK,,Completed,user296@email.com,13.37
+ORD000058,2025-01-30,cust99999,PROD0044,Running Shoes,Clothing,4,455.57,13.6,1574.45,Denver,credit card,shipped,user213@email.com,20.84
+ORD000604,2023-06-30,CUST00078,PROD0036,Bluetooth Speaker,Electronics,6,406.11,0,2436.66,Boston,UPI,Pending,user25@email.com,22.43
+ORD000787,2025-02-27,CUST00218,PROD0030,Socks Pack,Clothing,4,32.76,0,131.04,San Antonio,COD,,user165@email.com,11.57
+ORD001019,2025-02-27,CUST00163,PROD0006,Hair Oil,Beauty,4,86.44,17.0,,Houston,COD,Completed,user272@email.com,22.99
+ORD000657,2024-08-05,CUST00042,PROD0036,Bluetooth Speaker,Electronics,7,406.11,0,,NEW YORK,Debit Card,completed,user335@email.com,12.78
+ORD000948,2023-02-12, CUST001  ,PROD0040,Travel Guide,Books,5,225.67,0,1128.35, chicago,Credit Card,PENDING,user50@email.com,11.07
+ORD000967,,CUST00033 ,PROD0011,Resistance Bands,Sports,8,20.09,17.0,133.4,Indianapolis,Credit Card,PENDING,user452@email.com,24.59
+ORD000106,2025-04-27,CUST00041,PROD0039,Soccer Ball,Sports,8,345.27,0,2762.16,Denver,upi,Shipped,user301@email.com,1.27
+ORD000636,2024-11-29,CUST00300,PROD0008,Keyboard,Electronics,4,434.43,0,1737.72,San Antonio,Net Banking,N/A,user381@email.com,2.27
+ORD000370,2023-06-04,CUST00223,PROD0014,Board Game,Toys,1,114.05,0,114.05,"Houston,",UPI,PENDING,user467@email.com,0
+ORD000269,2023-01-17,CUST00185,PROD0040,Travel Guide,Books,8,225.67,1.0,1787.31,N/A,UPI,Completed,user439@email.com,19.29
+ORD000656,2024-11-02,CUST00081,PROD0046,Tennis Racket,Sports,3,334.64,24.9,753.94,Houston,credit card,shipped,user211@email.com,
+ORD000820,2024-07-05,CUST00223,PROD0015,Webcam,Electronics,1,99.09,0,99.09,Charlotte,Credit Card,Shipped,user322@email.com,1.57
+ORD000823,20230122,CUST00169,PROD0011,Resistance Bands,Sports,4,200.9,19.4,647.7,Philadelphia,COD,Shipped,user464@email.com,18.23
+ORD000047,2025-08-14,cust00007,PROD0013,Sunscreen,Beauty,3,417.9,23.7,956.57,Dallas,,Completed,user301@email.com,16.5
+ORD000350,2024-09-05,CUST00214,PROD0011,Resistance Bands,Sports,4,0,0,0.0,Boston,CREDIT CARD,shipped,user352@email.com,17.36
+ORD000774,,CUST00026 ,PROD0022,Power Bank,Electronics,1,78.35,0,78.35,Unknown,,PENDING,user217@email.com,15.51
+ORD000196,2023-12-12,CUST00157,PROD0025,YOGA MAT,Sports,1,233.47,21.8,182.57,NEW YORK,PayPal,completed,user385@email.com,free
+ORD000103,2025-03-04,,PROD0011,Resistance Bands,Sports,8,20.09,20.7,127.45,Indianapolis,,N/A,user266@email.com,8.13
+ORD000005,2025-07-24,CUST00029,PROD0027,Lipstick,Beauty,1,107.84,0,107.84,N/A,upi,completed,user453@email.com,11.47
+ORD000620,N/A,CUST00243,PROD0016,Scarf,Clothing,4,998.7,9.3,3623.28,Nashville,credit card,Completed,user288@email.com,13.64
+ORD000572,2025-09-17,CUST00262,PROD0014,Board Game,Toys,1,114.05,0,114.05,San Diego,COD,,user160@email.com,23.41
+ORD000053,2024-12-17,CUST00197,PROD0009,Cotton T-Shirt,Clothing,2,304.55,0,609.1,,COD,PENDING,user352@email.com,24.34
+ORD000264,2023-06-07,CUST00038 ,PROD0014,Board Game,,7,114.05,0,798.35,Austin,credit card,,,0
+ORD001117,2025-09-04,CUST00123,PROD0022,Power Bank,Electronics,2,783.5,0,1567.0,Phoenix,PayPal,Shipped,user301@email.com,13.95
+ORD000444,2024-02-18,CUST00005,PROD0016,Scarf,Clothing,6,99.87,0,599.22,Los Angeles ,paypal,Shipped,,3.84
+ORD001020,2025-01-26,CUST00282,PROD0026,Data Science Handbook,Books,5,394.74,24.5,1490.14,Columbus,paypal,cancelled ,user334@email.com,12.45
+ORD000783,2024-04-05,CUST00022,PROD0008,Keyboard,Electronics,7,,0,,Unknown,Cash on Delivery,N/A,user487@email.com,22.22
+ORD000838,2023-07-01,CUST00031,PROD0025,Yoga Mat,Sports,5,233.47,8.6,1066.96,New York,CREDIT CARD,Returned,user156@email.com,11.23
+ORD000890,N/A,CUST00136,PROD0023,Cap,Clothing,3,153.15,0,459.45,Phoenix,Net Banking,shipped,user305@email.com,13.94
+ORD000692,2025-05-26,CUST00131,PROD0019,Fiction Novel,Books,8,221.65,0,1773.2,Seattle,UPI,Pending,user14@email.com,3.16
+ORD000305,2025-04-21, CUST001  ,PROD0012,Cookbook,Books,2,485.26,0,970.52,San Jose,credit card,Pending,user306@email.com,9.47
+ORD000342,20230218,CUST00088,PROD0045,Air Fryer,Home & Kitchen,4,136.8,0,547.2,Charlotte,PayPal,shipped,user147@email.com,0
+ORD000911,2024-04-13,CUST00282,PROD0001,Wireless Headphones,electronics,8,193.52,0,1548.16,San Antonio,CREDIT CARD,N/A,user336@email.com,4.65
+ORD000314,2023-12-18,CUST00090,PROD0003,Non-Stick Pan,Home & Kitchen,4,368.68,0,1474.72,Phoenix,Cash,Cancelled,user212@email.com,5.95
+ORD000150,2024-11-01,CUST00068,PROD0044,Running Shoes,Clothing,5,455.57,0,2277.85,Chicago,Net Banking,,user203@email.com,18.15
+ORD000125,2023-01-18,,PROD0022,Power Bank,Electronics,8,78.35,16.0,error,Dallas,paypal,Shipped,user466@email.com,
+ORD001140,2023-04-01,CUST00113,PROD0046,Tennis Racket,Sports,5,334.64,0,1673.2,New York,Net Banking,cancelled ,user105@email.com,7.73
+ORD000575,2023-10-18,CUST00141,PROD0037,Winter Jacket,Clothing,2,159.26,0,318.52,Boston,credit card,Completed,,22.7
+ORD000698,2024-04-22,UNKNOWN,PROD0039,Soccer Ball,Sports,1,345.27,0,345.27,Philadelphia,upi,N/A,user150@email.com,2.58
+ORD000665,2025-05-10,CUST00033 ,PROD0021,Doll,Toys,8,309.81,0,2478.48,,,Returned,user187@email.com,9.96
+ORD000051,2024-01-19,CUST00052,PROD0047,Children Story,Books,5,162.74,23.9,619.23,San Diego,paypal,PENDING,user88@email.com,free
+ORD000904,2025-09-14,CUST00262,PROD0032,Jump Rope,Sports,5,93.56,0,467.8,Unknown,Net Banking,N/A,user258@email.com,
+ORD000727,2023-03-13,CUST00116,PROD0019,Fiction Novel,Books,4,221.65,10%,886.6,Nashville,paypal,Shipped,user494@email.com,2.78
+ORD000800,2025-02-11,CUST00022,PROD0017,Coffee Maker,Home & Kitchen,7,159.08,15.9,936.5,Denver,upi,PENDING,user332@email.com,8.85
+ORD000834,2025-04-24,CUST00253,PROD0044,Running Shoes,Clothing,1,455.57,0,455.57,Jacksonville,PayPal,PENDING,user297@email.com,6.23
+ORD000354,2024-06-19,CUST00009,PROD0050,Smartphone Case,Electronics,5,100.58,13.3,436.01,Austin,PayPal,N/A,user61@email.com,21.42
+ORD001177,2025-02-03,CUST00127,PROD0026,Data Science Handbook,Books,3,394.74,,1184.22,new york,Cash on Delivery,Pending,user138@email.com,2.26
+ORD000143,2024-12-02,,PROD0009,COTTON T-SHIRT,Clothing,7,304.55,0,2131.85,Los Angeles ,,cancelled ,,5.51
+ORD000471,2023-01-18,CUST00128,PROD0013,Sunscreen,Beauty,8,417.9,150,-1671.6,Unknown,Credit Card,N/A,user311@email.com,18.48
+ORD000654,2023-04-10,CUST00252,PROD0009,Cotton T-Shirt,Clothing,7,304.55,18.2,1743.85,San Antonio,Debit Card,shipped,user393@email.com,18.36
+ORD000400,2023-06-10,CUST00083,PROD0021,Doll ,Toys,5,309.81,14.5,1324.44,Houston,,PENDING,user121@email.com,1.18
+ORD000943,2023-09-30,cust00013,PROD0010,Blender,Home & Kitchen,4,356.96,0,1427.84,San Jose,PayPal,Pending,user174@email.com,0
+ORD001118,2023-05-28,CUST00295,PROD0021,Doll ,Toys,3,309.81,14.9,790.94,New York,UPI,N/A,user215@email.com,
+ORD000321,2024-12-17,CUST00255,PROD0037,Winter Jacket,Clothing,1,159.26,0,159.26,Fort Worth,Cash,Completed,user252@email.com,10.1
+ORD000020,2025-08-11,CUST00084,PROD0031,Unknown Product,Home & Kitchen,3,307.7,22.1,719.09,NEW YORK,,N/A,user404@email.com,9.56
+ORD000685,2024-04-26,CUST00024,PROD0032,Jump Rope,Sports,4,93.56,15.6,315.86,Los Angeles,Cash,Returned,user191@email.com,20.58
+ORD000036,20250322,CUST00209,PROD0041,Face Cream,Beauty,4,69.8,0,279.2,San Diego,credit card,N/A,user189@email.com,13.27
+ORD000825,2023-06-30,CUST00247,PROD0026,Data Science Handbook,Books,5,394.74,0,1973.7,San Antonio,paypal,Shipped,user318@email.com,19.83
+ORD000506,2023-03-18,CUST00098,PROD0018,Dumbbell Set,Sports,7,267.13,0,1869.91,"Houston,",paypal,PENDING,user311@email.com,4.6
+ORD000828,,CUST00033 ,PROD0008,Keyboard,Electronics,1,434.43,0,434.43,Denver,,Pending,user284@email.com,18.15
+ORD001095,2024-11-07,CUST00033,PROD0002,Denim Jeans,Clothing,2,475.85,0,951.7,Austin,upi,Returned,user263@email.com,
+ORD000408,2024-06-03,CUST00217,PROD0048,Nail Polish,Beauty,2,264.83,0,529.66,Los Angeles,,,user294@email.com,11.33
+ORD000818,2023/12/09,CUST00095,PROD0046,Tennis Racket,Sports,-1,334.64,0,-334.64,San Diego,paypal,shipped,user104@email.com,10.45
+ORD000867,2025-05-27,CUST00172,PROD0011,Resistance Bands,Sports,2,20.09,0,40.18,Phoenix,paypal,Returned,user425@email.com,0.53
+ORD000538,2023-04-13,cust00016,PROD0021,Doll,Toys,2,309.81,0,619.62,Seattle,Cash,Completed,user109@email.com,11.37
+ORD000759,2024-05-27,CUST00116,PROD0008,Keyboard,Electronics,1,434.43,4.6,414.45,Fort Worth,,,user@.com,16.74
+ORD001093,2023-12-08,CUST00298,PROD0034,Shampoo,Beauty,8,474.95,27.0,2773.71,Seattle,paypal,Completed,user112@email.com,21.85
+ORD000938,2024-10-02,CUST00058,PROD0016,Scarf,Clothing,8,99.87,0,,San Jose,COD,Returned,user476@email.com,6.5
+ORD000039,2024/12/03,CUST00027,PROD0044,Running Shoes,Clothing,8,455.57,14.8,3105.17,Phoenix  ,Cash,Shipped,user286@email.com,15.16
+ORD000176,2023-11-23,CUST00052,PROD0016,Scarf,Clothing,4,99.87,25.4,298.01,Houston,Debit Card,completed,user375@email.com,
+ORD000246,2024-07-15,,PROD0035,Puzzle Set,Toys,2,483.16,0,966.32,Dallas,CREDIT CARD,shipped,user218@email.com,17.52
+ORD000811,2023-10-21,CUST00252,PROD0035,Puzzle Set,Toys,7,483.16,0,3382.12,Phoenix  ,PayPal,completed,user193@email.com,2.52
+ORD001109,2023-07-01,CUST00216,PROD0021,Doll,Toys,7,309.81,0,2168.67,Fort Worth,,Shipped,user350@email.com,0.87
+ORD001010,2023-03-28,CUST00202,PROD0028,Remote Car,,1,261.97,0,261.97,Phoenix  ,credit card,completed,user147@email.com,19.58
+ORD000785,2024-12-05,CUST00158,PROD0007,Soft Toy,Toys,8,38.46,0,307.68,Denver,COD,shipped,user71@email.com,2.27
+ORD000034,2025-09-15,CUST00026 ,PROD0049,Building Blocks,Toys,4,277.89,0,2223.12,Nashville,,Returned,user423@email.com,6.71
+ORD000490,2023-12-20,CUST00139,PROD0004,WATER BOTTLE,Sports,1,303.34,0,303.34,NEW YORK,,Returned,user207@email.com,3.19
+ORD000155,2023-01-18,CUST00292,PROD0003,Non-Stick Pan,Home & Kitchen,3,368.68,0,,New York,UPI,Returned,user204@email.com,15.71
+ORD000639,2024-03-07,CUST00154,PROD0038,Cutting Board,Home & Kitchen,-1,57.86,0,-57.86,Dallas,Cash,PENDING,user86@email.com,22.16
+ORD000663,32/13/2024,CUST00150,PROD0003,Non-Stick Pan,Home & Kitchen,5,368.68,6.3,1727.27, chicago,paypal,N/A,user245@email.com,4.26
+ORD000854,N/A,CUST00148,PROD0039,Soccer Ball,Sports,1,345.27,0,345.27,Los Angeles,Credit Card,,user177@email.com,2.22
+ORD000288,2023/07/05,CUST00027,PROD0001,Unknown Product,Electronics,5,193.52,0,967.6,San Antonio,Credit Card,shipped,  ,13.59
+ORD000626,2025-07-20,CUST00197,PROD0041,Face Cream,,5,69.8,0,349.0,Philadelphia,Credit Card,Returned,,0
+ORD001151,2025-01-02,CUST00268,PROD0046,Tennis Racket,Sports,8,334.64,0,2677.12,Houston,credit card,Pending,user263@email.com,free
+ORD000686,2023-01-31,CUST00078,PROD0041,Face Cream,Beauty,3,69.8,0,209.4,San Jose,credit card,,user319@email.com,19.58
+ORD001041,2025-06-14,CUST00179,PROD0001,Wireless Headphones,Electronics,7,193.52,29.2,959.09,San Jose,upi,Returned,user38@email.com,7.63
+ORD000917,2025-03-20,CUST00183,PROD0026,Data Science Handbook,Books,7,394.74,0,0,"Houston,",Credit Card,Returned,user199@email.com,20.37
+ORD000570,2023-05-24,CUST00216,PROD0050,Smartphone Case,Electronics,8,free,23.0,,San Jose,,Returned,user318@email.com,14.14
+ORD001168,2023-10-23,CUST00252,PROD0050,Smartphone Case,electronics,3,0,26.5,0.0,Denver,credit card,shipped,invalid@,20.89
+ORD000735,2023-04-14, CUST001  ,PROD0016,Scarf,Clothing,8,99.87,0,798.96,Philadelphia,PayPal,Cancelled,user317@email.com,14.04
+ORD000793,2024-03-29,cust00008,PROD0049,Building Blocks,Toys,8,277.89,2.5,2167.54,N/A,credit card,shipped,user@.com,16.83
+ORD000018,2025-01-29,CUST00217,PROD0014,Board Game,Toys,1,-10.5,0,,Los Angeles ,credit card,Returned,user354@email.com,13.64
+ORD000128,2024-13-01,CUST00289,PROD0003,Non-Stick Pan,Home & Kitchen,3,368.68,0,1106.04,Chicago,UPI,Cancelled,user435@email.com,22.41
+ORD000323,2023-11-03,CUST00149,PROD0014,Board Game,Toys,3,114.05,0,342.15,N/A,Debit Card,,user454@email.com,18.38
+ORD000256,2024-12-11,CUST00135,PROD0046,Tennis Racket,Sports,4,334.64,0,1338.56,San Jose,COD,N/A,user97@email.com,4.56
+ORD000990,2025-07-11,CUST00043,PROD0011,Resistance Bands,Sports,1,20.09,0,20.09,Phoenix  ,Cash,completed,invalid@,18.99
+ORD000862,04-05-2025,CUST00270,PROD0005,History of AI,Books,5,86.45,21.9,405.1,Los Angeles ,Cash,cancelled ,user404@email.com,
+ORD000191,2025-07-17, CUST001  ,PROD0027,Lipstick,Beauty,6,107.84,16.0,543.51,Jacksonville,paypal,Shipped,user449@email.com,7.34
+ORD000116,2024-01-24,CUST00002,PROD0037,Winter Jacket,Clothing,5,159.26,0,796.3,San Diego,CREDIT CARD,completed,user449@email.com,2.82
+ORD001198,2024-07-20,CUST00213,PROD0007,Soft Toy,Toys,3,38.46,0,115.38,N/A,,Pending,user356@email.com,-5
+ORD000934,2023-08-18,cust00007,PROD0026,Data Science Handbook,Books,7,394.74,0,2763.18,San Antonio,CREDIT CARD,shipped,user213@email.com,13.91
+ORD000607,2024-03-31,CUST00251,PROD0044,Running Shoes,Clothing,1,455.57,28.4,326.19,,CREDIT CARD,Shipped,user471@email.com,11.11
+ORD000181,2025-04-07,CUST00062,PROD0012,Cookbook,Books,8,485.26,0,3882.08,Los Angeles,credit card,Pending,user422@email.com,20.85
+ORD000302,2025-02-23,CUST00068,PROD0014,Board Game,Toys,8,114.05,0,912.4,San Diego,Cash on Delivery,Cancelled,user468@email.com,4.58
+ORD000497,2024-01-09,CUST00250,PROD0030,Socks Pack,clothing,,32.76,0,,Philadelphia,paypal,Shipped,user430@email.com,3.5
+ORD000349,2024-05-20,CUST00149,PROD0047,Children Story,Books,1,162.74,0,162.74,Charlotte,Cash on Delivery,Completed,user154@email.com,20.86
+ORD000965,2024-08-04,CUST00234,PROD0022,Power Bank,Electronics,5,78.35,0,391.75,Boston,paypal,Returned,user392@email.com,1.52
+ORD000037,2025-01-30,CUST00233,PROD0001,Wireless Headphones,Electronics,5,193.52,0,967.6,"Houston,",upi,Cancelled,user142@email.com,24.42
+ORD000745,2025-07-13,CUST00036 ,PROD0008,Keyboard,Electronics,5,434.43,1.8,2133.05,Nashville,,PENDING,user367@email.com,24.43
+ORD001106,2023-07-30,CUST00206,PROD0016,Scarf,Clothing,6,99.87,0,599.22,Fort Worth,PayPal,cancelled ,user261@email.com,10.02
+ORD001003,2024-12-17,CUST00023,PROD0014,Board Game,Toys,6,114.05,0,684.3,San Antonio,Debit Card,Returned,user80@email.com,14.55
+ORD000518,2024-04-30,CUST00113,PROD0040,Travel Guide,Books,4,225.67,25.5,672.5,Houston,Credit Card,completed,user399@email.com,7.37
+ORD000373,2023-11-17,CUST00062,PROD0025,Yoga Mat,Sports,5,233.47,18.0,957.23,Boston,upi,PENDING,user479@email.com,3.61
+ORD000046,2025/08/27,CUST00008,PROD0011,Resistance Bands,Sports,2,20.09,0,40.18,Indianapolis,upi,Shipped,user428@email.com,11.81
+ORD000477,2023-05-07,CUST00075,PROD0025,Yoga Mat,Sports,1,233.47,0,233.47,Unknown,upi,shipped,user254@email.com,24.16
+ORD000158,2024-03-15,CUST00191,PROD0021,Doll,Toys,5,309.81,27.0,1130.81,Chicago,UPI,N/A,user255@email.com,9.0
+ORD001071,2023-07-18,,PROD0041,Face Cream,Beauty,1,-10.5,0,,San Antonio,,Pending,user92@email.com,22.16
+ORD000172,N/A, CUST001  ,PROD0010,Blender,Home & Kitchen,3,356.96,24.1,812.8,Los Angeles ,PayPal,Pending,user492@email.com,free
+ORD000017,2023-06-09,CUST00054,PROD0016,Scarf,Clothing,3,99.87,0,299.61,Nashville,Cash on Delivery,N/A,user437@email.com,12.21
+ORD000512,2025-03-22,CUST00023,PROD0004,Water Bottle,Sports,2,303.34,0,606.68,Phoenix  ,Debit Card,Returned,user363@email.com,0
+ORD000049,2024-06-22,CUST00019,PROD0026,Data Science Handbook,Books,6,394.74,0,2368.44,New York,upi,Cancelled,user80@email.com,-5
+ORD000192,2023-08-16,CUST00287,PROD0010,Blender,Home & Kitchen,3,356.96,0,1070.88, chicago,,Shipped,user191@email.com,7.35
+ORD000547,2023-10-15,CUST00205,PROD0031,Towel Set,Home & Kitchen,5,307.7,0,1538.5,Houston,Cash,shipped,user489@email.com,10.84
+ORD000516,2025-03-26,CUST00040,PROD0023,Cap,Clothing,3,153.15,4.4,439.23,Indianapolis,,Pending,user373@email.com,2.26
+ORD000659,2024-06-16,CUST00082,PROD0024,Lamp,Home & Kitchen,2,,0,,Unknown,credit card,Pending,user453@email.com,3.02
+ORD000985,2024-01-04,CUST00207,PROD0030,Socks Pack,Clothing,3,0,26.4,0.0,Seattle,,Returned,user216@email.com,10.14
+ORD000829,2023-11-04,UNKNOWN,PROD0005,History of AI,Books,7,86.45,0,605.15,Phoenix,upi,Shipped,user144@email.com,10.3
+ORD001028,2025-02-10,CUST00135,PROD0001,Wireless Headphones,Electronics,5,193.52,0,967.6,Phoenix,Cash on Delivery,Returned,user73@email.com,22.99
+ORD000481,2024-02-18,CUST00027,PROD0009,Cotton T-Shirt,Clothing,6,304.55,0,1827.3,Houston,Cash on Delivery,PENDING,user489@email.com,free
+ORD001153,2024-10-28, CUST001  ,PROD0045,Air Fryer,Home & Kitchen,6,136.8,-5,861.84,Unknown,UPI,Returned,user449@email.com,4.66
+ORD000284,2024-08-08,CUST00208,PROD0050,Smartphone Case,Electronics,7,100.58,0,704.06,Seattle,COD,N/A,user232@email.com,21.94
+ORD001054,2023-02-23,CUST00047,PROD0014,Board Game,Toys,3,114.05,0,342.15,Los Angeles,CREDIT CARD,N/A,user339@email.com,11.56
+ORD000798,2025-03-12,CUST00086,PROD0013,Sunscreen,beauty,4,417.9,23.2,1283.79,Houston,,cancelled ,user92@email.com,0
+ORD000986,2025-08-11,cust99999,PROD0030,Socks Pack,Clothing,4,32.76,0,131.04,San Antonio,paypal,Shipped,user117@email.com,24.53
+ORD000226,N/A,CUST00276,PROD0026,Data Science Handbook,Books,2,394.74,0,789.48,Boston,credit card,shipped,user@.com,24.97
+ORD000027,2023-09-23,CUST00259,PROD0016,Scarf,Clothing,8,99.87,0,798.96,,COD,Shipped,user321@email.com,11.0
+ORD000283,2025-08-31,CUST00252,PROD0009,Cotton T-Shirt,Clothing,3,304.55,150,-456.83, chicago,COD,Returned,  ,12.25
+ORD001174,2024-08-01,cust99999,PROD0036,Bluetooth Speaker,Electronics,7,406.11,,-100,Unknown,PayPal,shipped,user463@email.com,20.63
+ORD000438,2025-02-08,CUST00042,PROD0048,Nail Polish,Beauty,2,264.83,0,529.66,Indianapolis,paypal,cancelled ,user270@email.com,17.89
+ORD001192,2024-02-02,CUST00060,PROD0025,Yoga Mat,Sports,4,233.47,0,933.88,Indianapolis,credit card,Completed,user405@email.com,7.31
+ORD000365,32/13/2024,CUST00032,PROD0005,History of AI,Books,0,86.45,0,0.0,Fort Worth,Debit Card,PENDING,user180@email.com,0
+ORD000230,2023-06-03,cust00010,PROD0038,Cutting Board,Home & Kitchen,-1,57.86,15.4,-48.95,Jacksonville,Cash,N/A,user213@email.com,18.01
+ORD000038,20250924,CUST00100,PROD0011,Resistance Bands,Sports,6,20.09,16.0,101.25,Los Angeles ,PayPal,,user447@email.com,-5
+ORD000670,2025-06-01,CUST00241,PROD0023,Cap,Clothing,3,1531.5,0,4594.5,new york,COD,Returned,user56@email.com,5.33
+ORD000750,2023-11-15,CUST00111,PROD0005,History of AI,Books,1,86.45,0,86.45,Columbus,Cash,Pending,user175@email.com,20.18
+ORD000841,2024-03-11,CUST00284,PROD0023,Cap,Clothing,4,-10.5,22.0,-49.14,Phoenix  ,UPI,shipped,user432@email.com,14.13
+ORD000375,2025-03-18, CUST001  ,PROD0030,Socks Pack,Clothing,,32.76,0,,Dallas,paypal,PENDING,user186@email.com,17.13
+ORD000470,,CUST00185,PROD0019,Fiction Novel,Books,7,221.65,0,1551.55,Unknown,upi,PENDING,user72@email.com,
+ORD000883,2025-01-02,CUST00104,PROD0001,Wireless Headphones,Electronics,2,193.52,0,387.04,San Antonio,Net Banking,PENDING,user41@email.com,5.12
+ORD001049,2023-06-06,UNKNOWN,PROD0016,Scarf,clothing,3,99.87,22.6,231.9,new york,Debit Card,,user456@email.com,11.65
+ORD000974,2024-05-11,CUST00277,PROD0045,Air Fryer,Home & Kitchen,2,136.8,0,273.6,Chicago,Net Banking,Completed,user93@email.com,21.1
+ORD000688,2023-05-12,cust00009,PROD0031,Towel Set,Home & Kitchen,1,307.7,0,307.7,Denver,Net Banking,shipped,  ,21.3
+ORD000033,2024-08-02,,PROD0043,USB-C Cable,Electronics,5,26.85,0,134.25,Jacksonville,paypal,PENDING,user@.com,free
+ORD000640,2023-04-03,CUST00291,PROD0037,Winter Jacket,Clothing,3,159.26,0,477.78,"Houston,",PayPal,completed,user1@email.com,5.01
+ORD001063,2023-06-04,CUST00043,PROD0048,Nail Polish,Beauty,3,0,0,0.0,Houston,Debit Card,completed,user394@email.com,1.05
+ORD000195,2025-07-02,CUST00245,PROD0025,Yoga Mat,Sports,1,233.47,0,,,paypal,Returned,user128@email.com,21.92
+ORD001167,2024-12-24,CUST00093,PROD0016,Scarf,Clothing,7,99.87,21.9,545.99,new york,PayPal,cancelled ,user428@email.com,9.27
+ORD001138,2023-07-25,CUST00028,PROD0017,Coffee Maker,Home & Kitchen,4,159.08,-5,668.14,Phoenix,Cash,N/A,user36@email.com,3.13
+ORD000999,2025-03-19,UNKNOWN,PROD0047,Children Story,Books,8,162.74,0,1301.92,Charlotte,Net Banking,shipped,,19.28
+ORD000504,2025-01-12,CUST00098,PROD0033,Python Programming,Books,8,41.88,16.4,280.09,"Houston,",Cash on Delivery,Returned,invalid@,17.79
+ORD000916,2025-08-20,CUST00281,PROD0024,Lamp,Home & Kitchen,1,189.52,16.6,158.06,Charlotte,paypal,Returned,user179@email.com,17.33
+ORD001025,2024-12-17,CUST00121,PROD0040,Travel Guide,Books,3,225.67,0,677.01,N/A,paypal,shipped,user@.com,17.28
+ORD000576,2023-12-24,CUST00235,PROD0028,Remote Car,Toys,3,261.97,0,785.91,Seattle,credit card,Returned,user181@email.com,14.08
+ORD001112,2025-08-19,CUST00038 ,PROD0029,Laptop Stand,Electronics,1,300.28,16.1,251.93,Charlotte,,Shipped,user180@email.com,0
+ORD000801,2023-02-07,CUST00129,PROD0027,Lipstick,Beauty,7,107.84,0,754.88,Nashville,Net Banking,Shipped,user196@email.com,9.34
+ORD000580,08-19-2024,CUST00104,PROD0047,Children Story,Books,7,162.74,0,1139.18,San Antonio,Credit Card,Cancelled,user209@email.com,21.61
+ORD000161,2025-03-02,CUST00189,PROD0033,Python Programming,Books,5,41.88,11.0,186.37, chicago,paypal,Returned,user13@email.com,8.66
+ORD000681,2025/05/14,CUST00079,PROD0030,Socks Pack,Clothing,3,32.76,0.8,97.49,Denver,Net Banking,Pending,user118@email.com,5.04
+ORD000957,2024-01-02,CUST00247,PROD0033,Python Programming,Books,3,41.88,17.3,103.9,Phoenix  ,Credit Card,Shipped,user210@email.com,21.32
+ORD001190,2023-10-16,CUST00215,PROD0016,Scarf,Clothing,1,99.87,0,,Seattle,upi,completed,user238@email.com,-5
+ORD000163,N/A,CUST00191,PROD0005,History of AI,Books,2,86.45,0,172.9,Los Angeles,credit card,,user134@email.com,23.15
+ORD000822,2023-11-10,CUST00141,PROD0001,Wireless Headphones,Electronics,7,,0,,NEW YORK,Credit Card,cancelled ,user339@email.com,19.49
+ORD000706,2025-06-27,CUST00182,PROD0038,Cutting Board,Home & Kitchen,7,57.86,0,405.02,Nashville,Cash,Pending,user423@email.com,0
+ORD001042,2024-08-15,CUST00126,PROD0028,Remote Car,Toys,4,261.97,0,1047.88,San Diego,Cash,Shipped,user270@email.com,20.92
+ORD000878,2023-09-04,CUST00293,PROD0043,USB-C Cable,Electronics,2,26.85,8.0,49.4,"Houston,",UPI,Returned,user438@email.com,0
+ORD000896,2024-04-16,CUST00091,PROD0035,Puzzle Set,Toys,6,483.16,5.5,2739.52,San Antonio,PayPal,completed,user96@email.com,15.85
+ORD000914,2024-04-02,CUST00130,PROD0041,Face Cream,Beauty,8,69.8,0,558.4,Unknown,,shipped,user90@email.com,4.05
+ORD001173,2024-10-21,CUST00215,PROD0034,Unknown Product,Beauty,6,474.95,0,2849.7,San Antonio,Cash,cancelled ,user301@email.com,11.32
+ORD000153,2023-09-11,CUST00064,PROD0014,Board Game,Toys,7,114.05,0,798.35,Chicago,Cash on Delivery,Returned,user146@email.com,17.26
+ORD001121,2025-01-31,CUST00088,PROD0021,Doll,Toys,2,309.81,0,619.62,N/A,Debit Card,,user62@email.com,-5
+ORD001107,2025-05-11,CUST00031,PROD0004,Water Bottle,Sports,6,303.34,0,1820.04,Chicago,Net Banking,,user127@email.com,-5
+ORD000510,2025-07-12,CUST00105,PROD0019,Fiction Novel,Books,7,221.65,21.8,1213.31,Indianapolis,PayPal,cancelled ,user97@email.com,23.58
+ORD000112,2025-02-19,cust00011,PROD0027,Lipstick,Beauty,8,107.84,0,862.72,"Houston,",Cash,Pending,user186@email.com,
+ORD000227,2024-01-08,CUST00115,PROD0042,Action Figure,Toys,5,252.64,0,1263.2,NEW YORK,Cash on Delivery,shipped,user72@email.com,4.48
+ORD001115,,cust00019,PROD0012,Cookbook,Books,6,485.26,0,2911.56,Phoenix,credit card,Cancelled,user497@email.com,-5
+ORD000852,2023-03-26,CUST00016,PROD0009,Cotton T-Shirt,Clothing,3,304.55,0,913.65,Indianapolis,,Pending,user332@email.com,19.69
+ORD000104,2024-11-28,CUST00089,PROD0049,Building Blocks,Toys,6,277.89,0,1667.34,Los Angeles ,UPI,shipped,user143@email.com,5.62
+ORD000422,2024-11-19,CUST00009,PROD0014,Board Game,,3,114.05,14.3,293.22,Denver,upi,N/A,user42@email.com,16.23
+ORD000420,2023-12-26,CUST00035 ,PROD0046,Tennis Racket,Sports,1,3346.3999999999996,7.5,3095.42,San Antonio,Cash,Returned,user274@email.com,7.52
+ORD000968,2023-06-29, CUST001  ,PROD0042,Action Figure,Toys,4,252.64,-5,1061.09,New York,Debit Card,N/A,user195@email.com,
+ORD000625,2024-07-08,CUST00300,PROD0016,Scarf,Clothing,6,99.87,0,599.22,San Antonio,Debit Card,shipped,user144@email.com,
+ORD000587,2024-03-25,CUST00275,PROD0025,Yoga Mat,Sports,1,233.47,1.7,229.5,Los Angeles,Net Banking,completed,user150@email.com,free
+ORD001085,2024-05-06,CUST00278,PROD0046,Tennis Racket,Sports,5,334.64,0,1673.2,New York,COD,Pending,user450@email.com,0.87
+ORD000920,2024-13-01,CUST00236,PROD0024,Lamp,Home & Kitchen,3,free,0,,Houston,PayPal,Cancelled,user229@email.com,-5
+ORD000673,2025-05-02,CUST00234,PROD0036,Bluetooth Speaker,Electronics,1,406.11,19.9,325.29,Austin,credit card,PENDING,user103@email.com,15.44
+ORD000120,2024-07-02,CUST00199,PROD0030,Socks Pack,Clothing,4,32.76,13.5,113.35,San Antonio,Credit Card,Shipped,user21@email.com,4.7
+ORD000054,2024-09-27,CUST00147,PROD0028,Remote Car,Toys,4,261.97,0,1047.88,"Houston,",upi,,user50@email.com,16.16
+ORD000152,2024/07/30,CUST00071,PROD0026,Data Science Handbook,Books,3,394.74,0,1184.22,Charlotte,Net Banking,N/A,user471@email.com,17.16
+ORD000404,2023-05-22,CUST00023 ,PROD0031,Towel Set,,3,307.7,0,923.1,Columbus,credit card,cancelled ,user350@email.com,0.74
+ORD001039,2025-09-12,CUST00241,PROD0002,Denim Jeans,Clothing,1,475.85,0,3330.95,Chicago,Debit Card,,user292@email.com,5.57
+ORD000208,2024-04-13,CUST00210,PROD0021,Doll,Toys,4,309.81,0,1239.24,San Antonio,upi,completed,user475@email.com,16.8
+ORD001159,N/A,CUST00057,PROD0009,Cotton T-Shirt,Clothing,2,304.55,0,609.1,Jacksonville,,shipped,user@.com,9.41
+ORD000009,,CUST00041,PROD0007,Soft Toy,Toys,8,38.46,0,307.68,Denver,PayPal,Shipped,user494@email.com,13.48
+ORD001015,2024-11-22,UNKNOWN,PROD0046,Tennis Racket,Sports,8,334.64,0,2677.12,Austin,,cancelled ,user369@email.com,6.71
+ORD000453,2024-01-19,CUST00228,PROD0030,Socks Pack,Clothing,1,327.59999999999997,0,327.6,San Antonio,Debit Card,Completed,user173@email.com,17.0
+ORD000254,2023-04-02,CUST00269,PROD0015,Webcam,Electronics,5,99.09,0,495.45,Jacksonville,credit card,Shipped,,21.2
+ORD000897,2024-13-01,CUST00138,PROD0031,Towel Set,Home & Kitchen,4,307.7,28.8,876.33,Philadelphia,UPI,Pending,user96@email.com,8.45
+ORD001073,2024-11-20,CUST00091,PROD0006,Hair Oil,Beauty,4,86.44,0,345.76,San Antonio,Cash on Delivery,cancelled ,user259@email.com,2.85
+ORD000881,2024-09-05,UNKNOWN,PROD0013,Sunscreen,Beauty,5,417.9,0,2089.5,Philadelphia,Credit Card,N/A,user372@email.com,21.58
+ORD001157,2025-04-06,CUST00118,PROD0011,Resistance Bands,Sports,0,20.09,14.3,0.0,Fort Worth,upi,Shipped,user119@email.com,23.39
+ORD000624,2024-04-24,CUST00097,PROD0020,Perfume,Beauty,2,152.7,0,305.4,Chicago,Net Banking,,user322@email.com,0
+ORD000346,2025-09-26,CUST00101,PROD0025,Yoga Mat,Sports,two,233.47,0,,San Antonio,CREDIT CARD,completed,user29@email.com,9.03
+ORD001055,2024-09-07,CUST00029 ,PROD0002,Denim Jeans,Clothing,8,475.85,3.2,3684.98,Philadelphia,UPI,Completed,user117@email.com,23.01
+ORD000263,2024-07-08,cust00007,PROD0044,Running Shoes,Clothing,3,-10.5,0,-31.5,New York,,,user453@email.com,-5
+ORD000151,32/13/2024,CUST00049,PROD0006,Hair Oil,Beauty,999,86.44,0,86353.56,,Debit Card,PENDING,user118@email.com,18.27
+ORD000473,02/04/2023,CUST00040 ,PROD0003,Non-Stick Pan,Home & Kitchen,4,368.68,0,1474.72,Philadelphia,Net Banking,PENDING,user132@email.com,23.79
+ORD000641,2023-01-06,CUST00105,PROD0043,USB-C Cable,Electronics,4,26.85,0,107.4,Jacksonville,Debit Card,cancelled ,user109@email.com,16.71
+ORD000883,2025-01-02,CUST00104,PROD0001,Wireless Headphones,Electronics,4,193.52,0,387.04,San Antonio,Net Banking,PENDING,user41@email.com,5.12
+ORD001154,2024-11-13,CUST00197,PROD0038,Cutting Board,Home & Kitchen,7,57.86,0,405.02,Fort Worth,,cancelled ,user224@email.com,2.96
+ORD000551,13/08/2024,CUST00216,PROD0031,,Home & Kitchen,8,307.7,0,2461.6,new york,,shipped,user146@email.com,free
+ORD000929,2023-07-20,CUST00076,PROD0026,Data Science Handbook,Books,2,394.74,0,789.48,Columbus,CREDIT CARD,Pending,user118@email.com,24.22
+ORD000489,2023-04-18,CUST00116,PROD0028,Remote Car,Toys,2,261.97,0,523.94,Houston,PayPal,Returned,user421@email.com,2.39
+ORD001171,22-Jul-2024,CUST00226,PROD0031,Towel Set,Home & Kitchen,5,307.7,0,1538.5,Boston,Credit Card,N/A,user134@email.com,-5
+ORD000147,20240516,CUST00068,PROD0014,Board Game,Toys,6,114.05,0,684.3,new york,credit card,PENDING,user451@email.com,10.07
+ORD000403,22-May-2023,CUST00150,PROD0022,Power Bank,Electronics,8,78.35,19.4,505.2,Charlotte,credit card,Completed,user175@email.com,4.28
+ORD000955,2023-06-14,CUST00024 ,PROD0017,Coffee Maker,Home & Kitchen,6,159.08,20.8,755.95,Houston,PayPal,Cancelled,user409@email.com,24.11
+ORD001149,2024-13-01,CUST00255,PROD0029,Laptop Stand,Electronics,8,300.28,0,2402.24,N/A,PayPal,completed,user385@email.com,18.04
+ORD000660,2024-13-01,CUST00013,PROD0014,Board Game,Toys,1,114.05,0,114.05,Los Angeles ,paypal,,user64@email.com,-5
+ORD000464,2025-01-23,CUST00251,PROD0007,Soft Toy,Toys,6,38.46,0,230.76,Indianapolis,Credit Card,completed,user358@email.com,3.7
+ORD000187,2025-04-30,CUST00243,PROD0044,Running Shoes,Clothing,6,455.57,0,,San Jose,Credit Card,PENDING,user110@email.com,16.18
+ORD000609,03/10/2024,CUST00222,PROD0010,Blender,Home & Kitchen,6,356.96,0,2141.76,San Diego,PayPal,shipped,user345@email.com,free
+ORD000144,2025-04-23,CUST00235,PROD0039,Soccer Ball,Sports,8,345.27,3.4,2668.25,Denver,,Completed,user112@email.com,2.56
+ORD000752,2023-11-17,CUST00118,PROD0013,Sunscreen,Beauty,4,417.9,16.9,1389.1,Houston,credit card,Cancelled,  ,22.51
+ORD000982,2023-02-24,CUST00096,PROD0029,Laptop Stand,Electronics,1,300.28,24.5,,Phoenix,Cash on Delivery,Completed,user304@email.com,0.37
+ORD000198,,CUST00281,PROD0044,Running Shoes,Clothing,3,455.57,10%,1366.71,Dallas,Cash,shipped,user461@email.com,
+ORD000884,2025-09-30,CUST00041,PROD0019,Fiction Novel,Books,1,221.65,12.7,193.5,Phoenix,CREDIT CARD,cancelled ,user193@email.com,0
+ORD000280,2024-12-01,CUST00160,PROD0023,Cap,Clothing,6,153.15,19.6,738.8,Unknown,PayPal,Shipped,user466@email.com,0
+ORD000294,2023-01-30,CUST00004,PROD0004,Water Bottle,Sports,6,303.34,0,1820.04,San Antonio,Net Banking,completed,user243@email.com,16.14
+ORD001113,2024-03-11,CUST00233,PROD0042,Action Figure,Toys,8,252.64,5.9,1901.87,Denver,Debit Card,Pending,user421@email.com,18.02
+ORD000401,2024-05-13,CUST00258,PROD0029,Laptop Stand,Electronics,0,300.28,6.8,0.0,Austin,,completed,user286@email.com,3.78
+ORD000123,2023-12-12,CUST00101,PROD0003,Non-Stick Pan,Home & Kitchen,7,368.68,16.5,2154.93,,CREDIT CARD,N/A,user87@email.com,8.8
+ORD000203,2023-09-25,CUST00067,PROD0004,Water Bottle,Sports,8,303.34,0,2426.72,New York,upi,,user371@email.com,24.45
+ORD000836,04/01/2025,,PROD0025,Yoga Mat,Sports,3,233.47,-5,735.43,Columbus,Debit Card,completed,user371@email.com,3.08
+ORD000247,2024-07-22,CUST00093,PROD0039,Soccer Ball,Sports,4,345.27,0,1381.08,Fort Worth,Cash on Delivery,Cancelled,user243@email.com,4.42
+ORD001164,2024-02-21,CUST00065,PROD0003,Non-Stick Pan,Home & Kitchen,7,368.68,0,2580.76,Los Angeles ,Credit Card,Shipped,user202@email.com,5.84
+ORD000385,2024-06-13,CUST00185,PROD0011,Resistance Bands,Sports,5,20.09,24.9,75.44,N/A,PayPal,completed,user487@email.com,free
+ORD000855,2023-11-26,CUST00194,PROD0022,Unknown Product,Electronics,4,78.35,0,313.4,Los Angeles,Net Banking,Shipped,user193@email.com,13.81
+ORD000220,2023-08-22,CUST00170,PROD0045,,Home & Kitchen,0,0,0,0.0,Columbus,credit card,cancelled ,user9@email.com,2.96
+ORD000642,2025-04-19,CUST00050,PROD0014,BOARD GAME,Toys,6,114.05,23.2,525.54,Unknown,credit card,shipped,  ,24.26
+ORD000002,2023-08-09,CUST00230,PROD0008,Keyboard,Electronics,1,434.43,12.7,379.26,Austin,Debit Card,Pending,user177@email.com,20.18
+ORD000113,2023-07-30,CUST00294,PROD0038,Cutting Board,Home & Kitchen,3,57.86,0,173.58,Indianapolis,Debit Card,Returned,invalid@,11.42
+ORD000699,20241015,CUST00186,PROD0001,Wireless Headphones,Electronics,8,193.52,0,1548.16,,upi,N/A,user261@email.com,16.67
+ORD000952,2024-08-09,CUST00168,PROD0007,Soft Toy,Toys,1,38.46,0.7,38.19,Phoenix,UPI,Returned,user25@email.com,9.41
+ORD001103,2023-06-01,CUST00023 ,PROD0011,Resistance Bands,Sports,2,20.09,0,40.18,Columbus,credit card,shipped,user192@email.com,-5
+ORD000442,2025-08-26,CUST00134,PROD0018,Dumbbell Set,Sports,,267.13,0,,Boston,,,user488@email.com,free
+ORD000664,2024-06-21,CUST00161,PROD0018,Dumbbell Set,Sports,7,267.13,0,1869.91,Indianapolis,credit card,Completed,invalid@,5.61
+ORD001120,03-Mar-2023,CUST00210,PROD0040,Travel Guide,Books,1,2256.7,0,2256.7,Phoenix,Net Banking,shipped,  ,11.54
+ORD000318,N/A,,PROD0032,Jump Rope,Sports,4,93.56,0,374.24,Phoenix,credit card,,user412@email.com,22.4
+ORD000649,2025-08-07,CUST00020,PROD0045,Air Fryer,Home & Kitchen,2,136.8,0,0,San Jose,credit card,PENDING,user381@email.com,20.92
+ORD000710,,CUST00028,PROD0001,Wireless Headphones,Electronics,8,193.52,0,1548.16,Denver,COD,Completed,user362@email.com,-5
+ORD000973,2024-03-05,CUST00022,PROD0045,Air Fryer,Home & Kitchen,1,136.8,0,136.8,San Jose,paypal,Cancelled,user290@email.com,3.98
+ORD000628,2025-03-18,CUST00025 ,PROD0018,Dumbbell Set,Sports,3,267.13,0,801.39,Houston,paypal,PENDING,user444@email.com,11.65
+ORD000633,2024-04-22,CUST00026 ,PROD0044,Running Shoes,Clothing,1,455.57,0,455.57,Los Angeles ,Debit Card,shipped,,
+ORD001196,2023-08-29,CUST00021 ,PROD0037,Winter Jacket,Clothing,8,159.26,2.7,1239.68,Boston,Cash,Completed,invalid@,1.94
+ORD000421,2025-06-24,CUST00285,PROD0001,Wireless Headphones,Electronics,1,193.52,0,1354.64,Austin,COD,Shipped,user140@email.com,24.58
+ORD000796,2025-02-17,CUST00081,PROD0005,History of AI,Books,4,86.45,0,345.8,Los Angeles ,PayPal,Pending,user129@email.com,-5
+ORD000646,N/A,CUST00058,PROD0033,Unknown Product,Books,7,41.88,0,293.16,Dallas,Cash on Delivery,Returned,user233@email.com,11.62
+ORD001013,N/A,cust00019,PROD0005,History of AI,Books,3,86.45,0,259.35,Boston,COD,PENDING,user174@email.com,22.18
+ORD000557,2025-06-07,CUST00259,PROD0004,Water Bottle,Sports,3,303.34,0,910.02,San Antonio,,PENDING,user85@email.com,23.79
+ORD000682,2025-05-04,CUST00112,PROD0008,Keyboard,Electronics,1,434.43,0,434.43,New York,CREDIT CARD,N/A,user26@email.com,9.98
+ORD000578,2024-05-02,CUST00035,PROD0046,Tennis Racket,Sports,,334.64,3.2,,San Diego,,N/A,user451@email.com,free
+ORD000525,2023-06-05,CUST00077,PROD0047,Children Story,Books,999,162.74,-5,170706.12,Chicago,COD,Pending,user111@email.com,16.36
+ORD001060,2024-12-09,CUST00134,PROD0033,Python Programming,Books,7,41.88,5.9,275.86,San Antonio,Cash on Delivery,Shipped,user464@email.com,7.62
+ORD000541,2024-03-23, CUST001  ,PROD0008,Keyboard,Electronics,7,434.43,27.1,2216.9,Los Angeles ,,Cancelled,user402@email.com,19.05
+ORD000749,2025-08-28,CUST00282,PROD0009,Cotton T-Shirt,Clothing,4,304.55,0,1218.2,Indianapolis,COD,Completed,user488@email.com,11.92
+ORD001134,2024-01-20,CUST00007,PROD0037,Winter Jacket,Clothing,4,159.26,150,-318.52,Nashville,Cash,Shipped,user140@email.com,10.8
+ORD000485,2025-08-25,CUST00044,PROD0013,Sunscreen,Beauty,5,417.9,0,2089.5,San Diego,UPI,Completed,user401@email.com,13.35
+ORD000096,2025-04-06,CUST00255,PROD0009,Cotton T-Shirt,Clothing,5,304.55,0,1522.75,San Jose,CREDIT CARD,Pending,user213@email.com,5.1
+ORD001021,2025-01-29,CUST00032 ,PROD0001,Wireless Headphones,Misc,1,193.52,0,193.52,San Diego,CREDIT CARD,cancelled ,user205@email.com,10.17
+ORD000564,2024-03-17,CUST00211,PROD0006,Hair Oil,Beauty,3,86.44,17.3,214.46, chicago,Debit Card,Returned,user56@email.com,21.93
+ORD000743,2024-04-25,CUST00099,PROD0023,Cap,Clothing,4,153.15,0,612.6,NEW YORK,Cash,Completed,user41@email.com,0
+ORD000864,2024-13-01,CUST00257,PROD0002,Denim Jeans,Clothing,1,-10.5,0.8,-10.42,Houston,paypal,Cancelled,user7@email.com,9.43
+ORD000892,2024-09-16,CUST00129,PROD0049,Building Blocks,Toys,5,277.89,18.2,1136.57,new york,Debit Card,,user321@email.com,11.45
+ORD001039,2025-09-12,CUST00241,PROD0002,Denim Jeans,Clothing,7,475.85,0,3330.95,Chicago,Debit Card,,user292@email.com,5.57
+ORD000207,2023-12-16,cust00008,PROD0028,Remote Car,Toys,6,261.97,22.8,1213.45,new york,,Shipped,user55@email.com,0
+ORD000393,2024-11-08,CUST00292,PROD0025,Yoga Mat,Sports,6,233.47,15.1,error,Phoenix  ,PayPal,PENDING,user153@email.com,18.1
+ORD000795,2023-12-20,CUST00013,PROD0037,Winter Jacket,Clothing,4,159.26,,637.04,New York,CREDIT CARD,PENDING,user46@email.com,8.71
+ORD000871,2023-01-19,,PROD0047,Children Story,,2,,0,,Los Angeles,paypal,completed,user34@email.com,7.14
+ORD000398,2023-03-07,CUST00250,PROD0006,Hair Oil ,Beauty,1,86.44,0,86.44,new york,credit card,cancelled ,user331@email.com,17.44
+ORD000767,2023-07-12,CUST00144,PROD0007,Soft Toy,Toys,8,38.46,20.1,245.84,Charlotte,,Completed,,10.88
+ORD000674,2024-13-01,,PROD0027,Lipstick,Beauty,4,107.84,0,862.72,Los Angeles ,upi,cancelled ,user301@email.com,2.54
+ORD001029,2024-08-02,CUST00150,PROD0037,Winter Jacket,Clothing,3,159.26,0,477.78,,COD,,user376@email.com,10.13
+ORD000643,2024-10-23,CUST00175,PROD0041,Face Cream,Beauty,1,69.8,0,69.8,Indianapolis,Cash on Delivery,Completed,user174@email.com,4.5
+ORD000613,2025-03-01,CUST00149,PROD0033,Python Programming,Books,4,41.88,0,167.52,NEW YORK,Net Banking,PENDING,user205@email.com,1.37
+ORD000961,,CUST00106,PROD0047,Children Story,Books,5,162.74,0,813.7,Denver,credit card,,  ,0.32
+ORD000726,2023-01-15,CUST00022,PROD0014,Board Game,Toys,4,114.05,0,456.2,Austin,,Shipped,user103@email.com,1.41
+ORD000684,2024-03-20,cust99999,PROD0014,Board Game,Toys,2,114.05,0,228.1,new york,UPI,Returned,  ,0.4
+ORD000099,2025-06-22,CUST00035 ,PROD0013,Sunscreen,Beauty,5,417.9,0,2089.5,Jacksonville,,PENDING,user292@email.com,9.06
+ORD000805,,CUST00189,PROD0050,Smartphone Case,Electronics,2,100.58,0,201.16, chicago,upi,shipped,user79@email.com,9.45
+ORD000407,2024-06-16,CUST00044,PROD0037,Winter Jacket ,Clothing,,159.26,0,,San Jose,Cash on Delivery,Pending,user175@email.com,4.0
+ORD000503,2023-09-01,CUST00067,PROD0045,Air Fryer,Home & Kitchen,6,136.8,0,820.8,San Antonio,Cash,PENDING,user323@email.com,3.01
+ORD001072,2024-11-06,UNKNOWN,PROD0045,Air Fryer,Home & Kitchen,3,136.8,0,error,"Houston,",Cash,Completed,user222@email.com,free
+ORD001057,2023-05-03,CUST00022 ,PROD0015,Webcam,Electronics,2,99.09,2.5,193.23,Seattle,Credit Card,Returned,user284@email.com,22.96
+ORD000930,2024-03-21,CUST00142,PROD0003,,Home & Kitchen,4,368.68,,1474.72,Denver,,Returned,user361@email.com,6.34
+ORD000780,2024-01-18,CUST00013,PROD0044,Running Shoes,Clothing,3,455.57,0,1366.71,Indianapolis,Debit Card,,user287@email.com,0
+ORD000201,2024-09-28,CUST00024,PROD0017,Coffee Maker,Home & Kitchen,-1,159.08,10.7,-142.06, chicago,Debit Card,completed,user206@email.com,11.41
+ORD000135,20240526,CUST00225,PROD0024,Lamp,Home & Kitchen,2,189.52,0,379.04,San Diego,UPI,,user194@email.com,free
+ORD001052,2024-09-16,CUST00187,PROD0012,Cookbook,Books,1,485.26,0,485.26,"Houston,",,completed,user89@email.com,9.25
+ORD000041,2023-08-28,CUST00241,PROD0011,Resistance Bands,Sports,4,20.09,25.8,59.63,Phoenix  ,,,user102@email.com,13.61
+ORD001018,2023-05-02,CUST00094,PROD0010,Blender,Home & Kitchen,4,0,11.0,0,Fort Worth,Debit Card,Shipped,user299@email.com,0
+ORD000231,N/A,CUST00083,PROD0050,Smartphone Case,Electronics,7,,17.8,,Phoenix,Credit Card,Cancelled,user491@email.com,24.23
+ORD000379,2023-06-27,CUST00211,PROD0043,USB-C Cable,Electronics,6,26.85,0,161.1,,Net Banking,Shipped,user94@email.com,9.43
+ORD000289,2024-07-14,CUST00244,PROD0043,USB-C Cable,Electronics,8,26.85,0,-100,new york,paypal,Returned,user@.com,
+ORD000419,,CUST00156,PROD0019,Fiction Novel,Books,8,221.65,0,1773.2,Philadelphia,,Returned,user467@email.com,1.04
+ORD000392,2023-11-04,CUST00041,PROD0001,Wireless Headphones,Electronics,8,193.52,0,1548.16,Seattle,credit card,Shipped,user470@email.com,
+ORD000593,2024-01-06,CUST00141,PROD0028,Remote Car,Toys,4,261.97,150,-523.94,Dallas,,,user64@email.com,16.52
+ORD001087,2024-03-22,CUST00020,PROD0026,Data Science Handbook,Books,3,394.74,0,1184.22,Phoenix,Net Banking,PENDING,user438@email.com,
+ORD000648,2023-10-09,CUST00044,PROD0016,Scarf,Clothing,3,99.87,0,299.61,Charlotte,upi,shipped,user428@email.com,20.51
+ORD000521,2024-04-10,,PROD0046,Tennis Racket,Sports,1,334.64,0,334.64,,UPI,shipped,user217@email.com,6.8
+ORD000065,2024-03-09,CUST00288,PROD0042,Action Figure,Toys,2,252.64,0,505.28, chicago,Credit Card,Shipped,user296@email.com,3.87
+ORD000015,2025-08-15,cust00005,PROD0003,Non-Stick Pan,Home & Kitchen,0,368.68,0,0.0,NEW YORK,upi,completed,user344@email.com,11.43
+ORD001065,2025-02-17,CUST00014,PROD0013,Sunscreen,Beauty,6,417.9,3.2,2427.16,Los Angeles,UPI,shipped,user361@email.com,1.61
+ORD000493,2025-06-28,CUST00218,PROD0019,Fiction Novel,Books,3,221.65,0,664.95,Houston,credit card,Completed,user382@email.com,free
+ORD000380,2024-12-19,,PROD0021,Doll,,4,309.81,0,1239.24,Los Angeles,credit card,shipped,user46@email.com,4.25
+ORD000188,2023-08-18,CUST00011,PROD0020,Perfume,Beauty,1,152.7,5.2,144.76,Phoenix  ,UPI,N/A,user217@email.com,21.29
+ORD000764,2024-01-26,cust00018,PROD0039,Soccer Ball,Sports,1,345.27,0,345.27,Philadelphia,Debit Card,Completed,user498@email.com,21.91
+ORD000217,2024-07-28,CUST00170,PROD0035,Puzzle Set,Misc,5,483.16,0,2415.8,new york,Credit Card,Pending,user464@email.com,22.97
+ORD000792,2025-04-08,CUST00009,PROD0015,Webcam,Misc,2,99.09,0,198.18,Houston,Cash on Delivery,PENDING,user85@email.com,22.94
+ORD001077,2023-01-18,CUST00030 ,PROD0047,Children Story,Books,5,162.74,0,813.7,,upi,Cancelled,user357@email.com,9.98
+ORD000879,2023-04-30, CUST001  ,PROD0030,Socks Pack,Clothing,7,32.76,0,229.32,"Houston,",credit card,Returned,invalid@,8.37
+ORD000338,2024-08-17,,PROD0010,Blender,Home & Kitchen,6,356.96,14.4,1833.35,Los Angeles ,Cash on Delivery,N/A,user460@email.com,17.01
+ORD000720,2023-11-07,CUST00293,PROD0018,Dumbbell Set,Sports,6,267.13,0,1602.78,Jacksonville,paypal,Completed,user223@email.com,13.1
+ORD000296,2023-06-19,,PROD0009,Unknown Product,Clothing,1,304.55,0,304.55,Fort Worth,PayPal,shipped,user158@email.com,7.86
+ORD001017,2025-07-28,CUST00275,PROD0039,Soccer Ball,Sports,1,345.27,0,345.27,Seattle,Debit Card,completed,user74@email.com,23.5
+ORD000456,2023-12-07,CUST00167,PROD0035,Puzzle Set,Toys,7,483.16,0,3382.12,"Houston,",upi,completed,user35@email.com,15.21
+ORD000816,2024-10-21,CUST00171,PROD0001,Wireless Headphones,Electronics,4,193.52,0,774.08,NEW YORK,paypal,N/A,user108@email.com,16.4
+ORD000270,2023-09-29,CUST00262,PROD0002,Denim Jeans,Clothing,3,475.85,0,1427.55,Boston,Cash on Delivery,Returned,user293@email.com,22.95
+ORD000996,2025-05-16,CUST00192,PROD0014,Board Game,Toys,1,1140.5,0,1140.5,Austin,Credit Card,Returned,user6@email.com,0
+ORD000202,2025-08-23,CUST00216,PROD0050,Smartphone Case,Electronics,3,100.58,0,301.74,Houston,credit card,shipped,user225@email.com,free
+ORD000162,2024-06-26,CUST00001,PROD0003,Non-Stick Pan,Home & Kitchen,7,368.68,0,2580.76,Columbus,CREDIT CARD,Completed,user144@email.com,0
+ORD000730,2024-04-15,CUST00199,PROD0004,Water Bottle,Sports,3,303.34,24.2,689.8,N/A,paypal,Returned,user321@email.com,23.55
+ORD000402,N/A,CUST00026,PROD0048,Nail Polish,Beauty,8,264.83,0,2118.64,Nashville,,Pending,,
+ORD000703,2024-10-25,CUST00025,PROD0007,Soft Toy,Toys,5,38.46,16.8,159.99,Fort Worth,,completed,user256@email.com,8.34
+ORD001130,2023-01-04,CUST00150,PROD0024,Lamp,Home & Kitchen,7,189.52,0,1326.64,Boston,,shipped,user61@email.com,0.07
+ORD000566,2024-11-11,CUST00005,PROD0045,Air Fryer,Home & Kitchen,3,136.8,29.0,291.38,Indianapolis,UPI,Pending,,20.64
+ORD001022,32/13/2024,CUST00031 ,PROD0039,Soccer Ball,Sports,6,345.27,0,2071.62,Austin,COD,Returned,,12.1
+ORD001026,2023-04-04,CUST00182,PROD0002,Denim Jeans,Clothing,4,475.85,10%,1903.4,Denver,CREDIT CARD,Completed,user255@email.com,3.02
+ORD001105,2024-12-07,CUST00243,PROD0009,Cotton T-Shirt,Clothing,6,304.55,12.8,1593.41,,paypal,Pending,user22@email.com,1.52
+ORD000206,2025-06-30,CUST00286,PROD0004,Water Bottle,Sports,2,303.34,0,606.68,San Antonio,COD,,user423@email.com,0
+ORD000035,2024-05-21,CUST00231,PROD0030,Socks Pack,clothing,8,32.76,0,262.08,Philadelphia,CREDIT CARD,Returned,user144@email.com,17.53
+ORD000776,2024-11-22,CUST00232,PROD0015,Webcam,Electronics,7,99.09,0,693.63,Seattle,CREDIT CARD,Pending,user357@email.com,20.03
+ORD000509,2025-03-10,CUST00091,PROD0011,Resistance Bands,Sports,1,20.09,0,20.09, chicago,upi,N/A,user446@email.com,15.11
+ORD000167,2025-08-04,CUST00066,PROD0018,Dumbbell Set,Sports,2,267.13,0,1602.78,,upi,PENDING,user219@email.com,0
+ORD000092,2025-03-20,CUST00027 ,PROD0019,Fiction Novel,Books,6,221.65,6.0,1250.11,Jacksonville,paypal,shipped,user283@email.com,
+ORD000898,2023-08-16,CUST00176,PROD0042,Action Figure,Toys,3,252.64,0,757.92,Nashville,,,user482@email.com,14.0
+ORD000565,2023-10-10,CUST00270,PROD0031,Towel Set,Home & Kitchen,6,307.7,0,1846.2,Los Angeles,Cash,Returned,user63@email.com,11.38
+ORD000777,2023-02-10,CUST00061,PROD0010,Blender,Home & Kitchen,8,356.96,0,2855.68,Austin,credit card,Pending,user40@email.com,free
+ORD000242,2024-11-24,cust00001,PROD0002,Denim Jeans,Clothing,8,475.85,19.0,3083.51,Phoenix  ,Net Banking,PENDING,user5@email.com,6.58
+ORD000014,2025-05-23,CUST00030,PROD0030,Socks Pack,Clothing,1,32.76,17.5,27.03,Los Angeles,paypal,Pending,,5.88
+ORD000316,2025-05-14,CUST00196,PROD0043,USB-C Cable,Electronics,1,26.85,0,26.85,new york,,Shipped,user51@email.com,14.6
+ORD000601,2024-13-01,,PROD0009,,Clothing,3,304.55,0,913.65,Seattle,PayPal,shipped,user102@email.com,21.91
+ORD000388,2024-11-06,cust00003,PROD0048,Nail Polish,Beauty,2,264.83,2.4,516.95,new york,UPI,shipped,user23@email.com,23.77
+ORD000167,2025-08-04,CUST00066,PROD0018,Dumbbell Set,Sports,6,267.13,0,1602.78,,upi,PENDING,user219@email.com,0
+ORD000841,2024-03-11,CUST00284,PROD0023,Cap,Clothing,6,-10.5,22.0,-49.14,Phoenix  ,UPI,shipped,user432@email.com,14.13
+ORD000021,2023-10-13,CUST00236,PROD0050,Smartphone Case,Electronics,4,100.58,0,402.32,"Houston,",UPI,completed,user432@email.com,23.48
+ORD000647,2023-01-25, CUST001  ,PROD0043,USB-C Cable,,5,26.85,0,134.25,Philadelphia,UPI,completed,user153@email.com,14.89
+ORD001155,04-23-2025,CUST00073,PROD0034,Shampoo,Beauty,1,474.95,0,474.95,New York,CREDIT CARD,Completed,user482@email.com,16.22
+ORD000832,N/A,CUST00021,PROD0010,Blender,Home & Kitchen,7,356.96,0,0,New York,Debit Card,cancelled ,user55@email.com,14.77
+ORD000563,2023-11-05,CUST00180,PROD0036,Bluetooth Speaker,Electronics,5,406.11,13.8,1750.33,N/A,paypal,,user306@email.com,6.75
+ORD001195,2024-12-05,CUST00190,PROD0019,Fiction Novel,Books,7,221.65,16.8,1290.89,San Antonio,paypal,PENDING,user335@email.com,
+ORD000687,2023-06-23,,PROD0028,Remote Car,Toys,1,261.97,0,261.97,New York,Net Banking,Returned,user58@email.com,11.61
+ORD000958,2023-12-17,CUST00057,PROD0020,Perfume,Beauty,1,152.7,22.1,118.95,Jacksonville,upi,shipped,user273@email.com,-5
+ORD000190,2025-04-09,CUST00034 ,PROD0019,Fiction Novel,Books,3,221.65,1.7,653.65,NEW YORK,Net Banking,,  ,6.49
+ORD000976,2024-04-16,CUST00038,PROD0033,Python Programming,Books,6,41.88,0,251.28,San Jose,upi,Pending,user152@email.com,4.62
+ORD000700,2025-03-10,cust99999,PROD0039,,Sports,8,345.27,0,2762.16,Indianapolis,paypal,shipped,user266@email.com,16.69
+ORD000511,2024-10-22,CUST00091,PROD0043,,Electronics,4,,0,,Houston,upi,Returned,user7@email.com,9.45
+ORD001083,2025-05-25,CUST00157,PROD0015,Webcam,Electronics,4,99.09,0,396.36,Houston,paypal,completed,user8@email.com,free
+ORD000475,2023-07-12,CUST00120,PROD0029,Laptop Stand,Electronics,2,300.28,10.2,539.3,Houston,Cash,completed,user195@email.com,0.04
+ORD000857,2025-08-29,CUST00271,PROD0004,Water Bottle,Sports,5,303.34,25.7,1126.91,N/A,Cash on Delivery,Returned,user97@email.com,1.6
+ORD000748,2023-06-04,CUST00077,PROD0004,Water Bottle,Sports,1,303.34,0,error,Philadelphia,Cash on Delivery,Pending,user173@email.com,free
+ORD000253,2025-09-25,CUST00015,PROD0039,Soccer Ball,Sports,,345.27,0,,Dallas,paypal,cancelled ,user277@email.com,free
+ORD000022,2024-09-12,CUST00136,PROD0048,Nail Polish,Beauty,two,264.83,0,,Houston,credit card,shipped,  ,0
+ORD000460,2023-07-22,CUST00105,PROD0043,USB-C Cable,Electronics,2,26.85,0,53.7,Philadelphia,Cash,Returned,user496@email.com,6.8
+ORD001185,2025-03-08,CUST00208,PROD0008,Keyboard,Electronics,1,434.43,14.5,371.44,San Jose,Cash on Delivery,,user42@email.com,9.79
+ORD000277,20250604,CUST00239,PROD0012,Cookbook,Books,1,,25.6,,Unknown,COD,PENDING,user364@email.com,-5
+ORD000956,,CUST00069,PROD0019,Fiction Novel,Books,2,221.65,5.3,419.81,,UPI,Returned,user31@email.com,
+ORD000386,2025-08-07,CUST00019,PROD0024,Lamp,Home & Kitchen,3,189.52,0,568.56,Charlotte,Net Banking,N/A,user58@email.com,21.67
+ORD000806,12/02/2023,CUST00137,PROD0006,Hair Oil,Beauty,4,86.44,0,345.76,Phoenix,Cash on Delivery,PENDING,user423@email.com,10.67
+ORD000344,2025-09-20,CUST00208,PROD0014,Board Game,Toys,3,114.05,0,342.15,Seattle,Net Banking,,user149@email.com,18.85
+ORD000770,2025-03-28,CUST00021 ,PROD0040,Travel Guide,Books,6,225.67,0,1354.02,,,Returned,user422@email.com,2.8
+ORD000131,2023-04-02,CUST00045,PROD0016,Scarf,Clothing,8,99.87,0,798.96,Chicago,Cash,shipped,user7@email.com,9.69
+ORD000872,2024-10-02,CUST00299,PROD0040,Travel Guide,Books,7,225.67,0,1579.69,Nashville,Cash,PENDING,user426@email.com,15.12
+ORD001124,2023-04-07,CUST00093,PROD0035,Puzzle Set,Toys,1,483.16,19.2,390.39,Phoenix,CREDIT CARD,PENDING,user419@email.com,13.93
+ORD000088,2023-12-26,CUST00039 ,PROD0046,Tennis Racket,Sports,8,334.64,0,2677.12, chicago,,completed,user328@email.com,23.7
+ORD000331,2023-08-24,CUST00228,PROD0026,Data Science Handbook,Books,6,394.74,0,2368.44,Austin,Cash on Delivery,Pending,user103@email.com,5.52
+ORD000467,2023-06-24,CUST00001,PROD0030,Socks Pack,Clothing,7,32.76,0,229.32,Philadelphia,upi,Cancelled,user486@email.com,0
+ORD000122,2023-04-11,CUST00274,PROD0016,Scarf,,5,99.87,0,499.35, chicago,CREDIT CARD,completed,user212@email.com,0
+ORD001045,2024-01-26,CUST00020,PROD0036,Bluetooth Speaker,Electronics,1,406.11,0,406.11,Phoenix,upi,shipped,,-5
+ORD001096,2025-08-13,CUST00143,PROD0023,Cap,Clothing,8,153.15,0,1225.2,Phoenix  ,credit card,shipped,user115@email.com,9.9
+ORD001131,2025-01-29,CUST00291,PROD0013,Sunscreen,Beauty,3,417.9,14.8,1068.15,NEW YORK,paypal,shipped,user317@email.com,
+ORD000861,2025-05-01,CUST00257,PROD0045,Air Fryer,Home & Kitchen,5,136.8,0,,NEW YORK,upi,completed,user150@email.com,22.91
+ORD001127,2025-05-16,,PROD0036,Bluetooth Speaker,Electronics,2,406.11,1.0,error,Chicago,credit card,Shipped,user372@email.com,23.33

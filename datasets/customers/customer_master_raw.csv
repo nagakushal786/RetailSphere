@@ -1,0 +1,302 @@
+customer_id,customer_name,email,signup_date,loyalty_tier,region
+CUST00001,Customer 001,cust00001@mail.com,2024-06-05,Bronze,east
+CUST00002,Customer 002,cust00002@mail.com,2024-05-17,Silver,North
+CUST00003,Customer 003,cust00003@mail.com,2023-08-27,Platinum,East
+CUST00004,Customer 004,cust00004@mail.com,2023-11-12,Silver,North
+CUST00005,Customer 005,cust00005@mail.com,2024-07-02,gold,East
+CUST00006,Customer 006,cust00006@mail.com,2023-12-01,gold,East
+CUST00007,Customer 007,cust00007@mail.com,2024-08-02,Platinum,South
+CUST00008,Customer 008,bad@,2024-07-05,Bronze,east
+CUST00009,Customer 009,cust00009@mail.com,2023-10-06,,North
+CUST00010,Customer 010,cust00010@mail.com,2023-02-25,SILVER ,WEST 
+CUST00011,Customer 011,,2024-07-05,Platinum,East
+CUST00012,Customer 012,cust00012@mail.com,2023-10-05,gold,WEST 
+CUST00013,Customer 013,cust00013@mail.com,2023-02-23,gold,
+CUST00014,Customer 014,cust00014@mail.com,2023-05-26,gold,North
+CUST00015,CUSTOMER 015,cust00015@mail.com,2023-02-17,Bronze,West
+cust00016,Customer 016,cust00016@mail.com,2024-04-01,Silver,WEST 
+CUST00017,Customer 017,cust00017@mail.com,2023-03-09,Platinum,West
+CUST00018,Customer 018,cust00018@mail.com,2023-06-28,SILVER ,North
+CUST00019,Customer 019,cust00019@mail.com,2023-01-31,Bronze,east
+CUST00020,Customer 020,cust00020@mail.com,2023-12-14,Silver,South
+CUST00021,Customer 021,cust00021@mail.com,2024-03-05,Platinum,WEST 
+CUST00022,Customer 022,cust00022@mail.com,2024-01-30,Silver,South
+CUST00023,Customer 023,,2024-06-27,Bronze,East
+CUST00024,Customer 024,cust00024@mail.com,2023-06-29,Platinum,North
+CUST00025,Customer 025,cust00025@mail.com,2024-01-26,Silver,North
+CUST00026,Customer 026,cust00026@mail.com,2024-05-11,Bronze,WEST 
+CUST00027,Customer 027,cust00027@mail.com,2023-05-27,gold,West
+CUST00028,Customer 028,,2023-06-09,Platinum,East
+CUST00029,Customer 029,cust00029@mail.com,2024-08-06,SILVER ,WEST 
+CUST00030,CUSTOMER 030,cust00030@mail.com,,Silver,West
+CUST00031,Customer 031,cust00031@mail.com,,Silver,South
+CUST00032,Customer 032,cust00032@mail.com,2024-06-29,SILVER ,North
+CUST00033,Customer 033,cust00033@mail.com,2024-02-14,Gold,east
+CUST00034,Customer 034,cust00034@mail.com,2024-08-06,Platinum,North
+CUST00035,Customer 035,cust00035@mail.com,2024-02-25,Silver,West
+CUST00036,Customer 036,cust00036@mail.com,2024-04-19,,South
+CUST00037,Customer 037,bad@,2024-08-18,SILVER ,
+CUST00038,Customer 038,cust00038@mail.com,2023-05-19,Gold,east
+cust00039,Customer 039,cust00039@mail.com,2024-02-25,Silver,South
+CUST00040,Customer 040,cust00040@mail.com,2024-08-05,Silver,North
+CUST00041,Customer 041,cust00041@mail.com,2023-06-08,gold,WEST 
+CUST00042,Customer 042,cust00042@mail.com,2024-07-20,SILVER ,east
+CUST00043,Customer 043,cust00043@mail.com,2024-04-06,Gold,South
+CUST00044,CUSTOMER 044,cust00044@mail.com,2023-09-18,Bronze,
+CUST00045,Customer 045,cust00045@mail.com,2023-09-10,Silver,WEST 
+CUST00046,Customer 046,cust00046@mail.com,2023-03-28,Silver,East
+CUST00047,CUSTOMER 047,bad@,2023-02-20,gold,South
+CUST00048,Customer 048,cust00048@mail.com,2023-03-10,Gold,WEST 
+CUST00049,Customer 049,bad@,2024-07-31,Gold,West
+CUST00050,Customer 050,cust00050@mail.com,2023-11-26,gold,South
+CUST00051,Customer 051,cust00051@mail.com,2024-07-07,Gold,South
+CUST00052,Customer 052,cust00052@mail.com,2023-05-19,Bronze,WEST 
+cust00053,Customer 053,,2023-08-28,Silver,South
+CUST00054,Customer 054,cust00054@mail.com,2023-04-15,Gold,east
+CUST00055,Customer 055,cust00055@mail.com,2024-08-05,SILVER ,
+CUST00056,CUSTOMER 056,cust00056@mail.com,2024-01-14,Silver,East
+CUST00057,Customer 057,cust00057@mail.com,2023-01-03,Platinum,east
+CUST00058,Customer 058,cust00058@mail.com,2024-05-06,SILVER ,WEST 
+CUST00059,Customer 059,cust00059@mail.com,2023-01-07,SILVER ,South
+CUST00060,Customer 060,cust00060@mail.com,2023-11-22,Bronze,South
+CUST00061,Customer 061,cust00061@mail.com,2024-02-19,Bronze,South
+CUST00062,Customer 062,cust00062@mail.com,2024-05-23,Gold,South
+CUST00063,CUSTOMER 063,cust00063@mail.com,2023-07-03,Silver,
+CUST00064,Customer 064,cust00064@mail.com,2023-03-14,,West
+CUST00065,Customer 065,cust00065@mail.com,2023-07-08,SILVER ,North
+CUST00066,Customer 066,cust00066@mail.com,2023-01-01,Platinum,South
+CUST00067,Customer 067,cust00067@mail.com,2023-05-12,Gold,East
+CUST00068,Customer 068,cust00068@mail.com,2023-11-26,SILVER ,
+CUST00069,Customer 069,,2024-07-24,Gold,WEST 
+CUST00070,Customer 070,cust00070@mail.com,2024-07-05,Bronze,South
+CUST00071,Customer 071,cust00071@mail.com,2023-03-17,Gold,North
+CUST00072,Customer 072,cust00072@mail.com,2023-04-08,SILVER ,North
+CUST00073,Customer 073,cust00073@mail.com,2024-01-10,gold,South
+CUST00074,CUSTOMER 074,cust00074@mail.com,,Bronze,
+CUST00075,Customer 075,cust00075@mail.com,2023-11-23,Bronze,East
+CUST00076,Customer 076,cust00076@mail.com,2024-07-13,Bronze,East
+CUST00077,Customer 077,cust00077@mail.com,2024-02-08,SILVER ,WEST 
+CUST00078,CUSTOMER 078,cust00078@mail.com,2024-07-11,gold,WEST 
+CUST00079,Customer 079,cust00079@mail.com,2024-03-31,Bronze,North
+CUST00080,Customer 080,cust00080@mail.com,2023-04-03,Platinum,South
+CUST00081,Customer 081,cust00081@mail.com,2023-07-28,Gold,West
+cust00082,Customer 082,cust00082@mail.com,2024-04-24,SILVER ,east
+CUST00083,Customer 083,cust00083@mail.com,2024-03-18,,east
+CUST00084,Customer 084,cust00084@mail.com,2023-02-13,Bronze,WEST 
+CUST00085,Customer 085,cust00085@mail.com,2023-04-05,gold,WEST 
+CUST00086,Customer 086,cust00086@mail.com,2023-08-16,Silver,West
+CUST00087,Customer 087,cust00087@mail.com,2023-04-09,Gold,east
+CUST00088,CUSTOMER 088,cust00088@mail.com,2024-02-13,gold,east
+CUST00089,Customer 089,bad@,2023-06-12,Gold,South
+CUST00090,Customer 090,cust00090@mail.com,2023-10-07,Gold,WEST 
+CUST00091,Customer 091,cust00091@mail.com,2024-06-28,gold,WEST 
+CUST00092,Customer 092,,2023-10-24,Bronze,east
+CUST00093,Customer 093,cust00093@mail.com,2023-10-06,SILVER ,South
+CUST00094,Customer 094,cust00094@mail.com,2024-02-22,Gold,east
+CUST00095,Customer 095,,2023-01-14,Platinum,east
+cust00096,Customer 096,cust00096@mail.com,2024-05-12,Platinum,South
+CUST00097,Customer 097,,2024-02-07,Platinum,South
+CUST00098,Customer 098,cust00098@mail.com,2023-05-13,gold,WEST 
+CUST00099,Customer 099,cust00099@mail.com,2024-07-12,Bronze,east
+CUST00100,CUSTOMER 100,cust00100@mail.com,2023-06-18,gold,East
+CUST00101,Customer 101,cust00101@mail.com,2023-09-26,gold,South
+CUST00102,Customer 102,cust00102@mail.com,2024-01-11,Bronze,
+CUST00103,Customer 103,cust00103@mail.com,2023-02-20,,West
+CUST00104,Customer 104,cust00104@mail.com,2024-05-19,gold,
+CUST00105,Customer 105,cust00105@mail.com,,gold,east
+CUST00106,Customer 106,cust00106@mail.com,2023-12-04,Bronze,East
+CUST00107,Customer 107,cust00107@mail.com,2024-07-15,Gold,east
+CUST00108,Customer 108,cust00108@mail.com,2023-10-17,Platinum,West
+CUST00109,Customer 109,cust00109@mail.com,2024-01-15,Platinum,East
+CUST00110,Customer 110,cust00110@mail.com,2023-01-13,SILVER ,
+cust00111,Customer 111,cust00111@mail.com,2024-07-08,Platinum,South
+cust00112,Customer 112,cust00112@mail.com,2024-03-07,Platinum,West
+CUST00113,Customer 113,cust00113@mail.com,2024-01-10,Bronze,West
+CUST00114,Customer 114,,2023-04-03,SILVER ,South
+CUST00115,CUSTOMER 115,cust00115@mail.com,2024-08-08,Silver,North
+CUST00116,CUSTOMER 116,cust00116@mail.com,2023-12-01,,WEST 
+CUST00117,Customer 117,cust00117@mail.com,2024-01-10,gold,WEST 
+CUST00118,Customer 118,cust00118@mail.com,2024-08-20,gold,east
+CUST00119,Customer 119,,2024-06-21,,WEST 
+CUST00120,Customer 120,cust00120@mail.com,2024-02-19,Platinum,East
+CUST00121,Customer 121,cust00121@mail.com,2023-11-27,Platinum,WEST 
+cust00122,Customer 122,cust00122@mail.com,2023-01-08,Platinum,West
+CUST00123,Customer 123,cust00123@mail.com,2024-05-04,SILVER ,east
+cust00124,Customer 124,cust00124@mail.com,2023-04-13,Silver,North
+CUST00125,Customer 125,cust00125@mail.com,2023-07-14,Silver,east
+CUST00126,Customer 126,cust00126@mail.com,2023-05-17,SILVER ,North
+CUST00127,CUSTOMER 127,cust00127@mail.com,2023-05-17,SILVER ,South
+CUST00128,Customer 128,cust00128@mail.com,2024-04-16,SILVER ,West
+CUST00129,Customer 129,cust00129@mail.com,2023-08-31,gold,WEST 
+CUST00130,Customer 130,cust00130@mail.com,01/15/2023,gold,east
+CUST00131,CUSTOMER 131,cust00131@mail.com,2023-01-01,,
+CUST00132,Customer 132,cust00132@mail.com,2023-10-28,Gold,East
+CUST00133,Customer 133,cust00133@mail.com,2023-01-10,Platinum,North
+CUST00134,Customer 134,cust00134@mail.com,2023-10-03,Silver,East
+CUST00135,Customer 135,cust00135@mail.com,2024-03-22,,West
+CUST00136,Customer 136,cust00136@mail.com,,SILVER ,West
+CUST00137,Customer 137,cust00137@mail.com,2024-03-18,gold,West
+CUST00138,Customer 138,cust00138@mail.com,2023-08-12,Bronze,WEST 
+CUST00139,Customer 139,cust00139@mail.com,2024-02-12,Gold,East
+CUST00140,Customer 140,cust00140@mail.com,2023-08-01,Bronze,
+CUST00141,CUSTOMER 141,cust00141@mail.com,2023-06-23,SILVER ,WEST 
+CUST00142,Customer 142,cust00142@mail.com,2023-02-08,SILVER ,WEST 
+CUST00143,CUSTOMER 143,cust00143@mail.com,2023/13/01,SILVER ,
+CUST00144,Customer 144,cust00144@mail.com,2024-03-14,Silver,East
+CUST00145,Customer 145,cust00145@mail.com,01/15/2023,Silver,West
+CUST00146,Customer 146,cust00146@mail.com,2024-01-01,SILVER ,South
+CUST00147,Customer 147,cust00147@mail.com,2024-02-26,Gold,North
+CUST00148,Customer 148,cust00148@mail.com,2024-08-23,,east
+CUST00149,Customer 149,cust00149@mail.com,2024-05-11,SILVER ,North
+CUST00150,Customer 150,cust00150@mail.com,2023-03-21,gold,East
+CUST00151,Customer 151,cust00151@mail.com,2023-11-19,Bronze,east
+CUST00152,Customer 152,cust00152@mail.com,2023-05-27,SILVER ,North
+CUST00153,Customer 153,cust00153@mail.com,2023-08-16,Gold,East
+CUST00154,Customer 154,cust00154@mail.com,2024-07-15,,East
+CUST00155,Customer 155,cust00155@mail.com,2023-12-04,,West
+CUST00156,Customer 156,,2023-07-06,Platinum,West
+CUST00157,Customer 157,cust00157@mail.com,2024-06-27,Gold,North
+CUST00158,Customer 158,cust00158@mail.com,2023-06-15,gold,east
+CUST00159,Customer 159,,2024-05-28,Silver,east
+CUST00160,Customer 160,cust00160@mail.com,2023-03-01,,North
+CUST00161,CUSTOMER 161,cust00161@mail.com,2024-01-29,gold,WEST 
+CUST00162,Customer 162,cust00162@mail.com,2024-02-15,gold,east
+CUST00163,Customer 163,cust00163@mail.com,2023-10-05,SILVER ,east
+CUST00164,Customer 164,cust00164@mail.com,2023-10-03,SILVER ,WEST 
+CUST00165,Customer 165,cust00165@mail.com,2024-03-31,Platinum,East
+CUST00166,Customer 166,,2024-03-03,Platinum,East
+CUST00167,Customer 167,cust00167@mail.com,2023-11-23,gold,North
+CUST00168,Customer 168,cust00168@mail.com,2024-06-19,Gold,
+CUST00169,Customer 169,cust00169@mail.com,2023-04-13,Silver,South
+CUST00170,Customer 170,bad@,2024-06-20,,South
+CUST00171,Customer 171,cust00171@mail.com,2023-10-26,Gold,South
+CUST00172,Customer 172,cust00172@mail.com,2023-06-07,Gold,North
+CUST00173,CUSTOMER 173,cust00173@mail.com,2024-04-28,Bronze,
+cust00174,Customer 174,cust00174@mail.com,2024-02-21,Platinum,
+CUST00175,Customer 175,cust00175@mail.com,2024-04-26,gold,East
+CUST00176,Customer 176,cust00176@mail.com,2023-02-16,Gold,North
+CUST00177,Customer 177,cust00177@mail.com,2024-02-26,Bronze,North
+CUST00178,Customer 178,cust00178@mail.com,2024-07-01,,North
+CUST00179,Customer 179,cust00179@mail.com,,gold,east
+CUST00180,Customer 180,cust00180@mail.com,2024-08-12,Silver,North
+CUST00181,Customer 181,cust00181@mail.com,2023-04-23,Platinum,east
+CUST00182,CUSTOMER 182,cust00182@mail.com,2023-02-13,Gold,South
+CUST00183,Customer 183,cust00183@mail.com,2024-06-05,Bronze,South
+CUST00184,Customer 184,cust00184@mail.com,2024-08-09,Bronze,east
+cust00185,Customer 185,cust00185@mail.com,2023-02-16,Platinum,WEST 
+CUST00186,Customer 186,cust00186@mail.com,2023-02-15,Bronze,east
+CUST00187,Customer 187,cust00187@mail.com,2023-12-07,,East
+CUST00188,Customer 188,cust00188@mail.com,01/15/2023,,WEST 
+CUST00189,Customer 189,cust00189@mail.com,2024-03-23,,East
+CUST00190,Customer 190,bad@,2023-10-01,gold,West
+CUST00191,Customer 191,cust00191@mail.com,2023-05-13,Gold,east
+CUST00192,Customer 192,cust00192@mail.com,2023-10-11,Platinum,WEST 
+CUST00193,Customer 193,cust00193@mail.com,2023/13/01,Gold,South
+CUST00194,Customer 194,cust00194@mail.com,2023-06-19,SILVER ,east
+CUST00195,Customer 195,cust00195@mail.com,2024-03-30,Bronze,West
+CUST00196,Customer 196,cust00196@mail.com,2023-03-30,SILVER ,
+CUST00197,Customer 197,cust00197@mail.com,2024-05-27,SILVER ,South
+CUST00198,Customer 198,cust00198@mail.com,2024-07-30,,
+CUST00199,CUSTOMER 199,cust00199@mail.com,2023-06-06,Platinum,West
+CUST00200,Customer 200,cust00200@mail.com,2024-05-29,Bronze,West
+CUST00201,Customer 201,cust00201@mail.com,2024-08-09,gold,
+CUST00202,Customer 202,cust00202@mail.com,2023-10-07,gold,WEST 
+CUST00203,Customer 203,cust00203@mail.com,2024-07-19,Platinum,east
+CUST00204,Customer 204,cust00204@mail.com,2024-03-31,Gold,east
+cust00205,Customer 205,cust00205@mail.com,2024-07-11,gold,South
+CUST00206,Customer 206,cust00206@mail.com,2023-03-09,Bronze,east
+CUST00207,CUSTOMER 207,cust00207@mail.com,2024-01-14,,WEST 
+CUST00208,Customer 208,cust00208@mail.com,2024-07-17,Gold,South
+CUST00209,Customer 209,cust00209@mail.com,2023-06-09,gold,East
+CUST00210,Customer 210,cust00210@mail.com,2023-04-22,gold,east
+CUST00211,CUSTOMER 211,cust00211@mail.com,2023-04-01,SILVER ,West
+CUST00212,Customer 212,cust00212@mail.com,2024-07-06,Platinum,
+CUST00213,Customer 213,cust00213@mail.com,2023-05-18,Bronze,South
+CUST00214,CUSTOMER 214,cust00214@mail.com,2023-02-07,Bronze,West
+CUST00215,Customer 215,cust00215@mail.com,2024-07-22,,West
+CUST00216,Customer 216,cust00216@mail.com,2024-06-07,SILVER ,North
+cust00217,Customer 217,cust00217@mail.com,2023-02-17,Gold,South
+CUST00218,Customer 218,cust00218@mail.com,2024-02-28,SILVER ,West
+CUST00219,Customer 219,cust00219@mail.com,2023-12-29,Bronze,South
+CUST00220,Customer 220,cust00220@mail.com,2023-06-24,gold,West
+CUST00221,Customer 221,cust00221@mail.com,2023-02-13,SILVER ,WEST 
+CUST00222,Customer 222,cust00222@mail.com,2023-04-06,,WEST 
+CUST00223,Customer 223,cust00223@mail.com,2023-10-14,Gold,east
+CUST00224,Customer 224,cust00224@mail.com,2023-03-20,Gold,East
+CUST00225,Customer 225,cust00225@mail.com,2023-06-06,gold,
+CUST00226,CUSTOMER 226,cust00226@mail.com,2024-03-30,gold,
+CUST00227,Customer 227,cust00227@mail.com,2023-03-18,,
+CUST00228,Customer 228,cust00228@mail.com,2023-02-24,Silver,North
+CUST00229,Customer 229,cust00229@mail.com,2024-01-01,Gold,South
+CUST00230,Customer 230,cust00230@mail.com,2023-08-26,Platinum,South
+CUST00231,Customer 231,cust00231@mail.com,2023-03-09,Silver,South
+CUST00232,Customer 232,cust00232@mail.com,2023-08-02,Gold,South
+CUST00233,Customer 233,cust00233@mail.com,2023-06-14,gold,WEST 
+CUST00234,Customer 234,cust00234@mail.com,2024-02-07,SILVER ,WEST 
+CUST00235,CUSTOMER 235,cust00235@mail.com,2023-04-01,Gold,WEST 
+CUST00236,Customer 236,cust00236@mail.com,2023-08-21,Gold,
+CUST00237,Customer 237,cust00237@mail.com,2024-07-17,gold,West
+CUST00238,Customer 238,cust00238@mail.com,2023-01-25,Silver,
+CUST00239,Customer 239,cust00239@mail.com,2023-09-18,gold,WEST 
+CUST00240,Customer 240,cust00240@mail.com,2023-10-18,gold,WEST 
+cust00241,Customer 241,cust00241@mail.com,2023-04-28,Platinum,East
+CUST00242,Customer 242,cust00242@mail.com,2023-03-20,Bronze,east
+CUST00243,CUSTOMER 243,cust00243@mail.com,2023-10-21,Bronze,
+CUST00244,Customer 244,cust00244@mail.com,2024-05-06,Bronze,North
+cust00245,Customer 245,cust00245@mail.com,2024-05-13,Gold,West
+CUST00246,Customer 246,cust00246@mail.com,2023-05-09,Gold,West
+CUST00247,Customer 247,cust00247@mail.com,2023-01-30,Platinum,WEST 
+CUST00248,Customer 248,cust00248@mail.com,2023-01-31,gold,WEST 
+CUST00249,Customer 249,cust00249@mail.com,2023-07-13,Platinum,east
+cust00250,Customer 250,cust00250@mail.com,2024-02-28,Bronze,North
+CUST00251,Customer 251,cust00251@mail.com,2023-10-12,Bronze,
+CUST00252,Customer 252,cust00252@mail.com,2023-08-14,,East
+CUST00253,Customer 253,cust00253@mail.com,2024-03-24,,South
+CUST00254,Customer 254,cust00254@mail.com,2023-01-17,SILVER ,East
+CUST00255,Customer 255,cust00255@mail.com,2023-10-10,Bronze,East
+CUST00256,Customer 256,cust00256@mail.com,2023-12-25,Gold,North
+CUST00257,Customer 257,cust00257@mail.com,2024-01-21,Bronze,West
+CUST00258,Customer 258,cust00258@mail.com,2023-08-12,,North
+CUST00259,Customer 259,cust00259@mail.com,2023-12-09,SILVER ,West
+CUST00260,Customer 260,cust00260@mail.com,2023-09-27,Gold,East
+CUST00261,Customer 261,cust00261@mail.com,2024-07-14,Silver,North
+CUST00262,Customer 262,cust00262@mail.com,2023-08-02,SILVER ,
+CUST00263,Customer 263,cust00263@mail.com,2024-07-16,Silver,east
+CUST00264,Customer 264,bad@,2023-09-04,Bronze,North
+CUST00265,Customer 265,cust00265@mail.com,2023-03-27,Platinum,
+CUST00266,Customer 266,cust00266@mail.com,2023-04-28,SILVER ,east
+CUST00267,Customer 267,cust00267@mail.com,2023-11-21,Silver,East
+CUST00268,Customer 268,cust00268@mail.com,2023-10-20,Platinum,South
+CUST00269,CUSTOMER 269,cust00269@mail.com,2024-06-25,,East
+CUST00270,Customer 270,cust00270@mail.com,2023-09-07,Silver,North
+CUST00271,CUSTOMER 271,,2024-03-19,Platinum,East
+cust00272,Customer 272,,2023-03-21,Bronze,WEST 
+CUST00273,Customer 273,cust00273@mail.com,2024-03-09,Gold,
+CUST00274,CUSTOMER 274,cust00274@mail.com,2023-01-03,Platinum,WEST 
+CUST00275,Customer 275,cust00275@mail.com,2023-03-15,Gold,WEST 
+CUST00276,Customer 276,cust00276@mail.com,2023-02-24,Bronze,east
+CUST00277,Customer 277,cust00277@mail.com,2023-12-10,Bronze,
+CUST00278,Customer 278,cust00278@mail.com,2023-04-08,SILVER ,South
+CUST00279,Customer 279,bad@,2023-03-19,gold,West
+CUST00280,CUSTOMER 280,cust00280@mail.com,2024-02-16,Silver,WEST 
+CUST00281,Customer 281,cust00281@mail.com,2023-05-20,Bronze,West
+CUST00282,Customer 282,cust00282@mail.com,2023-07-08,Bronze,West
+CUST00283,Customer 283,cust00283@mail.com,2023-02-17,Bronze,North
+CUST00284,Customer 284,cust00284@mail.com,2024-08-12,Silver,North
+CUST00285,Customer 285,cust00285@mail.com,2023-04-30,Silver,east
+CUST00286,Customer 286,cust00286@mail.com,2024-02-26,Gold,North
+CUST00287,Customer 287,cust00287@mail.com,2023-11-02,Platinum,West
+CUST00288,Customer 288,cust00288@mail.com,2024-03-15,Silver,WEST 
+CUST00289,Customer 289,cust00289@mail.com,2023-09-11,Platinum,South
+CUST00290,Customer 290,cust00290@mail.com,2023-09-06,,WEST 
+CUST00291,Customer 291,cust00291@mail.com,2023-08-26,SILVER ,North
+CUST00292,Customer 292,cust00292@mail.com,2024-02-18,Gold,East
+CUST00293,Customer 293,cust00293@mail.com,2024-02-04,Gold,
+CUST00294,Customer 294,bad@,2024-03-02,Gold,North
+CUST00295,Customer 295,cust00295@mail.com,2024-08-18,Silver,South
+CUST00296,Customer 296,cust00296@mail.com,2024-02-08,Gold,North
+CUST00297,Customer 297,cust00297@mail.com,2024-02-22,gold,east
+CUST00298,Customer 298,cust00298@mail.com,2023-09-13,Silver,WEST 
+CUST00299,Customer 299,cust00299@mail.com,2023-06-04,Gold,West
+CUST00300,Customer 300,cust00300@mail.com,2024-03-04,gold,West
+,Unknown,,,,
